@@ -1,5 +1,5 @@
 ---
 title: Donate
-menuOrder: 2
+menuOrder: 8
 ---
 Please donate to us!
