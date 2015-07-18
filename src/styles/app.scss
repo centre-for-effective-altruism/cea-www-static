@@ -1,0 +1,16 @@
+// Get our variables
+@import "partials/variables";
+// Import Bootstrap / Bootswatch
+@import "partials/bootstrap";
+// Import site style overrides
+	@import "partials/mixins";
+	// html elements
+	@import "partials/elements";
+	@import "partials/components";
+	@import "partials/utilities";
+	// page components
+	@import "partials/navbar";
+	@import "partials/article";
+	@import "partials/footer";
+	// individual pages
+	@import "partials/home";

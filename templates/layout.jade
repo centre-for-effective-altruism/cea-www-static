@@ -1,0 +1,65 @@
+//-header
+doctype
+html.no-js
+	head
+		meta(charset='utf-8')
+		meta(http-equiv='X-UA-Compatible', content='IE=edge')
+		- var titleTag = (path ==='./' ? siteInfo.title + ' &mdash;' + siteInfo.shortDescription : title + ' &mdash; ' + siteInfo.title)
+		title!= titleTag
+		meta(name='description', content='')
+		meta(name='viewport', content='width=device-width, initial-scale=1')
+		// bower:css
+		// endbower
+		link(rel='stylesheet', href=relative('styles/app.min.css'))
+		block head
+- var bodyClasses = [];
+block vars
+body(class=('#{collections[collection].metadata.singular} #{bodyClasses.join(" ")}'))
+	include nav
+	div.header.container
+		.row
+			block header
+				.col-sm-12
+					h1!= title
+
+	div.content
+		//- Browsehappy
+		<!--[if lt IE 10]>
+		p.browsehappy
+		| You are using an <strong>outdated</strong> browser.
+		| Please <a href="http://browsehappy.com/">upgrade your browser</a>
+		| to improve your experience.
+		<![endif]-->
+		//- End Browsehappy
+		block content
+			div!= contents
+	//-footer
+	footer.footer
+		.container
+			block footer
+			div.colophon
+				p.center
+					| The Centre for Effective Altruism is a registered charity in England and Wales, Registered Charity Number 1149828.
+				p
+					span.right.pull-right
+						| Facebook | Twitter
+					span.left.pull-left
+						| &copy; Centre For Effective Altruism
+
+
+	//- before final </body> tag
+	script(src=relative('scripts/app.min.js'))
+	block scripts
+	//-
+		// script(src='js/plugins.js')
+		// script(src='js/script.js')
+
+	//- Google Analytics: change UA-XXXXX-X to be your site's ID.
+	//-
+		script
+		(function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+		function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+		e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+		e.src='//www.google-analytics.com/analytics.js';
+		r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+		ga('create','UA-XXXXX-X');ga('send','pageview');

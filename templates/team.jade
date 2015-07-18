@@ -1,0 +1,20 @@
+extends page
+
+block header
+	.container
+		h1.page-title!= title
+	
+block content
+	.container
+		div.page-content
+			-var typeTitles = ['Trustees','Staff','International Contactors']
+			each staffType,index in ['trustee','staff','contractor']
+				.row
+					.col-sm-12.team-heading
+						h3
+							!= typeTitles[index]
+				.row
+					each person in collections.people
+							if person.staffType === staffType
+								.col-md-4.col-sm-6
+									include team-member

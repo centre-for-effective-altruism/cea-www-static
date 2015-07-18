@@ -1,0 +1,36 @@
+prose:
+  rooturl: 'src/content'
+  ignore:
+    - "_prose.yml"
+    - ".gitignore"
+    - "README.md"
+    - "bower.json"
+    - "config.json"
+    - "index.js"
+    - "package.json"
+    - "templates"
+    - "src/images"
+    - "src/scripts"
+    - "src/settings"
+    - "src/styles"
+  media: "src/images"
+  metadata:
+    src:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Post Title"
+          value: ""
+          placeholder: "My Amazing Post"
+      - name: "featuredImage"
+        field:
+          element: "text"
+          label: "Featured Image"
+          help: "Paste a link to an image to use as this post's feature image. You can use the link to an image you've uploaded in this editor (e.g. /images/image.jpg) or a URL from the web (e.g. http://example.com/image.jpg)"
+          value: ""
+          placeholder: "(e.g. /images/example.jpg)"
+      - name: "date"
+        field:
+          element: "text"
+          label: "Date"
+          value: "CURRENT_DATETIME"

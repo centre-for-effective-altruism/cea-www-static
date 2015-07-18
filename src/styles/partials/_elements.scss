@@ -1,0 +1,15 @@
+body {
+	padding-top: 76px;
+	margin-bottom: 30px;
+}
+p {
+//	font-size: 20px;
+}
+// don't line-wrap code blocks
+pre {
+    overflow-x: auto;
+}
+pre code {
+    word-wrap: normal;
+    white-space: pre;
+}

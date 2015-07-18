@@ -1,0 +1,9 @@
+@mixin text-content(){
+    @include make-lg-column(8);
+    @include make-lg-column-offset(2);
+}
+
+@mixin cover-background(){
+	background: no-repeat center center; 
+	background-size: cover;
+}

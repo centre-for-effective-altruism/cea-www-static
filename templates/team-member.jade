@@ -1,0 +1,10 @@
+//- Team Member
+			
+-var organisations = {'cea':'Centre for Effective Altruism','gwwc':'Giving What We Can','80k':'80,000 Hours','gpp':'Global Priorities Project','eao':'Effective Altruism Outreach'}
+h4
+	!= person.title
+if person.staffType !== 'trustee'
+	p.position-and-organisation
+		!= person.position + ', ' +  organisations[person.organisation]
+div.description
+	!= person.contents
