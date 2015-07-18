@@ -6,6 +6,8 @@ date: "2015-07-18 17:31 +0100"
 ---
 
 
+<div class="col-md-6">
+
 You can contact our projects individually through their own websites:
 
 - [80,000 Hours](https://80000hours.org)
@@ -15,6 +17,10 @@ You can contact our projects individually through their own websites:
 
 - [The Life You Can Save](http://www.thelifeyoucansave.org/)
 - [Animal Charity Evaluators](http://www.animalcharityevaluators.org/)
+
+</div>
+
+<div class="col-md-6">
 
 You can call our office phone from 10am-5pm on +44 7858 520 063.
 
@@ -26,3 +32,5 @@ Littlegate House
 St Ebbes Street
 Oxford OX1 1PT
 United Kingdom
+
+</div>
