@@ -1,0 +1,43 @@
+extends page
+	
+block content
+	.container
+		.row
+			!= contents
+			.col-md-4.col-sm-12.contact-form-container
+				h3 
+					i.fa.fa-envelope
+					|  Contact Form
+				p Fill in the contact form to send us an email:
+				form(name="contact" action="/thank-you" method="post" netlify)
+					.form-group
+						label(for="name") Name
+						.input-group
+							.input-group-addon
+								i.fa.fa-user
+							input.form-control(type="text" name="name" placeholder="Your Name")
+					.form-group
+						label(for="email") Email address
+						.input-group
+							.input-group-addon
+								i.fa.fa-at
+							input.form-control(type="email" name="name" placeholder="you@example.com")
+					.form-group
+						label(for="subject") Subject
+						.input-group
+							.input-group-addon
+								i.fa.fa-paragraph
+							input.form-control(type="text" name="subject" placeholder="Subject Line")
+					.form-group
+						label(for="message") Message
+						textarea.form-control(name='message' rows='5' placeholder="Your message")
+					button.btn.btn-primary(type="submit")
+						i.fa.fa-paper-plane
+						|  Send!
+
+
+
+block scripts
+	script.
+
+

@@ -2,6 +2,8 @@
 @import "partials/variables";
 // Import Bootstrap / Bootswatch
 @import "partials/bootstrap";
+// Import Font Awesome
+@import "../../bower_components/components-font-awesome/scss/font-awesome.scss";
 // Import site style overrides
 	@import "partials/mixins";
 	// html elements

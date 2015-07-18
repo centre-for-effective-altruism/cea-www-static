@@ -45,12 +45,6 @@ var bowerFiles = require('bower-files')({
 					overrides: {
 						'bootstrap-sass-official': {
 							"main": [
-								"./styles/bootstrap.scss",
-								"assets/fonts/bootstrap/glyphicons-halflings-regular.eot",
-								"assets/fonts/bootstrap/glyphicons-halflings-regular.svg",
-								"assets/fonts/bootstrap/glyphicons-halflings-regular.ttf",
-								"assets/fonts/bootstrap/glyphicons-halflings-regular.woff",
-								"assets/fonts/bootstrap/glyphicons-halflings-regular.woff2",
 								"assets/javascripts/bootstrap/collapse.js",
 								"assets/javascripts/bootstrap/dropdown.js",
 								"assets/javascripts/bootstrap/transition.js",
@@ -58,6 +52,16 @@ var bowerFiles = require('bower-files')({
 						},
 						'bootswatch-sass': {
 							main: './styles/bootstrap.scss',
+						},
+						'components-font-awesome': {
+							"main": [
+								// "scss/font-awesome.scss",
+								"fonts/fontawesome-webfont.eot",
+								"fonts/fontawesome-webfont.woff2",
+								"fonts/fontawesome-webfont.woff",
+								"fonts/fontawesome-webfont.ttf",
+								"fonts/fontawesome-webfont.svg"
+							]
 						},
 						'modernizr': {
 							main: '../bower_componenents/modernizr/modernizr.js'
@@ -162,12 +166,6 @@ colophonemes
 		}
 	}))
 	.use(relative())
-	// .use(function(files,m,done){
-	// 	Object.keys(files).forEach(function (file) {
-	// 		console.log(files[file]);
-	// 	});
-	// 	done();
-	// })
 	// Build HTML files
 	.use(logMessage('Building HTML files'))
 	.use(function (files, metalsmith, done) {
@@ -176,6 +174,7 @@ colophonemes
 			if(file.substring(file.length-3,file.length)=='.md'){
 				md = new Remarkable({
 					html: true,
+					breaks: true,
 					typographer: true,
 					quotes: '“”‘’'
 				});
@@ -275,6 +274,16 @@ colophonemes
 			css: true,
 			wrap_line_length: 60
 		}))		
+		// .use(function(files,m,done){
+		// 	Object.keys(files).forEach(function (file) {
+
+		// 		if(file==='careers/index.html'){
+
+		// 		console.log(files[file]);
+		// 		}
+		// 	});
+		// 	done();
+		// })
 		// .use(logFilesMap)
 		// .use(logMessage('Starting server'))
 		// .use(serve())

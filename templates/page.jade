@@ -3,10 +3,9 @@ extends layout
 block head
 	// PAGE
 
-block header
-	.container
-		h1.page-title!= title
-	
+
 block content
 	.container
-		div.page-content!= contents
+		.row
+			.col-sm-12
+				div.page-content!= contents

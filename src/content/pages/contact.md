@@ -1,12 +1,14 @@
 ---
 title: Contact
+template: contact.jade
 menuOrder: 10
 published: true
 date: "2015-07-18 17:31 +0100"
 ---
 
 
-<div class="col-md-6">
+<div class="col-md-4 col-sm-6">
+<h3><i class="fa fa-globe"></i> CEA Projects</h3>
 
 You can contact our projects individually through their own websites:
 
@@ -20,17 +22,19 @@ You can contact our projects individually through their own websites:
 
 </div>
 
-<div class="col-md-6">
+<div class="col-md-4 col-sm-6">
+<h3><i class="fa fa-phone"></i> Phone</h3>
 
-You can call our office phone from 10am-5pm on +44 7858 520 063.
+**+44&nbsp;7858&nbsp;520&nbsp;063.**
+_Available 10am-5pm, [Oxford time](http://www.timeanddate.com/worldclock/uk/oxford)_
 
-You can write to us at:
+<h3><i class="fa fa-building"></i> Office/Postal address</h3>
 
 **Centre for Effective Altruism**
-Suite 2
-Littlegate House
-St Ebbes Street
+Suite 2, Littlegate House
+16-17 St Ebbes Street
 Oxford OX1 1PT
 United Kingdom
+[(map)](https://www.google.co.uk/maps/place/Centre+for+Effective+Altruism/@51.7499778,-1.2595686,17z/data=!3m1!4b1!4m2!3m1!1s0x4876c6bab7daaaab:0x889618d36fda9094)
 
 </div>

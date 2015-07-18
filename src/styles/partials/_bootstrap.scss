@@ -43,7 +43,7 @@ $link-hover-decoration: underline;
 //
 //## Font, line-height, and color for body text, headings, and more.
 
-$font-size-base:          19px;
+$font-size-base:          16px;
 $font-size-large:         ceil(($font-size-base * 1.25)); // ~18px
 $font-size-small:         ceil(($font-size-base * 0.85)); // ~12px
 
@@ -85,7 +85,6 @@ Bootstrap imports
 // Reset and dependencies
 @import "../../../bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/normalize";
 @import "../../../bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/print";
-@import "../../../bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/glyphicons";
 
 // Core CSS
 @import "../../../bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/scaffolding";

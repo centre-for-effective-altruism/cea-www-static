@@ -1,3 +1,24 @@
 .site-title {
 	text-transform: uppercase;
 }
+
+.banner {
+	height:300px;
+	padding-top:100px;
+	text-align:center;
+	.page-title {
+		color: #FFF;
+	}
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+}
+
+.contact-form-container {
+	background-color: $gray-lighter;
+	padding-bottom: $grid-gutter-width/2;
+	@media(max-width:$container-md){
+		padding-top: $grid-gutter-width /2;
+	}
+}
+

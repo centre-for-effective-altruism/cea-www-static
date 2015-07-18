@@ -16,11 +16,15 @@ html.no-js
 block vars
 body(class=('#{collections[collection].metadata.singular} #{bodyClasses.join(" ")}'))
 	include nav
-	div.header.container
-		.row
-			block header
-				.col-sm-12
-					h1!= title
+	block banner
+		-var bannerBackground = bannerImage || '/images/banners/darker-earth.jpg'
+		.banner(style="background-image:url('"+bannerBackground+"')")
+			div.header
+				block header
+					.container
+						.row
+							.col-sm-12
+								h1.page-title!= title
 
 	div.content
 		//- Browsehappy
@@ -36,14 +40,29 @@ body(class=('#{collections[collection].metadata.singular} #{bodyClasses.join(" "
 	//-footer
 	footer.footer
 		.container
-			block footer
-			div.colophon
-				p.center
-					| The Centre for Effective Altruism is a registered charity in England and Wales, Registered Charity Number 1149828.
-				p
-					span.right.pull-right
-						| Facebook | Twitter
-					span.left.pull-left
+			.row
+				block footer
+			.row
+				.col-sm-12
+					ul.list-inline
+						each page in collections.pages
+							li 
+								a(href=relative(page.path))
+									!= page.title
+						li |
+						li
+							a(href="https://www.facebook.com/CentreforEffectiveAltruism")
+								i.fa.fa-facebook
+								|  Facebook
+						li
+							a(href="https://twitter.com/EAltruist")
+								i.fa.fa-twitter
+								|  Twitter
+			.row
+				.col-sm-12
+					p
+						| The Centre for Effective Altruism is a registered charity in England and Wales, Registered Charity Number 1149828.
+					p
 						| &copy; Centre For Effective Altruism
 
 
