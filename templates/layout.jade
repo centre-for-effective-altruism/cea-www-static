@@ -45,18 +45,19 @@ body(class=('#{collections[collection].metadata.singular} #{bodyClasses.join(" "
 				.col-sm-12
 					ul.list-inline
 						each page in collections.pages
-							li 
-								a(href=relative(page.path))
-									!= page.title
-						li |
-						li
-							a(href="https://www.facebook.com/CentreforEffectiveAltruism")
-								i.fa.fa-facebook
-								|  Facebook
-						li
-							a(href="https://twitter.com/EAltruist")
-								i.fa.fa-twitter
-								|  Twitter
+							if page.topLevelPage
+								li 
+									a(href=relative(page.path))
+										!= page.title
+							li |
+							li
+								a(href="https://www.facebook.com/CentreforEffectiveAltruism")
+									i.fa.fa-facebook
+									|  Facebook
+							li
+								a(href="https://twitter.com/EAltruist")
+									i.fa.fa-twitter
+									|  Twitter
 			.row
 				.col-sm-12
 					p
