@@ -21,14 +21,7 @@ prose:
           element: "text"
           label: "Post Title"
           value: ""
-          placeholder: "My Amazing Post"
-      - name: "bannerImage"
-        field:
-          element: "text"
-          label: "Banner Image"
-          help: "Paste a link to an image to use as this post's banner image. You can use the link to an image you've uploaded in this editor (e.g. /images/image.jpg) or a URL from the web (e.g. http://example.com/image.jpg)"
-          value: ""
-          placeholder: "(e.g. /images/banner/example.jpg)"       
+          placeholder: "My Amazing Post"    
       - name: "menuOrder"
         field:
           element: "text"
