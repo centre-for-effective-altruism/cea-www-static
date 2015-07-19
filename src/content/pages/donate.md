@@ -1,6 +1,7 @@
 ---
 title: Donate
 menuOrder: 8
+bannerImage: "/images/banners/surface-map-clouds.jpg"
 ---
 ## How to donate
 

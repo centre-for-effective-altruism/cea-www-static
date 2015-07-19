@@ -6,6 +6,7 @@ var Metalsmith = require('metalsmith');
 // templating
 console.log('Loading templating...');
 var metadata = require('metalsmith-metadata');
+var filemetadata = require('metalsmith-filemetadata');
 var markdown = require('metalsmith-markdown');
 var templates  = require('metalsmith-templates');
 var copy = require('metalsmith-copy');
@@ -23,7 +24,7 @@ var branch  = require('metalsmith-branch');
 var collections  = require('metalsmith-collections');
 var permalinks  = require('metalsmith-permalinks');
 var relative = require('metalsmith-relative');
-var slug = require('metalsmith-slug');
+var navigation = require('metalsmith-navigation');
 var excerpts = require('metalsmith-excerpts');
 // static file compilation
 console.log('Loading static file compilation...');
@@ -151,7 +152,7 @@ colophonemes
 	}))
 	.use(collections({
 		pages: {
-			pattern: 'content/pages/*.md',
+			pattern: 'content/pages/**/*.md',
 			sortBy: 'menuOrder',
 			metadata: {
 				singular: 'page',
@@ -165,6 +166,16 @@ colophonemes
 			}
 		}
 	}))
+	.use(filemetadata([
+		{
+			pattern:'content/pages/*.md',
+			metadata: { 'topLevelPage' : true }
+		},
+		{
+			pattern:'content/pages/*/*.md',
+			metadata: { 'topLevelPage' : false }
+		}
+	]))
 	.use(relative())
 	// Build HTML files
 	.use(logMessage('Building HTML files'))
@@ -205,6 +216,35 @@ colophonemes
 			})
 		)
 	)
+	.use(
+		branch('content/pages/**/*')
+		.use(function (files,metalsmith,done){
+			Object.keys(files).forEach(function (file) {
+				var parent  = path.dirname(file).replace('content/pages/','');
+				files[file].parent = parent;
+			});
+			done();
+		})
+		.use(
+			permalinks({
+				pattern: ':parent/:title',
+				relative: false				
+			})
+		)
+	)
+	.use(function (files,metalsmith,done){
+		Object.keys(files).forEach(function (file) {
+			var parent = files[file].parent;
+			var parentPath = files[file].parent+'/index.html';
+			if(parent){
+				files[parentPath].children = files[parentPath].children || [];
+				files[parentPath].children.push(files[file]);
+				files[file].bannerImage = files[file].bannerImage || files[parentPath].bannerImage;
+			}
+
+		});
+		done();
+	})
 	.use(excerpts())
 	.use(addTemplate({
 		pages: {
@@ -234,9 +274,6 @@ colophonemes
 		files: ['scripts/bower.js','scripts/user.js'],
 		output: 'scripts/app.min.js'
 	}))
-	// .use(uglify({
-	// 	removeOriginal: true
-	// }))
 	// Build CSS
 	.use(logMessage('Building CSS files'))
 	.use(sass())
@@ -277,14 +314,14 @@ colophonemes
 		// .use(function(files,m,done){
 		// 	Object.keys(files).forEach(function (file) {
 
-		// 		if(file==='careers/index.html'){
+		// 		if(file.search('donate.html')){
 
-		// 		console.log(files[file]);
+		// 			console.log(files[file]);
 		// 		}
 		// 	});
 		// 	done();
 		// })
-		// .use(logFilesMap)
+		.use(logFilesMap)
 		// .use(logMessage('Starting server'))
 		// .use(serve())
 		;

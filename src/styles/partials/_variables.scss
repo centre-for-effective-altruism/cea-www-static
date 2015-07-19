@@ -1,13 +1,8 @@
-// CONTENT TYPES
-$content-types: artist, exhibition, post;
-
 // COLOURS
 
-$site-primary: #9D2D6A;
-$artist-primary: #5D2C83;
-$exhibition-primary: #C24B38;
-$blog-primary: #89B534;
-
+$site-primary: #2c5aa9;
+$site-highlight: #63c6f0;
+$site-lolight: #00355d;
 
 // coefficients
 $darker-factor: 40%;
@@ -20,21 +15,3 @@ $site-light: lighten($site-primary, $light-factor);
 $site-lighter: lighten($site-primary, $lighter-factor);
 $site-dark: darken($site-primary, $dark-factor);
 $site-darker: darken($site-primary, $darker-factor);
-
-// artist colours
-$artist-light: lighten($artist-primary, $light-factor);
-$artist-lighter: lighten($artist-primary, $lighter-factor);
-$artist-dark: darken($artist-primary, $dark-factor);
-$artist-darker: darken($artist-primary, $darker-factor);
-
-// exhibition colours
-$exhibition-light: lighten($exhibition-primary, $light-factor);
-$exhibition-lighter: lighten($exhibition-primary, $lighter-factor);
-$exhibition-dark: darken($exhibition-primary, $dark-factor);
-$exhibition-darker: darken($exhibition-primary, $darker-factor);
-
-// post colours
-$blog-light: lighten($blog-primary, $light-factor);
-$blog-lighter: lighten($blog-primary, $lighter-factor);
-$blog-dark: darken($blog-primary, $dark-factor);
-$blog-darker: darken($blog-primary, $darker-factor);

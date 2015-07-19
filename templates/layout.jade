@@ -8,9 +8,8 @@ html.no-js
 		title!= titleTag
 		meta(name='description', content='')
 		meta(name='viewport', content='width=device-width, initial-scale=1')
-		// bower:css
-		// endbower
 		link(rel='stylesheet', href=relative('styles/app.min.css'))
+		include favicons
 		block head
 - var bodyClasses = [];
 block vars
@@ -18,7 +17,7 @@ body(class=('#{collections[collection].metadata.singular} #{bodyClasses.join(" "
 	include nav
 	block banner
 		-var bannerBackground = bannerImage || '/images/banners/darker-earth.jpg'
-		.banner(style="background-image:url('"+bannerBackground+"')")
+		#banner(style="background-image:url('"+bannerBackground+"')")
 			div.header
 				block header
 					.container

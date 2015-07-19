@@ -10,4 +10,24 @@
 // }
 .navbar {
 	transition: opacity .25s ease-in-out;
+	background-color: $site-lolight;
+}
+.navbar-header {
+	.navbar-brand {
+		padding-top:10px;
+		@media(max-width:$screen-xs-max){
+			// padding-top:5px;
+		}
+	}
+	button {
+		color: #FFF;
+	}
+}
+.navbar-default {
+	.navbar-brand:hover, 
+	.navbar-brand:focus,
+	.navbar-nav>li>a:hover,
+	.navbar-nav>li>a:focus {
+		color: $site-highlight;
+	}
 }

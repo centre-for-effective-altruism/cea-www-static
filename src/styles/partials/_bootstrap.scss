@@ -16,10 +16,7 @@ $gray-light:             #bbb;
 $gray-lighter:           lighten($gray-base, 93.5%); // #eee
 
 $brand-primary:         $site-primary;
-$brand-success:         #4CAF50;
-$brand-info:            #9C27B0;
-$brand-warning:         #ff9800;
-$brand-danger:          #e51c23;
+
 
 
 //== Scaffolding
@@ -32,9 +29,9 @@ $body-bg:               #fff;
 $text-color:            $gray;
 
 //** Global textual link color.
-$link-color:            $brand-primary;
+$link-color:            $site-highlight;
 //** Link hover color set via `darken()` function.
-$link-hover-color:      darken($link-color, 15%);
+$link-hover-color:      $site-primary;
 //** Link hover decoration.
 $link-hover-decoration: underline;
 
