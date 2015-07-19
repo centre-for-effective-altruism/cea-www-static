@@ -70,7 +70,7 @@ prose:
               value: 'gpp'
             - name: 'EA Outreach'
               value: 'eao'
-      - name: "stafftype"
+      - name: "staffType"
         field:
           element: "select"
           label: "Staff Type"

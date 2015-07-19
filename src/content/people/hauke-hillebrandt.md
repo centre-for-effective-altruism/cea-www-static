@@ -3,10 +3,10 @@ published: true
 title: Hauke Hillebrandt
 date: "2015-07-19 18:09 +0100"
 organisation: gwwc
-stafftype: staff
+staffType: staff
 menuOrder: "2"
 position: Director of Research
-featuredImage: "/src/images/hauke-hillebrandt.jpg"
+featuredImage: "/images/hauke-hillebrandt.jpg"
 ---
 
 
