@@ -5,7 +5,7 @@ organisation: 80k
 staffType: staff
 menuOrder: "1"
 date: "2015-07-19 18:35 +0100"
-featuredImage: "/src/images/benjamin-todd.jpg"
+featuredImage: "/images/benjamin-todd.jpg"
 position: Executive Director
 ---
 

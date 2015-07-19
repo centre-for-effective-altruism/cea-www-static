@@ -5,7 +5,7 @@ organisation: gwwc
 staffType: staff
 menuOrder: "3"
 date: "2015-07-19 18:40 +0100"
-featuredImage: "/src/images/andreas-mogensen.jpg"
+featuredImage: "/images/andreas-mogensen.jpg"
 position: Assistant Executive Director
 ---
 

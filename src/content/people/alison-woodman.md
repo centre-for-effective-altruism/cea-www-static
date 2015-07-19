@@ -5,7 +5,7 @@ organisation: gwwc
 staffType: staff
 menuOrder: "2"
 date: "2015-07-19 18:38 +0100"
-featuredImage: "/src/images/alison-woodman.jpg"
+featuredImage: "/images/alison-woodman.jpg"
 position: Director of Community
 ---
 
