@@ -15,7 +15,7 @@ prose:
     - "src/styles"
   media: "src/images"
   metadata:
-    src/pages:
+    src/content/pages:
       - name: "title"
         field:
           element: "text"
@@ -34,7 +34,7 @@ prose:
           element: "text"
           label: "Date"
           value: "CURRENT_DATETIME"
-    src/people:
+    src/content/people:
       - name: "title"
         field:
           element: "text"
