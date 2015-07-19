@@ -22,12 +22,6 @@ prose:
           label: "Post Title"
           value: ""
           placeholder: "My Amazing Post"
-      - name: "published"
-        field:
-          element: "button"
-          label: "Published"
-          on: "true"    
-          off: "false"    
       - name: "menuOrder"
         field:
           element: "text"
@@ -47,12 +41,6 @@ prose:
           label: "Name"
           value: ""
           placeholder: "Firstname Lastname"
-      - name: "published"
-        field:
-          element: "button"
-          label: "Published"
-          on: "true"  
-          off: "false"
       - name: "featuredImage"
         field:
           element: "text"
