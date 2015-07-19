@@ -23,6 +23,7 @@ prose:
           value: ""
           placeholder: "My Amazing Post"
       - name: "published"
+        field:
           element: "button"
           label: "Published"
           on: "true"    
@@ -47,10 +48,11 @@ prose:
           value: ""
           placeholder: "Firstname Lastname"
       - name: "published"
+        field:
           element: "button"
           label: "Published"
-          on: "true"    
-          off: "false" 
+          on: "true"  
+          off: "false"
       - name: "featuredImage"
         field:
           element: "text"
