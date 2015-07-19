@@ -30,3 +30,24 @@
 .bg-alternate {
 	background-color: lighten($site-primary,50%)
 }
+
+
+.team-heading {
+	background-color: $site-lolight;
+	padding-top: 0;
+	margin: $grid-gutter-width 0;
+	padding: $grid-gutter-width;
+	h3 {
+		color: #FFF;
+		margin: 0;
+	}
+}
+.team-member {
+	.name {
+		color: $gray-dark;
+	}	
+	.position-and-organisation {
+		color: $site-highlight;
+		font-size: 14px;
+	}
+}
