@@ -18,3 +18,35 @@ block content
 						if person.staffType === staffType
 							div(class=[(staffType==="trustee"?"col-md-4":"col-md-3"),"col-sm-6","team-member",person.organisation])
 								include team-member
+
+block scripts
+	script.
+		(function($){
+			$(document).ready(function(){
+				var timeOut;
+				$(window).on('resize load', function(){
+					clearTimeout(timeOut);
+					timeOut = setTimeout(resizeTeamMember(),250);
+				});
+				var resizeTeamMember = function(){
+					console.log("called");
+					var largest = 0;
+					$('.team-member').each(function(index){
+						var el = $(this);
+						el.removeAttr('style');
+						if($(window).width() > 767){
+							largest = el.innerHeight() > largest ? el.innerHeight() : largest;
+						} else {
+							largest = 0;
+						}
+
+					})
+					if(largest){
+						$('.team-member').each(function(index){
+							var el = $(this);
+							el.height(largest);
+						});
+					}
+				}
+			});
+		}(jQuery))
