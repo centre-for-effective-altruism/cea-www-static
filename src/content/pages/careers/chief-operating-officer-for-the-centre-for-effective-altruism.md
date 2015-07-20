@@ -28,7 +28,7 @@ Specifically, you would be responsible for:
 * **Legal** – ensuring we comply with employment, company and non-profit legal requirements; contracting and collaborating with legal experts as necessary
 * **Office management**, some aspects of events, and other logistics
 
-![cea-community.jpg]({{site.baseurl}}/images/cea-community.jpg)
+![cea-community.jpg](/images/cea-community.jpg)
 
 ### Why Apply?
 

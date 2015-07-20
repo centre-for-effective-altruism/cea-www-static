@@ -13,7 +13,7 @@ If you would like to register your interest, we would love to hear from you. [Th
 
 If you are only applying for this role, it is sufficient to send us your CV and write 150-300 words on why you would be suitable in response to _“Please explain how your previous experience will help you perform the role(s) you are applying for.”_ As ongoing fundraising progresses, we will launch a second phase of the applications process allowing promising candidates to provide a full application. We will be in touch with all applicants to let them know the state of their application by the end of January 2015.
 
-![rob-wiblin-at-adam-smith-institute.jpg]({{site.baseurl}}/images/rob-wiblin-at-adam-smith-institute.jpg)
+![rob-wiblin-at-adam-smith-institute.jpg](/images/rob-wiblin-at-adam-smith-institute.jpg)
 
 ### What does the Global Priorities Project research?
 
