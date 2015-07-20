@@ -7,6 +7,7 @@ showInNav: false
 ---
 
 
+
 In just five years, Giving What We Can has grown to over 660 members in 25 countries worldwide. The community has pledged over $330m towards ending poverty. We are looking for additional hires to build on this success.
 
 [**Apply to be our Director of Communications**](https://docs.google.com/forms/d/1cv0BikO2MGmnkBWz9-euTFbqHO0Ttbn-iM_KA7i5zII/viewform)
@@ -22,7 +23,7 @@ Specifically, you would be responsible for:
 
 We’re a small team, so you’ll also have the opportunity to be involved in recruitment, fundraising, publishing our findings in the media and whatever else most interests you.
 
-###Why work at Giving What We Can
+### Why work at Giving What We Can
 
 * _Be at the heart of an inspiring community of people who care about others and really put their passion into practice:_ We have members all around the world, all of whom are dedicating a large part of their income to helping people in the developing world as much as they can, and supporting each other in doing so. You would be getting to know these members, answering their questions, providing support to them and helping them to help others.
 * _Work with friendly and intellectual staff:_ You’d be working alongside a talented, interesting and highly motivated team.
@@ -32,13 +33,13 @@ We’re a small team, so you’ll also have the opportunity to be involved in re
 
 ![cea-community.jpg](/images/cea-community.jpg)
 
-###Why apply?
+### Why apply?
 
 This role combines great potential for impact with great potential for growth and learning. Over the past couple of years, Giving What We Can has reached millions of people with its message of committing to donate the most effective charities. By leading our outreach and media, and shaping our message, you can help to move tens of thousands of pounds to the most effective charities. As one of the key team members of a rapidly growing small organisation, you’ll have a huge amount of responsibility, autonomy and room to grow.
 
 If you work for Giving What We Can, you’ll be part of a focused team of intelligent, caring, enthusiastic colleagues who want to change the world, located in the beautiful Oxford.
 
-###Who would it suit?
+### Who would it suit?
 
 We’re looking for someone who cares deeply about alleviating extreme poverty as effectively as possible and is excited to get others on board with that aim.
 
