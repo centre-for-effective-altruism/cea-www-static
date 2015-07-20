@@ -17,7 +17,7 @@ We are a small team, so you’ll also have the opportunity to be involved in rec
 
 [Apply to be our Head of Research](https://docs.google.com/forms/d/1cv0BikO2MGmnkBWz9-euTFbqHO0Ttbn-iM_KA7i5zII/viewform)
 
-![80k-team.jpg]({{site.baseurl}}/src/images/80k-team.jpg)
+![80k-team.jpg](/images/80k-team.jpg)
 
 ### Why apply?
 

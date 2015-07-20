@@ -1,8 +1,6 @@
 ---
 title: Careers
-menuOrder: 
-  - 6
-  - "6"
+menuOrder: 6
 bannerImage: "/images/banners/earth-horizon.jpg"
 published: true
 date: "2015-07-20 13:45 +0100"

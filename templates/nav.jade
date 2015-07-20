@@ -11,7 +11,7 @@ nav.navbar.navbar-default.navbar-fixed-top#main-nav
 		div.collapse.navbar-collapse#main-nav-collapse
 			ul.nav.navbar-nav.navbar-right
 				each page in collections.pages
-					if page.topLevelPage
+					if page.topLevelPage && page.showInNav !== false
 						li(class=[
 									'nav',									// these are nav links
 									(page.path !== './' ? page.path : ''),  	// get the slug from the path if we're not home
@@ -27,8 +27,9 @@ nav.navbar.navbar-default.navbar-fixed-top#main-nav
 											a(href=relative(page.path))!= page.title
 									li.divider(role="separator")
 									each child in page.children
-										li(class=[(path === child.path?'active':'')])
-											a(href=relative(child.path))!= child.title
+										if  child.showInNav !== false
+											li(class=[(path === child.path?'active':'')])
+												a(href=relative(child.path))!= child.title
 							else
 								a(href=relative(page.path))
 									!= page.title

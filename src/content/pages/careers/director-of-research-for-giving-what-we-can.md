@@ -3,11 +3,12 @@ published: false
 title: Director of Research for Giving What We Can
 menuOrder: "5"
 date: "2015-07-20 13:29 +0100"
+showInNav: false
 ---
 
 
 
-![cea-community.jpg]({{site.baseurl}}/src/images/cea-community.jpg)
+![cea-community.jpg](/images/cea-community.jpg)
 
 In just six years, [Giving What We Can](https://www.givingwhatwecan.org/) has grown to over 1100 members in 25 countries worldwide. The community has pledged over $440m towards ending poverty. We are looking for additional hires to build on this success.
 

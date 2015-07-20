@@ -5,7 +5,7 @@ menuOrder: "5"
 date: "2015-07-20 12:32 +0100"
 ---
 
-![cea-community.jpg]({{site.baseurl}}/src/images/cea-community.jpg)
+![cea-community.jpg](/images/cea-community.jpg)
 
 _The broader Centre for Effective Altruism community at our annual weekend away, 2014_
 
@@ -22,7 +22,7 @@ All of the projects within CEA aim to have a big positive impact on the world, m
 > “It’s really exciting to be at the forefront of research on how to do the most good with your career. It’s such an important and neglected area of research, and all our findings are immediately applicable and decision relevant to real people’s lives.” 
 > – **Roman Duda, former intern and current employee**
 
-![rob-and-niel-500w.jpg]({{site.baseurl}}/src/images/rob-and-niel-500w.jpg)
+![rob-and-niel-500w.jpg](/images/rob-and-niel-500w.jpg)
 
 _Robert Wiblin and Niel Bowerman_
 
@@ -40,7 +40,7 @@ Everyone who works for us is talented, dedicated and ambitious, and there’s a 
 > “The best thing about working for CEA is definitely the people. I have never before met such an intelligent, motivated and interesting team with a genuine desire to change the world for the better.”
 > – **Stephanie Crampin, former Giving What We Can employee**
 
-![niel-and-jacob-weekend-away-500w.jpg]({{site.baseurl}}/src/images/niel-and-jacob-weekend-away-500w.jpg)
+![niel-and-jacob-weekend-away-500w.jpg](/images/niel-and-jacob-weekend-away-500w.jpg)
 
 _Niel Bowerman and Jacob Hilton at our Weekend Away in Wales 2014_
 
@@ -61,7 +61,7 @@ Helping you to fulfil your potential to make a huge difference is one of the mos
 > “Everyone really wants to help everyone else on the team, as we all care deeply about enabling each other to reach our highest potential, so that we can all improve the world as much as possible.” 
 > – **Roman Duda**
 
-![rob-ea-summit-500w.jpg]({{site.baseurl}}/src/images/rob-ea-summit-500w.jpg)
+![rob-ea-summit-500w.jpg](/images/rob-ea-summit-500w.jpg)
 
 _Robert Wiblin speaking at the Effective Altruism Summit 2014_
 
@@ -88,6 +88,6 @@ Finally, there’s no better place to try and figure out your own career path. W
 > “I genuinely don’t think there’s a better place in the world to work if you want to figure out what to do with your own career. The time I’ve spent working for 80,000 Hours has been invaluable and made me realise there are so many more exciting possibilities available to me than I originally thought.”
 > – **Jess Whittlestone, former employee**
 
-![outdoor-debate.jpg]({{site.baseurl}}/src/images/outdoor-debate.jpg)
+![outdoor-debate.jpg](/images/outdoor-debate.jpg)
 
 _Debate on ‘What is the best cause?’ at the recent CEA away weekend_

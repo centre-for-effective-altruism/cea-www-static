@@ -3,6 +3,7 @@ published: false
 title: Director of Communications for Giving What We Can
 menuOrder: "5"
 date: "2015-07-20 14:15 +0100"
+showInNav: false
 ---
 
 
@@ -29,7 +30,7 @@ We’re a small team, so you’ll also have the opportunity to be involved in re
 * _Be part of a fast-growing organisation and social movement:_ It’s a hugely exciting place to be, and has opportunities for swiftly increasing responsibility
 * _Help the world:_ Each new member of Giving What We Can saves around 10 lives, meaning that the right person in this job could help prevent over 100 unnecessary deaths each year!
 
-![cea-community.jpg]({{site.baseurl}}/src/images/cea-community.jpg)
+![cea-community.jpg](/images/cea-community.jpg)
 
 ###Why apply?
 
