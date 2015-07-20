@@ -6,6 +6,7 @@ date: "2015-07-20 13:29 +0100"
 ---
 
 
+
 ![cea-community.jpg]({{site.baseurl}}/src/images/cea-community.jpg)
 
 In just six years, [Giving What We Can](https://www.givingwhatwecan.org/) has grown to over 1100 members in 25 countries worldwide. The community has pledged over $440m towards ending poverty. We are looking for additional hires to build on this success.
@@ -50,8 +51,8 @@ Candidates will be selected on the following traits, and should aim to demonstra
 - Social skills and network
 - Robust positive self-motivation
 - Having an effective altruist mindset
-- Altruism
-- Focus on effectiveness
+  - Altruism
+  - Focus on effectiveness
 - Writing and verbal skills
 - Relevant experience and skills.
 
