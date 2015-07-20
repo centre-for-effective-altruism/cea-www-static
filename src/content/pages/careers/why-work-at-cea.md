@@ -7,6 +7,7 @@ showInNav: true
 ---
 
 
+
 ![cea-community.jpg](/images/cea-community.jpg)
 
 _The broader Centre for Effective Altruism community at our annual weekend away, 2014_
@@ -24,9 +25,9 @@ All of the projects within CEA aim to have a big positive impact on the world, m
 > “It’s really exciting to be at the forefront of research on how to do the most good with your career. It’s such an important and neglected area of research, and all our findings are immediately applicable and decision relevant to real people’s lives.” 
 > – **Roman Duda, former intern and current employee**
 
-![rob-and-niel-500w.jpg](/images/rob-and-niel-500w.jpg)
+<p class="center">![rob-and-niel-500w.jpg](/images/rob-and-niel-500w.jpg)
 
-_Robert Wiblin and Niel Bowerman_
+_Robert Wiblin and Niel Bowerman_</p>
 
 ### Do work that’s important, challenging and varied
 
