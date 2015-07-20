@@ -5,24 +5,22 @@ menuOrder: "5"
 date: "2015-07-20 14:15 +0100"
 ---
 
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 In just five years, Giving What We Can has grown to over 660 members in 25 countries worldwide. The community has pledged over $330m towards ending poverty. We are looking for additional hires to build on this success.
 
-Apply to be our Director of Communications
+[**Apply to be our Director of Communications**](https://docs.google.com/forms/d/1cv0BikO2MGmnkBWz9-euTFbqHO0Ttbn-iM_KA7i5zII/viewform)
 
 As Director of Communications you will be raising the profile of evidence-based giving and creating thousands of prospective members for our Director of Community to follow up with.
 
 Specifically, you would be responsible for:
 
-Our mass media and social media presence
-Maintaining and improving the content on our website, and ensuring a clear pathway for people from landing on the website, through to engaging with us and donating to effective charities.
-Organising appealing, professional events to attract interest in cost-effective giving.
-Working closely with the Executive Director to shape the communications strategy and branding of the organisation.
+* Our mass media and social media presence
+* Maintaining and improving the content on our website, and ensuring a clear pathway for people from landing on the website, through to engaging with us and donating to effective charities.
+* Organising appealing, professional events to attract interest in cost-effective giving.
+* Working closely with the Executive Director to shape the communications strategy and branding of the organisation.
+
 We’re a small team, so you’ll also have the opportunity to be involved in recruitment, fundraising, publishing our findings in the media and whatever else most interests you.
 
-Why work at Giving What We Can
+###Why work at Giving What We Can
 
 Be at the heart of an inspiring community of people who care about others and really put their passion into practice:
 We have members all around the world, all of whom are dedicating a large part of their income to helping people in the developing world as much as they can, and supporting each other in doing so. You would be getting to know these members, answering their questions, providing support to them and helping them to help others.
@@ -53,18 +51,19 @@ Some examples of experience that would be especially useful include journalism a
 
 Candidates will be selected on the following traits, and should aim to demonstrate them in their application:
 
-Strong analytical skills
-Social skills and network
-Robust positive self-motivation
-Having an effective altruist mindset
-Altruism
-Focus on effectiveness
-Writing and verbal skills
-Relevant experience and skills.
+* Strong analytical skills
+* Social skills and network
+* Robust positive self-motivation
+* Having an effective altruist mindset
+  * Altruism
+  * Focus on effectiveness
+* Writing and verbal skills
+* Relevant experience and skills.
+
 We would be willing to negotiate a starting salary between £19,000 and £30,000, depending on experience. Salaries are raised by £1,000 each six months conditional on good performance.
 
 Please apply here.
 
-The deadline for submitting applications is now Midnight GMT on Friday 12th December 2014.
+The deadline for submitting applications was Friday 12th December 2014.
 
 See other job openings at the Centre for Effective Altruism.
