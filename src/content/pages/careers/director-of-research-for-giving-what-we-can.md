@@ -8,6 +8,7 @@ showInNav: false
 
 
 
+
 ![cea-community.jpg](/images/cea-community.jpg)
 
 In just six years, [Giving What We Can](https://www.givingwhatwecan.org/) has grown to over 1100 members in 25 countries worldwide. The community has pledged over $440m towards ending poverty. We are looking for additional hires to build on this success.
@@ -24,7 +25,7 @@ Specifically, you would be responsible for:
 
 We are a small team, so you’ll also have the opportunity to be involved in recruitment, fundraising, publishing our findings in the media, and whatever else most interests you.
 
-###Why work at Giving What We Can
+### Why work at Giving What We Can
 
 - _Be at the heart of an inspiring community of people who care about others and really put their passion into practice:_ We have members all around the world, all of whom are dedicating a large part of their income to helping people in the developing world as much as they can, and supporting each other in doing so. You would be getting to know these members, answering their questions, providing support to them and helping them to help others.
 - _Work with friendly and intellectual staff:_ You’d be working alongside a talented, interesting and highly motivated team.
@@ -32,13 +33,13 @@ We are a small team, so you’ll also have the opportunity to be involved in rec
 - _Be part of a fast-growing organisation and social movement:_ It’s a hugely exciting place to be, and has opportunities for swiftly increasing responsibility
 - _Help the world:_ Each new member of Giving What We Can saves around 10 lives, meaning that the right person in this job could help prevent over 100 unnecessary deaths each year!
 
-###Why apply?
+### Why apply?
 
 This role combines great potential for impact with great potential for growth and learning. In determining which charities Giving What We Can recommends, you will be influencing a rapidly expanding pool of donations, already over a million pounds each year, in order to help those in extreme poverty as much as possible. As one of the key team members of a rapidly growing small organisation, you’ll have a huge amount of responsibility, autonomy and room to grow.
 
 If you work for Giving What We Can, you’ll be part of a focused team of intelligent, caring, enthusiastic colleagues who want to change the world, located in the centre of beautiful Oxford.
 
-###Who is suited to this role?
+### Who is suited to this role?
 
 We’re looking for someone who cares deeply about extreme poverty and is fascinated by the question of how we can most quickly eradicate it.
 
