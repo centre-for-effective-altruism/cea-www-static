@@ -13,7 +13,7 @@ block content
 					.col-sm-12.team-heading
 						h3
 							!= typeTitles[index]
-				.row
+				.row(class=[staffType,'team-member-container'])
 					each person,index in collections.people
 						if person.staffType === staffType
 							div(class=[(staffType==="trustee"?"col-md-4":"col-md-3"),"col-sm-6","team-member",person.organisation])
@@ -29,24 +29,26 @@ block scripts
 					timeOut = setTimeout(resizeTeamMember(),250);
 				});
 				var resizeTeamMember = function(){
-					console.log("called");
-					var largest = 0;
-					$('.team-member').each(function(index){
-						var el = $(this);
-						el.removeAttr('style');
-						if($(window).width() > 767){
-							largest = el.innerHeight() > largest ? el.innerHeight() : largest;
-						} else {
-							largest = 0;
-						}
-
-					})
-					if(largest){
-						$('.team-member').each(function(index){
+					$('.team-member-container').each(function(index){
+						var largest = 0;
+						var container = $(this);
+						container.children('.team-member').each(function(index){
 							var el = $(this);
-							el.height(largest);
-						});
-					}
+							el.removeAttr('style');
+							if($(window).width() > 767){
+								largest = el.innerHeight() > largest ? el.innerHeight() : largest;
+							} else {
+								largest = 0;
+							}
+
+						})
+						if(largest){
+							container.children('.team-member').each(function(index){
+								var el = $(this);
+								el.height(largest);
+							});
+						}
+					});
 				}
 			});
 		}(jQuery))
