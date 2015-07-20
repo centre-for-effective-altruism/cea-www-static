@@ -5,6 +5,8 @@ menuOrder: "5"
 date: "2015-07-20 13:29 +0100"
 ---
 
+![cea-community.jpg]({{site.baseurl}}/src/images/cea-community.jpg)
+
 In just six years, [Giving What We Can](https://www.givingwhatwecan.org/) has grown to over 1100 members in 25 countries worldwide. The community has pledged over $440m towards ending poverty. We are looking for additional hires to build on this success.
 
 [**Apply to be our Director of Research**](https://docs.google.com/forms/d/1cv0BikO2MGmnkBWz9-euTFbqHO0Ttbn-iM_KA7i5zII/viewform)
@@ -58,4 +60,4 @@ We would be willing to negotiate a starting salary between £19,000 and £30,000
 
 The deadline for submitting applications was Friday 12th December 2014.
 
-![See other job openings at the Centre for Effective Altruism.](/careers/)
+[See other job openings at the Centre for Effective Altruism.](/careers/)
