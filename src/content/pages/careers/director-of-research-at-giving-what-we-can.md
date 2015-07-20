@@ -58,4 +58,4 @@ We would be willing to negotiate a starting salary between £19,000 and £30,000
 
 The deadline for submitting applications was Friday 12th December 2014.
 
-See other job openings at the Centre for Effective Altruism.
+[See other job openings at the Centre for Effective Altruism.](/pages/careers/)
