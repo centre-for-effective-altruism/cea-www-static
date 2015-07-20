@@ -1,10 +1,14 @@
 ---
 title: Careers
-menuOrder: 6
+menuOrder: 
+  - 6
+  - "6"
 bannerImage: "/images/banners/earth-horizon.jpg"
 published: true
 date: "2015-07-20 13:45 +0100"
+showInNav: true
 ---
+
 
 
 ## Summer internship
@@ -19,11 +23,11 @@ Our previous recruitment round finished 12th December 2014\. You can see the rol
 
 We were offering a $1,000 reward for introductions to anyone we don’t already know who we end up hiring. We will continue to do so in the next recruitment round.
 
-*   [Giving What We Can: Director of Research](/careers/director-of-research-for-giving-what-we-can)
-*   [Giving What We Can: Director of Communications](https://centreforeffectivealtruism.org/job/giving-what-we-can-communications-manager/)
-*   [80,000 Hours: Head of Research](https://centreforeffectivealtruism.org/job/head-of-research-for-80000-hours/)
-*   [Central CEA: Chief Operating Officer](https://centreforeffectivealtruism.org/job/chief-operating-officer-for-the-centre-for-effective-altruism/)
-*   [Global Priorities Project: Research Fellow](https://centreforeffectivealtruism.org/job/the-global-priorities-project-is-seeking-a-research-fellow/) (accepting expressions of interest at this point)
+*   [Giving What We Can: Director of Research](/careers/director-of-research-for-giving-what-we-can/)
+*   [Giving What We Can: Director of Communications](/careers/director-of-communications-for-giving-what-we-can/)
+*   [80,000 Hours: Head of Research](/careers/head-of-research-for-80-000-hours/)
+*   [Central CEA: Chief Operating Officer](/careers/chief-operating-officer-for-the-centre-for-effective-altruism/)
+*   [Global Priorities Project: Research Fellow](/careers/the-global-priorities-project-is-seeking-a-research-fellow/) (accepting expressions of interest at this point)
 *   We are also looking for [‘graduate volunteers’ for Giving What We Can](https://www.givingwhatwecan.org/get-involved/volunteer-or-work-us) in 2015, particularly over the summer
 
 All jobs are based at our offices in the University of Oxford. We can usually rent accommodation in Oxford to new employees. Where possible, we encourage people who are considering working here to visit the office and get to know us in person.
