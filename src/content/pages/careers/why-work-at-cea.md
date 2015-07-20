@@ -1,9 +1,11 @@
 ---
 title: "Why work for the Centre for Effective Altruism?"
 published: true
-menuOrder: "5"
+menuOrder: "0"
 date: "2015-07-20 12:32 +0100"
+showInNav: true
 ---
+
 
 ![cea-community.jpg](/images/cea-community.jpg)
 
