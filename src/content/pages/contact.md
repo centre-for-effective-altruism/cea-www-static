@@ -2,7 +2,7 @@
 title: Contact
 template: contact.jade
 bannerImage: "/images/banners/london-lights.jpg"
-menuOrder: 10
+menuOrder: "10"
 published: true
 date: "2015-07-18 17:31 +0100"
 ---

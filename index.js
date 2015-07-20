@@ -150,6 +150,16 @@ colophonemes
 	.use(metadata({
 		"siteInfo": "settings/site-info.json"
 	}))
+	.use(function (files,metalsmith,done){
+		Object.keys(files).forEach(function (file) {
+			if(files[file].menuOrder){
+				if(typeof files[file].menuOrder === 'string'){
+					files[file].menuOrder = parseInt(files[file].menuOrder);
+				}
+			}
+		});
+		done();
+	})
 	.use(collections({
 		pages: {
 			pattern: 'content/pages/**/*.md',
@@ -238,7 +248,7 @@ colophonemes
 			var parentPath = files[file].parent+'/index.html';
 			if(parent){
 				files[parentPath].children = files[parentPath].children || [];
-				files[parentPath].children.push(files[file]);
+				files[parentPath].children.unshift(files[file]);
 				files[file].bannerImage = files[file].bannerImage || files[parentPath].bannerImage;
 			}
 

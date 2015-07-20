@@ -1,7 +1,7 @@
 ---
 title: Home
 pageTitle: Welcome to the Centre for Effective Altruism
-menuOrder: 0
+menuOrder: "0"
 template: home.jade
 ---
 

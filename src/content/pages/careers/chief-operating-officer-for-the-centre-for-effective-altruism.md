@@ -2,6 +2,7 @@
 published: false
 title: Chief Operating Officer for the Centre for Effective Altruism
 menuOrder: "5"
+showInNav: false
 date: "2015-07-20 14:51 +0100"
 showInNav: false
 ---
