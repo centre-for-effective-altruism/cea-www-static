@@ -2,9 +2,10 @@
 published: false
 title: The Global Priorities Project is seeking a Research Fellow
 menuOrder: "5"
-showInNav: true
+showInNav: false
 date: "2015-07-20 15:07 +0100"
 ---
+
 
 The [Global Priorities Project](http://globalprioritiesproject.org/) is seeking expressions of interest from exceptional candidates to expand the research team. Start dates would likely be in 2015, subject to negotiation and the outcome of ongoing fundraising efforts.
 
