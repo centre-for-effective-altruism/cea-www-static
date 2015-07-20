@@ -3,7 +3,9 @@ published: false
 title: Chief Operating Officer for the Centre for Effective Altruism
 menuOrder: "5"
 date: "2015-07-20 14:51 +0100"
+showInNav: false
 ---
+
 
 We are recruiting a Chief Operating Officer to lead our central division, managing a team that supports the recruitment, finance, logistics, HR and fundraising of all our projects. This role is a unique opportunity to shape a rapidly-growing charity into an incubator that can quickly scale up the best ideas emerging from the nascent effective altruism movement. We see this as one of the most challenging roles in the organisation, requiring a high level of competency across most skill areas. The role is located in Oxford, and you would work in our offices which are housed within the University.
 
