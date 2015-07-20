@@ -1,8 +1,13 @@
 ---
 title: Careers
-menuOrder: 6
+menuOrder: 
+  - 6
+  - "6"
 bannerImage: "/images/banners/earth-horizon.jpg"
+published: true
+date: "2015-07-20 13:45 +0100"
 ---
+
 
 ## Summer internship
 
@@ -16,7 +21,7 @@ Our previous recruitment round finished 12th December 2014\. You can see the rol
 
 We were offering a $1,000 reward for introductions to anyone we don’t already know who we end up hiring. We will continue to do so in the next recruitment round.
 
-*   [Giving What We Can: Director of Research](https://centreforeffectivealtruism.org/job/director-of-research-for-giving-what-we-can/)
+*   [Giving What We Can: Director of Research](/careers/director-of-research-at-giving-what-we-can)
 *   [Giving What We Can: Director of Communications](https://centreforeffectivealtruism.org/job/giving-what-we-can-communications-manager/)
 *   [80,000 Hours: Head of Research](https://centreforeffectivealtruism.org/job/head-of-research-for-80000-hours/)
 *   [Central CEA: Chief Operating Officer](https://centreforeffectivealtruism.org/job/chief-operating-officer-for-the-centre-for-effective-altruism/)
