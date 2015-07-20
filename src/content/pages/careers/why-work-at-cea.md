@@ -1,8 +1,11 @@
 ---
-title: Why work for the Centre for Effective Altruism?
+title: "Why work for the Centre for Effective Altruism?"
+published: true
+menuOrder: "5"
+date: "2015-07-20 12:32 +0100"
 ---
 
-<img src="http://placehold.it/1200x300" class="img-responsive" />
+![cea-community.jpg]({{site.baseurl}}/src/images/cea-community.jpg)
 
 _The broader Centre for Effective Altruism community at our annual weekend away, 2014_
 
