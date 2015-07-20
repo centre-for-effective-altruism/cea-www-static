@@ -3,7 +3,9 @@ published: false
 title: "Head of Research for 80,000 Hours"
 menuOrder: "5"
 date: "2015-07-20 14:30 +0100"
+showInNav: false
 ---
+
 
 As [Head of Research](https://80000hours.org/2014/11/80000-hours-is-seeking-a-head-of-research/), you will become part of [80,000 Hours’](http://80000hours.org/) founding team to lead our research efforts into how to select the most high-impact careers. Our research is what drives the advice we provide via our website and career coaching.
 
