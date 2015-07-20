@@ -10,6 +10,6 @@ h4.name
 	!= person.title
 if person.staffType !== 'trustee'
 	p.position-and-organisation
-		!= person.position + ', ' +  organisations[person.organisation]
+		!= person.position + ',<br>' +  organisations[person.organisation]
 div.description
 	!= person.contents

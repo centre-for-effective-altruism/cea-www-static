@@ -20,9 +20,12 @@ nav.navbar.navbar-default.navbar-fixed-top#main-nav
 									(page.children && page.children.length ? 'dropdown' : '')
 								])
 							if page.children && page.children.length
-								a(href=relative(page.path) class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" role="button" aria-haspopup="true" aria-expanded="false")
+								a(href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" role="button" aria-haspopup="true" aria-expanded="false")
 									!= page.title
 								ul.dropdown-menu
+									li(class=[(path === page.path?'active':'')])
+											a(href=relative(page.path))!= page.title
+									li.divider(role="separator")
 									each child in page.children
 										li(class=[(path === child.path?'active':'')])
 											a(href=relative(child.path))!= child.title

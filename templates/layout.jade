@@ -19,10 +19,10 @@ body(class=('#{collections[collection].metadata.singular} #{bodyClasses.join(" "
 		-var bannerBackground = bannerImage || '/images/banners/darker-earth.jpg'
 		#banner(style="background-image:url('"+bannerBackground+"')")
 			div.header
-				block header
-					.container
-						.row
-							.col-sm-12
+				.container
+					.row
+						.col-sm-12
+							block header
 								h1.page-title!= title
 
 	div.content
