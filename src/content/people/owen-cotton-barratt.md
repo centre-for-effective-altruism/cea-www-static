@@ -3,7 +3,7 @@ published: false
 title: "Owen Cotton-Barratt"
 organisation: gpp
 staffType: staff
-menuOrder: "3"
+menuOrder: "6"
 date: "2015-07-19 18:45 +0100"
 featuredImage: "/images/owen-cotton-barratt.jpg"
 position: Director of Research

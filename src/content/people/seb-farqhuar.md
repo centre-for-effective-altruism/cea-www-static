@@ -3,7 +3,7 @@ title: Seb Farqhuar
 position: Executive Director
 organisation: cea
 staffType: staff
-menuOrder: "1"
+menuOrder: "0"
 published: true
 date: "2015-07-19 18:32 +0100"
 featuredImage: "/images/sebastian-farquhar.jpg"

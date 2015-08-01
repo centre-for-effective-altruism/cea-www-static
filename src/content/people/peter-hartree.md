@@ -1,9 +1,9 @@
 ---
 published: false
 title: Peter Hartree
-organisation: 80k
+organisation: eightythousandhours
 staffType: staff
-menuOrder: "4"
+menuOrder: "6"
 date: "2015-07-19 18:48 +0100"
 featuredImage: "/images/peter-hartree.jpg"
 position: Technical Director

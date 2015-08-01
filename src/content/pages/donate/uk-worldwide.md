@@ -1,29 +1,51 @@
 ---
-title: Donate from the United Kingdom
-menuOrder: 0;
+title: Donate from the United Kingdom / Worldwide
+menuTitle: United Kingdom / Worldwide
+menuOrder: "1"
 template: donate.jade
 ---
 
-If you would like to restrict your donation to one of our projects ([Giving What We Can](https://www.givingwhatwecan.org/), [80,000 Hours](https://80000hours.org), [Global Priorities Project](http://www.globalprioritiesproject.org) or [Effective Altruism Outreach](http://effectivealtruism.org/)), and we don’t already know, please [email us](mailto:development@centreforeffectivealtruism.org).
-
-If you pay tax in the UK, would like to claim GiftAid, and are not using BT MyDonate (our preferred method for donations from UK bank accounts), please also fill out [this form](https://docs.google.com/forms/d/1FsbfnN_YnS9R4OY0WYY_RhNn7UM0EtORs7y0ErJozhc/viewform).
-
 <div id="donation-methods">
+<div class="row">
+<div class="col-xs-12 donation-methods-header">
+
+## How would you like to donate?
+
+</div>
+</div>
+
 
 <div class="row">
 
 <div class="col-sm-4">
 
+<h3><i class="fa fa-credit-card"></i> BT MyDonate <br><small>(debit and credit cards)</small></h3>
+
+**This is our preferred option for UK donors**
+
+BT MyDonate only incurs a £0.15 fee for each donation, and GiftAid is automatically collected for UK donors.
+
+<div class="well center">
+	<p><strong>Click this image to donate with BT MyDonate</strong></p>
+	<a href="https://mydonate.bt.com/donation/donate.html?charity=centreforeffectivealtruism">
+		<img src="https://mydonate.bt.com/images/promotional/buttons/charities/160x125/white/button-1.gif" />
+	</a>
+</div>
+
+</div>
+
+<div class="col-sm-4">
+
 <h3><i class="fa fa-paypal"></i> Paypal</h3>
 
-PayPal charges us 1.4% + £0.20 for £ donations, and 4.9% + £0.20 for other currencies, but permits recurring monthly donations. If you pay tax in the UK and would like to claim GiftAid please fill out [this form](https://docs.google.com/forms/d/1FsbfnN_YnS9R4OY0WYY_RhNn7UM0EtORs7y0ErJozhc/viewform).
+PayPal fees are relatively high (1.4% + £0.20 for donations in British Pounds (£), and 4.9% + £0.20 for other currencies), but it allows you to make recurring monthly donations. If you pay tax in the UK and would like to claim GiftAid please fill out [this form](https://docs.google.com/forms/d/1FsbfnN_YnS9R4OY0WYY_RhNn7UM0EtORs7y0ErJozhc/viewform).
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" class="form well">
 	<input type="hidden" name="cmd" value="_s-xclick">  
 	<div class="form-group">
 		<label for="hosted_button_id">Please choose which organisation you would like to&nbsp;donate&nbsp;to:</label>
 		<select name="hosted_button_id" class="form-control">
-			<option value="XHUH28FV3FKGQ">Centre for Effective Altruism</option>
+			<option value="XHUH28FV3FKGQ">Centre for Effective Altruism (unrestricted donation)</option>
 			<option valule="" disabled>-</option>
 			<option value="LK9FMF8ZFJE84">Giving What We Can</option>
 			<option value="JDHK3NT4Q3LX2">80,000 Hours</option>
@@ -44,21 +66,6 @@ PayPal charges us 1.4% + £0.20 for £ donations, and 4.9% + £0.20 for other cu
 
 <div class="col-sm-4">
 
-<h3><i class="fa fa-credit-card"></i> BT MyDonate <br><small>(debit and credit cards)</small></h3>
-
-Only a £0.15 fee for each donation, and GiftAid is automatically collected for UK donors!
-
-<div class="well center">
-	<p><strong>Click this image to donate with BT MyDonate</strong></p>
-	<a href="https://mydonate.bt.com/donation/donate.html?charity=centreforeffectivealtruism">
-		<img src="https://mydonate.bt.com/images/promotional/buttons/charities/160x125/white/button-1.gif" />
-	</a>
-</div>
-
-</div>
-
-<div class="col-sm-4">
-
 <h3><i class="fa fa-money"></i> Bank Transfer</h3>
 
 Please [email us](mailto:development@centreforeffectivealtruism.org) to arrange a bank transfer from any country. Lower fees make this our preferred way to receive large donations in other currencies, or from outside the UK.
@@ -69,8 +76,10 @@ If you pay tax in the UK and would like to claim GiftAid please also fill out [t
 
 </div>
 
-<div class="col-sm-4">
+</div>
+<div class="row">
 
+<div class="col-sm-4">
 
 <h3><i class="fa fa-bitcoin"></i> Bitcoin</h3>
 
@@ -119,14 +128,6 @@ If you would like to be recognized for your donation or receive a tax receipt pl
 
 <div class="col-sm-4">
 
-<h3><i class="fa fa-globe"></i> Donating from Europe/USA</h3>
-
-Don’t live in the UK? See our pages on giving from [continental Europe](https://centreforeffectivealtruism.org/donations/donate-to-the-centre-for-effective-altruism-and-its-projects-eu/) and the [United States](https://centreforeffectivealtruism.org/donations/donate-to-the-centre-for-effective-altruism-and-its-projects-us/).
-
-</div>
-
-<div class="col-sm-4">
-
 <h3><i class="fa fa-pencil-square-o"></i> Cheque</h3>
 
 Please make cheques payable to the _Centre for Effective Altruism_ and send to:
@@ -141,6 +142,32 @@ If you pay tax in the UK and would like to claim GiftAid, please fill out [this 
 
 </div>
 
+<div class="col-sm-4">
+
+<h3><i class="fa fa-globe"></i> Donating from Europe/USA</h3>
+
+Don’t live in the UK? See our pages on giving from [continental Europe](https://centreforeffectivealtruism.org/donations/donate-to-the-centre-for-effective-altruism-and-its-projects-eu/) and the [United States](/donate/donate-from-the-usa).
+
 </div>
 
+</div>
+
+</div>
+
+<div class="row">
+<div class="col-xs-12">
+
+### GiftAid
+
+If you pay tax in the UK, would like to claim GiftAid, and are not using BT MyDonate (our preferred method for donations from the UK), please also fill out [this form](https://docs.google.com/forms/d/1FsbfnN_YnS9R4OY0WYY_RhNn7UM0EtORs7y0ErJozhc/viewform).
+
+### Tax Deductibility in Australia/Canada
+
+Unfortunately we cannot yet offer tax deductible donations from Canada or Australia. Donors from these countries can give using any of the methods on [this page](https://centreforeffectivealtruism.org/donations/donate-to-the-centre-for-effective-altruism-uk/). Canadians can attempt to [‘swap’ a donation](http://www.effective-altruism.com/ea/cc/help_a_canadian_give_with_a_taxdeduction_by/) with someone giving from the UK.
+
+### Already donated?
+
+If you have already made a donation, you would like to restrict it to one of our projects ([Giving What We Can](https://www.givingwhatwecan.org/), [80,000 Hours](https://80000hours.org), [Global Priorities Project](http://www.globalprioritiesproject.org) or [Effective Altruism Outreach](http://effectivealtruism.org/)), and we don’t already know about it, please email us at **development [at] centreforeffectivealtruism [dot] org**.
+
+</div>
 </div>

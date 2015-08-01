@@ -3,7 +3,7 @@ published: false
 title: Jonathan Courtney
 organisation: gwwc
 staffType: staff
-menuOrder: "4"
+menuOrder: "6"
 date: "2015-07-19 19:14 +0100"
 featuredImage: "/images/jonathan-courtney.jpg"
 position: Director of Outreach

@@ -1,46 +1,29 @@
 ---
 title: Donate
-menuOrder: "8"
+menuOrder: "6"
 bannerImage: "/images/banners/surface-map-clouds.jpg"
 ---
 ## How to donate
 
-We accept donations via debit or credit cards, bank transfers, cheques, Bitcoin and PayPal. If you have specific needs please [get in touch](mailto:development@centreforeffectivealtruism.org) to discuss your situation.
+We accept donations via debit or credit cards, bank transfers, cheques, Bitcoin and PayPal. If you have specific needs please [get in touch](mailto:development@centreforeffectivealtruism.org) to discuss your situation. Click one of the links below for information specific to where you will be making your donation from.
 
-<ul class="list-unstyled">
-	<li>
-		<p>
-			Donating from the UK or Internationally (excluding US/Europe)
-		</p>
-			<a href="/donate/uk/" class="btn btn-primary">
-				<i class="fa fa-gbp"></i>
-				<i class="fa fa-globe"></i>
-				More info
-			</a>
-	</li>
-	<li>
-		<p>
-		Donating from the USA
-		</p>
-		<a href="/donate/us/" class="btn btn-primary">
-			<i class="fa fa-dollar"></i>
-			More info
-		</a>
-	</li>
-	<li>
-		<p>
-		Donating from Europe
-		</p>
-		<a href="/donate/europe/" class="btn btn-primary">
-			<i class="fa fa-euro"></i>
-			More info
-		</a>
-	</li>
-</ul>
-
-## Tax Deductibility in Australia/Canada
-
-Unfortunately we cannot yet offer tax deductible donations from Canada or Australia. Donors from these countries can give using any of the methods on [this page](https://centreforeffectivealtruism.org/donations/donate-to-the-centre-for-effective-altruism-uk/). Canadians can attempt to [‘swap’ a donation](http://www.effective-altruism.com/ea/cc/help_a_canadian_give_with_a_taxdeduction_by/) with someone giving from the UK.
+<div class="row donation-options">
+<div class="col-xs-12">
+<h3 class="centered-heading">Where are you donating from?</h3>
+</div>
+<div class="col-sm-4 donation-option">
+<a href="/donate/donate-from-the-united-kingdom-worldwide/" class="btn btn-primary"><i class="fa fa-gbp"></i> UK / <i class="fa fa-globe"></i> Worldwide</a>
+</div>
+<div class="col-sm-4 donation-option">		
+<a href="/donate/us/" class="btn btn-primary"><i class="fa fa-dollar"></i> USA</a>
+</div>
+<div class="col-sm-4 donation-option">
+<a href="/donate/europe/" class="btn btn-primary"><i class="fa fa-euro"></i> Europe</a>
+</div>
+<div class="col-xs-12">
+<hr style="width: 66%; margin:auto; border-color: #999;">
+</div>
+</div>
 
 ## Where does my donation go?
 

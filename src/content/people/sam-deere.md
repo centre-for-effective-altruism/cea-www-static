@@ -3,7 +3,7 @@ published: false
 title: Sam Deere
 organisation: gwwc
 staffType: staff
-menuOrder: "4"
+menuOrder: "5"
 date: "2015-07-19 19:04 +0100"
 featuredImage: "/images/sam-deere.jpg"
 position: Director of Communications

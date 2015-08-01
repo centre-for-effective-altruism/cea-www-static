@@ -1,9 +1,9 @@
 ---
 published: false
 title: Roman Duda
-organisation: 80k
+organisation: eightythousandhours
 staffType: staff
-menuOrder: "3"
+menuOrder: "5"
 date: "2015-07-19 18:54 +0100"
 featuredImage: "/images/roman-duda.jpg"
 position: Director of Content

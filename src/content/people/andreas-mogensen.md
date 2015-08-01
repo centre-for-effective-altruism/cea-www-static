@@ -3,7 +3,7 @@ published: false
 title: Andreas Mogensen
 organisation: gwwc
 staffType: staff
-menuOrder: "3"
+menuOrder: "6"
 date: "2015-07-19 18:40 +0100"
 featuredImage: "/images/andreas-mogensen.jpg"
 position: Assistant Executive Director

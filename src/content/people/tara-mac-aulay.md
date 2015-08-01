@@ -3,7 +3,7 @@ published: false
 title: Tara Mac Aulay
 organisation: cea
 staffType: staff
-menuOrder: "2"
+menuOrder: "3"
 date: "2015-07-19 18:17 +0100"
 featuredImage: "/images/tara-mac-aulay.jpg"
 position: Chief Operating Officer

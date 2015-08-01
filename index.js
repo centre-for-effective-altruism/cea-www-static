@@ -7,8 +7,6 @@ var Metalsmith = require('metalsmith');
 console.log('Loading templating...');
 var metadata = require('metalsmith-metadata');
 var filemetadata = require('metalsmith-filemetadata');
-var markdown = require('metalsmith-markdown');
-var templates  = require('metalsmith-templates');
 var copy = require('metalsmith-copy');
 var replace = require('metalsmith-replace');
 var metallic = require('metalsmith-metallic');
@@ -17,6 +15,8 @@ var moment = require('moment');
 var strip = require('strip');
 var truncate = require('truncate');
 var typogr = require('metalsmith-typogr');
+var lazysizes = require('metalsmith-lazysizes');
+var templates  = require('metalsmith-templates');
 // metadata and structure
 console.log('Loading metadata...');
 var ignore      = require('metalsmith-ignore');
@@ -127,7 +127,7 @@ var logMessage = function(message){
 }
 
 
-// ENVIRONMENT VARS
+// ENVIRONMENT VARS - default to development
 var ENVIRONMENT = process.env.ENV ? process.env.ENV : 'development';
 
 
@@ -151,11 +151,10 @@ colophonemes
 		"siteInfo": "settings/site-info.json"
 	}))
 	.use(function (files,metalsmith,done){
+		// Prose can only save the menuOrder field as a string, which won't sort properly. This function converts it back to an integer
 		Object.keys(files).forEach(function (file) {
 			if(files[file].menuOrder){
-				if(typeof files[file].menuOrder === 'string'){
-					files[file].menuOrder = parseInt(files[file].menuOrder);
-				}
+				files[file].menuOrder = parseInt(files[file].menuOrder);
 			}
 		});
 		done();
@@ -190,7 +189,9 @@ colophonemes
 	// Build HTML files
 	.use(logMessage('Building HTML files'))
 	.use(function (files, metalsmith, done) {
+		// Use the Remarkable parser to parse our Markdown files into HTML
 		Remarkable = require('remarkable');
+		cheerio = require('cheerio');
 		Object.keys(files).forEach(function (file) {
 			if(file.substring(file.length-3,file.length)=='.md'){
 				md = new Remarkable({
@@ -200,12 +201,19 @@ colophonemes
 					quotes: '“”‘’'
 				});
 				var html = md.render( files[file].contents.toString() );
+
+				// use Cheerio to add img-responsive tags to our HTML
+				$$ = cheerio.load(html);
+				$$('img').addClass('img-responsive');
+				html = $$.html();
+
+				// save back to the main metalsmith array
 				files[file].contents = html;
 				var newFile = file.replace('.md','.html');
 				files[newFile] = files[file];
 				delete files[file];
 			}
-		});			
+		});	
 		done();
 	})
 	.use(
@@ -243,16 +251,19 @@ colophonemes
 		)
 	)
 	.use(function (files,metalsmith,done){
-		Object.keys(files).forEach(function (file) {
-			var parent = files[file].parent;
-			var parentPath = files[file].parent+'/index.html';
+		// add child pages to parent pages
+		var childPages = metalsmith._metadata.collections.pages;
+		for (var i = 0; i < childPages.length; i++) {
+			var parent = childPages[i].parent;
 			if(parent){
+				var file = childPages[i];
+				var parentPath = parent+'/index.html';
 				files[parentPath].children = files[parentPath].children || [];
-				files[parentPath].children.unshift(files[file]);
-				files[file].bannerImage = files[file].bannerImage || files[parentPath].bannerImage;
+				files[parentPath].children.push(childPages[i]);
+				childPages[i].bannerImage = childPages[i].bannerImage || files[parentPath].bannerImage;
 			}
+		};
 
-		});
 		done();
 	})
 	.use(excerpts())
@@ -269,6 +280,14 @@ colophonemes
 		truncate: truncate,
 	}))
 	.use(typogr())
+	.use(lazysizes({
+		pattern: [
+			'images/*.@(jpg|jpeg|png|gif)',
+			'images/!(favicons|logos)/*.@(jpg|jpeg|png|gif)'
+		],
+		sizes: [100,480,768,992,1200],
+		backgrounds: ['#banner']
+	}))
 	// Build Javascript
 	.use(logMessage('Building Javascript files'))
 	.use(concat({
@@ -331,7 +350,7 @@ colophonemes
 		// 	});
 		// 	done();
 		// })
-		.use(logFilesMap)
+		// .use(logFilesMap)
 		// .use(logMessage('Starting server'))
 		// .use(serve())
 		;

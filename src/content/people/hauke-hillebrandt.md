@@ -4,7 +4,7 @@ title: Hauke Hillebrandt
 date: "2015-07-19 18:09 +0100"
 organisation: gwwc
 staffType: staff
-menuOrder: "2"
+menuOrder: "4"
 position: Director of Research
 featuredImage: "/images/hauke-hillebrandt.jpg"
 ---

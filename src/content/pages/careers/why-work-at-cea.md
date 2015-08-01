@@ -1,5 +1,5 @@
 ---
-title: "Why work for the Centre for Effective Altruism?"
+title: "Why work for us?"
 published: true
 menuOrder: "1"
 date: "2015-07-20 12:32 +0100"
@@ -7,10 +7,15 @@ showInNav: true
 ---
 
 
+<div class="center col-md-12">
 
 ![cea-community.jpg](/images/cea-community.jpg)
 
-_The broader Centre for Effective Altruism community at our annual weekend away, 2014_
+_Centre for Effective Altruism staff, volunteers, and community at our annual weekend away, 2014_
+
+</div>
+
+<div class="col-md-12">
 
 ### Help make the world a better place
 
@@ -25,9 +30,17 @@ All of the projects within CEA aim to have a big positive impact on the world, m
 > “It’s really exciting to be at the forefront of research on how to do the most good with your career. It’s such an important and neglected area of research, and all our findings are immediately applicable and decision relevant to real people’s lives.” 
 > – **Roman Duda, former intern and current employee**
 
-<p class="center">![rob-and-niel-500w.jpg](/images/rob-and-niel-500w.jpg)
+</div>
 
-_Robert Wiblin and Niel Bowerman_</p>
+<div class="center col-md-6 col-md-offset-3">
+
+![rob-and-niel-500w.jpg](/images/rob-and-niel-500w.jpg)
+
+_Robert Wiblin and Niel Bowerman_
+
+</div>
+
+<div class="col-md-12">
 
 ### Do work that’s important, challenging and varied
 
@@ -43,9 +56,18 @@ Everyone who works for us is talented, dedicated and ambitious, and there’s a 
 > “The best thing about working for CEA is definitely the people. I have never before met such an intelligent, motivated and interesting team with a genuine desire to change the world for the better.”
 > – **Stephanie Crampin, former Giving What We Can employee**
 
+</div>
+
+<div class="center col-md-6 col-md-offset-3">
+
+
 ![niel-and-jacob-weekend-away-500w.jpg](/images/niel-and-jacob-weekend-away-500w.jpg)
 
 _Niel Bowerman and Jacob Hilton at our Weekend Away in Wales 2014_
+
+</div>
+
+<div class="col-md-12">
 
 ### Meet incredible people
 
@@ -64,9 +86,17 @@ Helping you to fulfil your potential to make a huge difference is one of the mos
 > “Everyone really wants to help everyone else on the team, as we all care deeply about enabling each other to reach our highest potential, so that we can all improve the world as much as possible.” 
 > – **Roman Duda**
 
+</div>
+
+<div class="center col-md-6 col-md-offset-3">
+
 ![rob-ea-summit-500w.jpg](/images/rob-ea-summit-500w.jpg)
 
 _Robert Wiblin speaking at the Effective Altruism Summit 2014_
+
+</div>
+
+<div class="col-md-12">
 
 ### Find exciting future job opportunities
 
@@ -91,6 +121,12 @@ Finally, there’s no better place to try and figure out your own career path. W
 > “I genuinely don’t think there’s a better place in the world to work if you want to figure out what to do with your own career. The time I’ve spent working for 80,000 Hours has been invaluable and made me realise there are so many more exciting possibilities available to me than I originally thought.”
 > – **Jess Whittlestone, former employee**
 
+</div>
+
+<div class="center col-md-12">
+
 ![outdoor-debate.jpg](/images/outdoor-debate.jpg)
 
 _Debate on ‘What is the best cause?’ at the recent CEA away weekend_
+
+</div>

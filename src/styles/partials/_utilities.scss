@@ -28,10 +28,22 @@
 // text alignment
 .left {
 	text-align: left;
+	img {
+		margin-left: 0;
+		margin-right: auto;
+	}
 }
 .right {
 	text-align: right;
+	img {
+		margin-left: auto;
+		margin-right: 0;
+	}
 }
 .center {
 	text-align: center;
+	img {
+		margin-left: auto;
+		margin-right: auto;
+	}
 }

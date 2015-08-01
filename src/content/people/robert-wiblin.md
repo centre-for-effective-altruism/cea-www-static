@@ -1,9 +1,9 @@
 ---
 published: false
 title: Robert Wiblin
-organisation: 80k
+organisation: eightythousandhours
 staffType: staff
-menuOrder: "2"
+menuOrder: "3"
 date: "2015-07-19 18:51 +0100"
 featuredImage: "/images/robert-wiblin.jpg"
 position: Director of Research

@@ -3,7 +3,7 @@ published: false
 title: Tyler Alterman
 organisation: eao
 staffType: contractor
-menuOrder: "0"
+menuOrder: "6"
 date: "2015-07-19 19:09 +0100"
 featuredImage: "/images/tyler-alterman.jpg"
 position: Director of Growth and Strategy

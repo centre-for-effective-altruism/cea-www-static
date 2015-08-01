@@ -1,27 +1,31 @@
 ---
 title: Careers
-menuOrder: 
-  - 6
-  - "6"
+menuOrder: "8"
 bannerImage: "/images/banners/earth-horizon.jpg"
 published: true
 date: "2015-07-20 13:45 +0100"
 showInNav: true
 ---
 
+## Careers at the Centre for Effective Altruism
 
+Do you want to work for a dynamic, forward-looking organisation with some [amazing people](/team)? Do you have a global outlook, and want to make a real difference with your career? Maybe you should consider a career at the Centre for Effective Altruism.
 
-## Summer internship
+Read more about [why we're a fantastic place to work](/careers/why-work-for-the-us/).
 
-We are currently accepting applications for a summer internship position with the Global Priorities Project. Details about this position can be found by following the link below.
+## Current opportunities
 
-*   [Global Priorities Project: Summer Internship](http://globalprioritiesproject.org/2015/04/global-priorities-project-is-looking-for-a-summer-intern/)
+We are not currently advertising for specific positions, however, we are always on the lookout for talented, experienced people to join our team. If you are interested in working with us in the future, please send us a letter of introduction and a CV.
+
+## September recruitment round
+
+We will be advertising for a number of new positions in September 2015. Please check back later, or email **recruitment&nbsp;[at]&nbsp;centreforeffectivealtruism&nbsp;[dot]&nbsp;org** to be notified when we publish position descriptions.
 
 ## Previous recruitment rounds
 
-Our previous recruitment round finished 12th December 2014\. You can see the roles we were taking applications for below. We envisage running another recruitment round around Q3 2015\. Email us at recruitment [at] centreforeffectivealtruism [dot] org if you wish to register your interest for being notified when that recruitment round goes live.
+***Our previous recruitment round finished 12th December 2014. You can see the roles we were taking applications for below to get a sense of some of the positions we offer.***
 
-We were offering a $1,000 reward for introductions to anyone we don’t already know who we end up hiring. We will continue to do so in the next recruitment round.
+We were offering a $1,000 reward for introductions to anyone we don’t already know who we end up hiring. We will do so again in the next recruitment round.
 
 *   [Giving What We Can: Director of Research](/careers/director-of-research-for-giving-what-we-can/)
 *   [Giving What We Can: Director of Communications](/careers/director-of-communications-for-giving-what-we-can/)
@@ -31,18 +35,6 @@ We were offering a $1,000 reward for introductions to anyone we don’t already 
 *   We are also looking for [‘graduate volunteers’ for Giving What We Can](https://www.givingwhatwecan.org/get-involved/volunteer-or-work-us) in 2015, particularly over the summer
 
 All jobs are based at our offices in the University of Oxford. We can usually rent accommodation in Oxford to new employees. Where possible, we encourage people who are considering working here to visit the office and get to know us in person.
-
-## Why is CEA an excellent place to work?
-
-First and foremost, “making the world a better place” is our bottom line and central aim. We work on the projects we do because we think they’re the best way for us to make a contribution.
-
-[But there’s more.](/careers/why-work-with-us)
-
-## Applying from outside the EU
-
-We can often provide visas for interns from outside the EU, and sometimes do the same for prospective employees. As a result, we encourage applications from around the world.
-
-We can usually hire under-30s from Canada, New Zealand and Australia on [Tier 5 visas](https://www.gov.uk/tier-5-youth-mobility/overview).
 
 ## What are we looking for?
 
@@ -73,5 +65,12 @@ Of course this will depend on the role, but good general advice includes trying 
 *   Gain professional experience in established organisations where you will learn a lot, such as working in consulting, government, politics, advocacy, law, think-tanks, movement building, journalism, etc. You can learn more about building up your ‘career capital’ [here](https://80000hours.org/career-guide/).
 *   Get experience promoting effective altruist ideas online, or to people you already know.
 *   Use [80,000 Hours’ research](https://80000hours.org/) to do a detailed analysis of your own future career plans.
+
+## Applying from outside the EU
+
+We can often provide visas for interns from outside the EU, and sometimes do the same for prospective employees. As a result, we encourage applications from around the world.
+
+We can usually hire under-30s from Canada, New Zealand and Australia on [Tier 5 visas](https://www.gov.uk/tier-5-youth-mobility/overview).
+
 
 <p class="center"><a href="/contact" class="btn btn-primary">More questions? Get in touch <i class="fa fa-at"></i> <i class="fa fa-phone"></i> <i class="fa fa-envelope"></i></a></p>

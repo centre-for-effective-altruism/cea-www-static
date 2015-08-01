@@ -1,9 +1,9 @@
 ---
 published: false
 title: Benjamin Todd
-organisation: 80k
+organisation: eightythousandhours
 staffType: staff
-menuOrder: "1"
+menuOrder: "2"
 date: "2015-07-19 18:35 +0100"
 featuredImage: "/images/benjamin-todd.jpg"
 position: Executive Director

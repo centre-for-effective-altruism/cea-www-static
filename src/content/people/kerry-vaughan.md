@@ -3,9 +3,7 @@ title: Kerry Vaughan
 position: Director of Marketing
 organisation: eao
 staffType: contractor
-menuOrder: 
-  - 0
-  - "0"
+menuOrder: "8"
 published: true
 date: "2015-07-20 12:25 +0100"
 featuredImage: "/images/kerry-vaughan.jpg"

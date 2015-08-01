@@ -3,7 +3,7 @@ published: false
 title: Alison Woodman
 organisation: gwwc
 staffType: staff
-menuOrder: "2"
+menuOrder: "6"
 date: "2015-07-19 18:38 +0100"
 featuredImage: "/images/alison-woodman.jpg"
 position: Director of Community

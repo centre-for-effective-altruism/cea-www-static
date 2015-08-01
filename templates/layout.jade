@@ -13,11 +13,14 @@ html.no-js
 		block head
 - var bodyClasses = [];
 block vars
-body(class=('#{collections[collection].metadata.singular} #{bodyClasses.join(" ")}'))
+body(class=[
+				'#{collections[collection].metadata.singular}',
+				(parent ? parent : (path === './' ? 'home' : path))
+	])
 	include nav
 	block banner
 		-var bannerBackground = bannerImage || '/images/banners/darker-earth.jpg'
-		#banner(style="background-image:url('"+bannerBackground+"')")
+		#banner(style="background-image:url("+bannerBackground+")")
 			div.header
 				.container
 					.row
@@ -34,6 +37,12 @@ body(class=('#{collections[collection].metadata.singular} #{bodyClasses.join(" "
 		| to improve your experience.
 		<![endif]-->
 		//- End Browsehappy
+		noscript
+			.container
+				div.alert.alert-warning
+					p 
+						i.fa.fa-warning
+						|  You do not have Javascript enabled. Some elements of this website may not work correctly.
 		block content
 			div!= contents
 	//-footer

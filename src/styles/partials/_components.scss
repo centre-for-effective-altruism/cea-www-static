@@ -3,15 +3,14 @@
 }
 
 #banner {
-	height:300px;
 	margin-bottom: 30px;
 	text-align:center;
 	.page-title {
-		margin-top:100px;
+		margin: 100px auto;
 		color: #FFF;
 	}
 	#site-logo {
-		margin: 75px auto 0;
+		margin: 75px auto 75px;
 	}
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -26,28 +25,37 @@
 	}
 }
 
+img[data-sizes="auto"] { 
+	display: block; 
+	width: 100%; 
+}
+
+.centered-heading {
+	@include centered-heading();
+}
+
 
 .bg-alternate {
 	background-color: lighten($site-primary,50%)
 }
 
 
-.team-heading {
-	background-color: $site-lolight;
-	padding-top: 0;
-	margin: $grid-gutter-width 0;
-	padding: $grid-gutter-width;
-	h3 {
-		color: #FFF;
-		margin: 0;
-	}
+.embed-responsive {
+	width: 100%;
 }
-.team-member {
-	.name {
-		color: $gray-dark;
-	}	
-	.position-and-organisation {
-		color: $site-highlight;
-		font-size: 14px;
+
+
+
+span {
+
+	&.gwwc {
+		color: $gwwc !important;
+	}
+
+	&.eightythousandhours {
+		color: $eightythousandhours !important;
+	}
+	&.gpp {
+		color: $gpp !important;
 	}
 }

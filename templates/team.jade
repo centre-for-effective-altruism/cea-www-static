@@ -14,41 +14,14 @@ block content
 						h3
 							!= typeTitles[index]
 				.row(class=[staffType,'team-member-container'])
+					//- keep count of how many times we've gone through this loop
+					- var c = 1;
 					each person,index in collections.people
 						if person.staffType === staffType
+							if c === 1
+								//- add a new row if we're on the first person in a group of 4
+								.row
 							div(class=[(staffType==="trustee"?"col-md-4":"col-md-3"),"col-sm-6","team-member",person.organisation])
 								include team-member
-
-block scripts
-	script.
-		(function($){
-			$(document).ready(function(){
-				var timeOut;
-				$(window).on('resize load', function(){
-					clearTimeout(timeOut);
-					timeOut = setTimeout(resizeTeamMember(),250);
-				});
-				var resizeTeamMember = function(){
-					$('.team-member-container').each(function(index){
-						var largest = 0;
-						var container = $(this);
-						container.children('.team-member').each(function(index){
-							var el = $(this);
-							el.removeAttr('style');
-							if($(window).width() > 767){
-								largest = el.innerHeight() > largest ? el.innerHeight() : largest;
-							} else {
-								largest = 0;
-							}
-
-						})
-						if(largest){
-							container.children('.team-member').each(function(index){
-								var el = $(this);
-								el.height(largest);
-							});
-						}
-					});
-				}
-			});
-		}(jQuery))
+							//- increment the counter for the first three people, reset when we get to the fourth to add a new row
+							- if(c<4) {c++;} else c = 1;
