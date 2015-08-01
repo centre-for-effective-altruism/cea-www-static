@@ -5,6 +5,8 @@
 #banner {
 	margin-bottom: 30px;
 	text-align:center;
+	background-color: $site-lolight;
+	min-height: 200px;
 	.page-title {
 		margin: 100px auto;
 		color: #FFF;
@@ -28,6 +30,19 @@
 img[data-sizes="auto"] { 
 	display: block; 
 	width: 100%; 
+}
+.lazyload, .lazyloading, .lazyloaded {
+    transition: opacity 300ms;
+}
+.lazyload {
+    opacity: 0;
+}
+.lazyloading {
+    opacity: 0.5;
+}
+.lazyloaded {
+    opacity: 1;
+    transition: opacity 300ms;
 }
 
 .centered-heading {

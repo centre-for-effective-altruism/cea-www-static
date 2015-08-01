@@ -291,17 +291,21 @@ colophonemes
 	// Build Javascript
 	.use(logMessage('Building Javascript files'))
 	.use(concat({
-		files: 'scripts/**/*.js',
+		files: 'scripts/!(lazysizes)/*.js',
 		output: 'scripts/user.js'
 	}))
 	.use(bower)
 	.use(concat({
-		files: 'scripts/**/!(user).js',
+		files: 'scripts/**/!(user|lazysizes).js',
 		output: 'scripts/bower.js'
 	}))
 	.use(concat({
+		files: ['scripts/lazysizes.js'],
+		output: 'scripts/header.js'
+	}))
+	.use(concat({
 		files: ['scripts/bower.js','scripts/user.js'],
-		output: 'scripts/app.min.js'
+		output: 'scripts/app.js'
 	}))
 	// Build CSS
 	.use(logMessage('Building CSS files'))
@@ -328,17 +332,31 @@ colophonemes
 			}
 		}))
 		.use(cleanCSS())
+		.use(uglify({
+			removeOriginal: true
+		}))
+		.use(beautify({
+			html: true,
+			js: false,
+			css: false,
+			wrap_line_length: 80
+		}))	
 		;
 	}
 	// stuff to only do in development
 	if(ENVIRONMENT==='development'){
 		colophonemes
 		.use(logMessage('Beautifying files'))
+		.use(copy({
+			pattern: '**/*.js',
+			extension: '.min.js',
+			move: true
+		}))
 		.use(beautify({
 			html: true,
 			js: false,
 			css: true,
-			wrap_line_length: 60
+			wrap_line_length: 80
 		}))		
 		// .use(function(files,m,done){
 		// 	Object.keys(files).forEach(function (file) {
