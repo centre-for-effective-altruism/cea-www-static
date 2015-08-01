@@ -321,16 +321,16 @@ colophonemes
 	if(ENVIRONMENT==='production'){
 		colophonemes
 		.use(logMessage('Cleaning CSS files'))
-		.use(uncss({
-			basepath: 'styles',
-			css: ['app.min.css'],
-			output: 'app.min.css',
-			removeOriginal: true,
-			uncss: {
-				ignore: ['.collapse.in','.collapsing'],
-				media: ['(min-width: 480px)','(min-width: 768px)','(min-width: 992px)','(min-width: 1200px)']
-			}
-		}))
+		// .use(uncss({
+		// 	basepath: 'styles',
+		// 	css: ['app.min.css'],
+		// 	output: 'app.min.css',
+		// 	removeOriginal: true,
+		// 	uncss: {
+		// 		ignore: ['.collapse.in','.collapsing'],
+		// 		media: ['(min-width: 480px)','(min-width: 768px)','(min-width: 992px)','(min-width: 1200px)']
+		// 	}
+		// }))
 		.use(cleanCSS())
 		.use(uglify({
 			removeOriginal: true
