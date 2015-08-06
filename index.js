@@ -137,6 +137,7 @@ var colophonemes = new Metalsmith(__dirname);
 
 colophonemes
 	.use(logMessage('ENVIRONMENT: ' + ENVIRONMENT))
+	.use(logMessage('NODE VERSION: ' + process.version))
 	.source('./src')
 	.destination('./dest')
 	.use(debug())
