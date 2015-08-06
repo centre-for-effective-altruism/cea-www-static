@@ -312,10 +312,16 @@ colophonemes
 	.use(logMessage('Building CSS files'))
 	.use(sass())
 	.use(autoprefixer())
-	.use(concat({
-		files: 'styles/**/*.css',
-		output: 'styles/app.min.css'
-	}))	
+	// .use(concat({
+	// 	files: 'styles/**/*.css',
+	// 	output: 'styles/app.min.css'
+	// }))
+	.use(beautify({
+			html: false,
+			js: false,
+			css: true,
+			wrap_line_length: 130
+		}))
 	;
 
 	// stuff to only do in production
@@ -324,7 +330,7 @@ colophonemes
 		.use(logMessage('Cleaning CSS files'))
 		.use(uncss({
 			basepath: 'styles',
-			css: ['app.min.css'],
+			css: ['app.css'],
 			output: 'app.min.css',
 			removeOriginal: true,
 			uncss: {
@@ -332,7 +338,7 @@ colophonemes
 				media: ['(min-width: 480px)','(min-width: 768px)','(min-width: 992px)','(min-width: 1200px)']
 			}
 		}))
-		.use(cleanCSS())
+		// .use(cleanCSS())
 		.use(uglify({
 			removeOriginal: true
 		}))
