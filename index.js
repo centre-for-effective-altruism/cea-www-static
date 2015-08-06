@@ -1,3 +1,4 @@
+// Metalsmith 2 uses generators, so this ensures we're running node/V8 with the '--harmony' flag 
 // Start the build!
 console.log('Initialising new build...');
 console.log('Loading Metalsmith...');
@@ -14,9 +15,9 @@ var beautify  = require('metalsmith-beautify');
 var moment = require('moment');
 var strip = require('strip');
 var truncate = require('truncate');
+var templates  = require('metalsmith-templates');
 var typogr = require('metalsmith-typogr');
 var lazysizes = require('metalsmith-lazysizes');
-var templates  = require('metalsmith-templates');
 // metadata and structure
 console.log('Loading metadata...');
 var ignore      = require('metalsmith-ignore');
@@ -114,6 +115,7 @@ var addTemplate = function(config) {
 // LOG FILES
 var logFilesMap = function(files, metalsmith, done) {
 	Object.keys(files).forEach(function (file) {
+		if(file.search('css'))
 		console.log(">> ", file);
 	});
 	done();
@@ -194,26 +196,25 @@ colophonemes
 		Remarkable = require('remarkable');
 		cheerio = require('cheerio');
 		Object.keys(files).forEach(function (file) {
-			if(file.substring(file.length-3,file.length)=='.md'){
-				md = new Remarkable({
-					html: true,
-					breaks: true,
-					typographer: true,
-					quotes: '“”‘’'
-				});
-				var html = md.render( files[file].contents.toString() );
-
-				// use Cheerio to add img-responsive tags to our HTML
-				$$ = cheerio.load(html);
-				$$('img').addClass('img-responsive');
-				html = $$.html();
-
-				// save back to the main metalsmith array
-				files[file].contents = html;
-				var newFile = file.replace('.md','.html');
-				files[newFile] = files[file];
-				delete files[file];
-			}
+			// look for markdown files
+			if(file.substring(file.length-3,file.length)!=='.md') return false;
+			// use remarkable to render MD
+			md = new Remarkable({
+				html: true,
+				breaks: true,
+				typographer: true,
+				quotes: '“”‘’'
+			});
+			var html = md.render( files[file].contents.toString() );
+			// use Cheerio to add img-responsive tags to our HTML
+			$$ = cheerio.load(html);
+			$$('img').addClass('img-responsive');
+			html = $$.html();
+			// save back to the main metalsmith array
+			files[file].contents = html;
+			var newFile = file.replace('.md','.html');
+			files[newFile] = files[file];
+			delete files[file];
 		});	
 		done();
 	})
@@ -278,8 +279,19 @@ colophonemes
 		engine:'jade',
 		moment: moment,
 		strip: strip,
-		truncate: truncate,
+		truncate: truncate
 	}))
+	.use(function(files, metalsmith,done){
+		// remove partial content from build chain
+		var patterns = ['people','organisations'];
+		var pattern = 'content/@('+patterns.join('|')+')/**';
+		Object.keys(files).forEach(function(file){
+			if(minimatch(file,pattern)){
+				delete files[file];
+			}
+		})
+		done();
+	})
 	.use(typogr())
 	.use(lazysizes({
 		pattern: [
@@ -312,22 +324,16 @@ colophonemes
 	.use(logMessage('Building CSS files'))
 	.use(sass())
 	.use(autoprefixer())
-	// .use(concat({
-	// 	files: 'styles/**/*.css',
-	// 	output: 'styles/app.min.css'
-	// }))
-	.use(beautify({
-			html: false,
-			js: false,
-			css: true,
-			wrap_line_length: 130
-		}))
-	;
-
 	// stuff to only do in production
 	if(ENVIRONMENT==='production'){
 		colophonemes
 		.use(logMessage('Cleaning CSS files'))
+		.use(beautify({
+			html: true,
+			js: false,
+			css: true,
+			wrap_line_length: 50
+		}))	
 		.use(uncss({
 			basepath: 'styles',
 			css: ['app.css'],
@@ -338,46 +344,39 @@ colophonemes
 				media: ['(min-width: 480px)','(min-width: 768px)','(min-width: 992px)','(min-width: 1200px)']
 			}
 		}))
-		// .use(cleanCSS())
+		.use(cleanCSS({
+			cleanCSS : {
+				keepBreaks: true,
+				keepSpecialComments: false,
+			}
+		}))
 		.use(uglify({
 			removeOriginal: true
 		}))
-		.use(beautify({
-			html: true,
-			js: false,
-			css: false,
-			wrap_line_length: 80
-		}))	
 		;
 	}
 	// stuff to only do in development
 	if(ENVIRONMENT==='development'){
 		colophonemes
 		.use(logMessage('Beautifying files'))
+		// add '.min' to our asset filenames to match the HTML source
 		.use(copy({
 			pattern: '**/*.js',
 			extension: '.min.js',
 			move: true
 		}))
+		.use(copy({
+			pattern: '**/*.css',
+			extension: '.min.css',
+			move: true
+		}))
+		// make the source code look nice
 		.use(beautify({
 			html: true,
 			js: false,
-			css: true,
+			css: false,
 			wrap_line_length: 80
 		}))		
-		// .use(function(files,m,done){
-		// 	Object.keys(files).forEach(function (file) {
-
-		// 		if(file.search('donate.html')){
-
-		// 			console.log(files[file]);
-		// 		}
-		// 	});
-		// 	done();
-		// })
-		// .use(logFilesMap)
-		// .use(logMessage('Starting server'))
-		// .use(serve())
 		;
 	}
 

@@ -15,13 +15,13 @@ We accept donations via debit or credit cards, bank transfers, cheques, Bitcoin 
 <a href="/donate/donate-from-the-united-kingdom-worldwide/" class="btn btn-primary"><i class="fa fa-gbp"></i> UK / <i class="fa fa-globe"></i> Worldwide</a>
 </div>
 <div class="col-sm-4 donation-option">		
-<a href="/donate/us/" class="btn btn-primary"><i class="fa fa-dollar"></i> USA</a>
+<a href="/donate/donate-from-the-usa/" class="btn btn-primary"><i class="fa fa-dollar"></i> USA</a>
 </div>
 <div class="col-sm-4 donation-option">
-<a href="/donate/europe/" class="btn btn-primary"><i class="fa fa-euro"></i> Europe</a>
+<a href="/donate/donate-from-europe" class="btn btn-primary"><i class="fa fa-euro"></i> Europe</a>
 </div>
 <div class="col-xs-12">
-<hr style="width: 66%; margin:auto; border-color: #999;">
+<hr style="width: 66%; margin:auto; border-color: #666;">
 </div>
 </div>
 

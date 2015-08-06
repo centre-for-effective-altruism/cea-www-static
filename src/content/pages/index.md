@@ -1,8 +1,8 @@
 ---
 title: Home
+template: home.jade
 pageTitle: Welcome to the Centre for Effective Altruism
 menuOrder: "0"
-template: home.jade
 ---
 
 <div class="well row center">

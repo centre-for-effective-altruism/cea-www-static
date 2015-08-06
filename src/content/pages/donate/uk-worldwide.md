@@ -27,7 +27,7 @@ BT MyDonate only incurs a £0.15 fee for each donation, and GiftAid is automatic
 
 <div class="well center">
 	<p><strong>Click this image to donate with BT MyDonate</strong></p>
-	<a href="https://mydonate.bt.com/donation/donate.html?charity=centreforeffectivealtruism">
+	<a href="https://mydonate.bt.com/donation/donate.html?charity=centreforeffectivealtruism" target="_blank">
 		<img src="https://mydonate.bt.com/images/promotional/buttons/charities/160x125/white/button-1.gif" />
 	</a>
 </div>
@@ -87,7 +87,7 @@ We use BitPay to process Bitcoin transactions.
 
 If you would like to be recognized for your donation or receive a tax receipt please [email us](mailto:development@centreforeffectivealtruism.org).
 
-<form id="makeDonation" style="width: 100%; margin: auto; text-align: left;" action="https://bitpay.com/checkout" method="post">
+<form id="makeDonation" target="_blank" style="width: 100%; margin: auto; text-align: left;" action="https://bitpay.com/checkout" method="post">
 	<input name="action" type="hidden" value="checkout">  
 	<div class="form-group">
 		<label for="orderID">Email:</label>
@@ -97,7 +97,7 @@ If you would like to be recognized for your donation or receive a tax receipt pl
 		<label for="price">Amount:</label>
 		<div class="input-group">
 			<div class="input-group-addon" id="bitcoin-currency-display">USD</div>
-			<input class="noscroll form-control" type="text" value="10.00" placeholder="Amount">
+			<input class="noscroll form-control" name="price" type="text" value="10.00" placeholder="Amount">
 		</div>
 	</div>
 	<div class="form-group">

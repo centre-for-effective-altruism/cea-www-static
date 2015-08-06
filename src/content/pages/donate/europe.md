@@ -21,7 +21,7 @@ template: donate.jade
 
 <h3><i class="fa fa-eur"></i> Donating from continental Europe?</h3>
 
-Don’t live in the UK? If you live in Europe, you can probably still make your donation tax-deductible with [Transnational Giving Europe](http://www.transnationalgiving.eu/). Please email us at **development [at] centreforeffectivealtruism [dot] org** and we will chase up [your country’s details](http://www.transnationalgiving.eu/tge/details.aspx?id=219942&LangType=1033) for you.
+Don’t live in the UK? If you live in Europe, our partners at [Transnational Giving Europe](http://www.transnationalgiving.eu/) can organise tax deductible donations from anywhere in the EU. Please email us at **development [at] centreforeffectivealtruism [dot] org** and we will chase up [your country’s details](http://www.transnationalgiving.eu/tge/details.aspx?id=219942&LangType=1033) for you.
 
 </div>
 
