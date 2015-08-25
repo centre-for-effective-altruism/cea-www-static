@@ -37,6 +37,6 @@ If you don't pay tax in Europe, or you don't need your donation to be tax-deduct
 
 ---
 
-## Already donated?
+### Want to restrict your donation?
 
-If you have already made a donation, you would like to restrict it to one of our projects ([Giving What We Can](https://www.givingwhatwecan.org/), [80,000 Hours](https://80000hours.org), [Global Priorities Project](http://www.globalprioritiesproject.org) or [Effective Altruism Outreach](http://effectivealtruism.org/)), and we don’t already know about it, please email us at **development [at] centreforeffectivealtruism [dot] org**.
+If you have made a donation, you would like to restrict it to one of our projects ([Giving What We Can](https://www.givingwhatwecan.org/), [80,000 Hours](https://80000hours.org), [Global Priorities Project](http://www.globalprioritiesproject.org) or [Effective Altruism Outreach](http://effectivealtruism.org/)), and we don’t already know about it, please email us at **development [at] centreforeffectivealtruism [dot] org**.

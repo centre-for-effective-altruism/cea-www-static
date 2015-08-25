@@ -17,3 +17,9 @@ input[type=number]::-webkit-outer-spin-button {
   -webkit-appearance: none; 
   margin: 0; 
 }
+hr {
+	width: 66%;
+	margin-left: auto;
+	margin-right: auto;
+	border-top: 1px solid #bbb;
+}

@@ -146,7 +146,7 @@ If you pay tax in the UK and would like to claim GiftAid, please fill out [this 
 
 <h3><i class="fa fa-globe"></i> Donating from Europe/USA</h3>
 
-Don’t live in the UK? See our pages on giving from [continental Europe](https://centreforeffectivealtruism.org/donations/donate-to-the-centre-for-effective-altruism-and-its-projects-eu/) and the [United States](/donate/donate-from-the-usa).
+Don’t live in the UK? See our pages on giving from [continental Europe](/donate/donate-from-europe) and the [United States](/donate/donate-from-the-usa).
 
 </div>
 
@@ -163,7 +163,7 @@ If you pay tax in the UK, would like to claim GiftAid, and are not using BT MyDo
 
 ### Tax Deductibility in Australia/Canada
 
-Unfortunately we cannot yet offer tax deductible donations from Canada or Australia. Donors from these countries can give using any of the methods on [this page](https://centreforeffectivealtruism.org/donations/donate-to-the-centre-for-effective-altruism-uk/). Canadians can attempt to [‘swap’ a donation](http://www.effective-altruism.com/ea/cc/help_a_canadian_give_with_a_taxdeduction_by/) with someone giving from the UK.
+Unfortunately we cannot yet offer tax deductible donations from Canada or Australia. Donors from these countries can give using any of the methods on [this page](/donate/donate-from-the-united-kingdom-worldwide). Canadians can attempt to [‘swap’ a donation](http://www.effective-altruism.com/ea/cc/help_a_canadian_give_with_a_taxdeduction_by/) with someone giving from the UK.
 
 ### Already donated?
 
