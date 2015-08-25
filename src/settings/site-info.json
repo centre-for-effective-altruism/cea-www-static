@@ -1,6 +1,8 @@
 {
 	"title" : "Centre for Effective Altruism",
+	"url" : "https://centreforeffectivealtruism.org",
 	"description": "An organisation using evidence and analysis to help others as much as possible. At the forefront of the effective altruism movement.",
 	"keywords": "effective altruism, effective charity, effective giving, efficient giving, evidence-based charity",
-	"shortDescription": "Combining Empathy with Evidence"
+	"shortDescription": "Combining Empathy with Evidence",
+	"defaultOGImage" : "/images/og-image-default.jpg"
 }

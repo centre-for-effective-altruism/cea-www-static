@@ -1,4 +1,3 @@
-//-header
 doctype
 html.no-js
 	head
@@ -6,11 +5,25 @@ html.no-js
 		meta(http-equiv='X-UA-Compatible', content='IE=edge')
 		- var titleTag = (path ==='./' ? siteInfo.title + ' &mdash;' + siteInfo.shortDescription : title + ' &mdash; ' + siteInfo.title)
 		title!= titleTag
+		//- Meta tags
 		meta(name='description', content='')
 		meta(name='viewport', content='width=device-width, initial-scale=1')
+		//- OG Tags
+		- var pageURL = siteInfo.url + path
+		- var pageDescription = pageDescription || siteInfo.description
+		- var ogImage = ogImage || siteInfo.defaultOGImage
+		meta(property='og:url', content=pageURL)
+		meta(property='og:type', content='website')
+		meta(property='og:title', content=titleTag)
+		meta(property='og:description', content=pageDescription)
+		meta(property='og:image', content=ogImage)
+		//- Stylesheet
 		link(rel='stylesheet', href=relative('styles/app.min.css'))
+		//- favicons
 		include favicons
+		//- header script for anything that needs to run ASAP
 		script(src=relative('scripts/header.min.js'))
+		//- block for additional header details
 		block head
 - var bodyClasses = [];
 block vars
