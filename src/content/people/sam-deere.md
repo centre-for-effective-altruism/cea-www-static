@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Sam Deere
 organisation: gwwc
 staffType: staff

@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Benjamin Todd
 organisation: eightythousandhours
 staffType: staff

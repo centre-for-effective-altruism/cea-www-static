@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Alison Woodman
 organisation: gwwc
 staffType: staff

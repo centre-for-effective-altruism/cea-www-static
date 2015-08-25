@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Jonathan Courtney
 organisation: gwwc
 staffType: staff

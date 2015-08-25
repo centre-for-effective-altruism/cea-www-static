@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Michelle Hutchinson
 organisation: gwwc
 staffType: staff

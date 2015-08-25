@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Robert Wiblin
 organisation: eightythousandhours
 staffType: staff

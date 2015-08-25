@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Tyler Alterman
 organisation: eao
 staffType: contractor

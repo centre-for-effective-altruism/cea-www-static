@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Tara Mac Aulay
 organisation: cea
 staffType: staff

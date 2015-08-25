@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Peter Hartree
 organisation: eightythousandhours
 staffType: staff

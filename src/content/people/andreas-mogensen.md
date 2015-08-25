@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Andreas Mogensen
 organisation: gwwc
 staffType: staff
