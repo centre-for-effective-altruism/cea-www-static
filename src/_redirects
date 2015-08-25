@@ -1,0 +1,8 @@
+/contact-us		/contact 
+/donations		/donate
+/donations/donate-to-the-centre-for-effective-altruism-uk						/donate/donate-from-the-united-kingdom-worldwide
+/donations/donate-to-the-centre-for-effective-altruism-and-its-projects-us		/donate/donate-from-the-usa
+/donations/donate-to-the-centre-for-effective-altruism-and-its-projects-eu		/donate/donate-from-europe
+/careers/graduate-volunteer-scheme	/careers
+/job/*	/careers
+/homepage/special-projects /

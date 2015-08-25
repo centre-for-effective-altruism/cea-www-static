@@ -162,6 +162,15 @@ colophonemes
 		});
 		done();
 	})
+	.use(function (files,metalsmith,done){
+		// Get rid of any files that should be 'unpublished'
+		Object.keys(files).forEach(function (file) {
+			if(files[file].published === false){
+				delete files[file];
+			}
+		});
+		done();
+	})
 	.use(collections({
 		pages: {
 			pattern: 'content/pages/**/*.md',
