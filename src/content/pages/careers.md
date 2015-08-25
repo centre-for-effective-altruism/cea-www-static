@@ -15,7 +15,7 @@ Read more about [why we're a fantastic place to work](/careers/why-work-for-the-
 
 ## Current opportunities
 
-We are not currently advertising for specific positions, however, we are always on the lookout for talented, experienced people to join our team. If you are interested in working with us in the future, please send us a letter of introduction and a CV.
+We are not currently advertising for specific positions, however, we are always on the lookout for talented, experienced people to join our team. If you are interested in working with us in the future, please send a letter of introduction and a CV to **recruitment&nbsp;[at]&nbsp;centreforeffectivealtruism&nbsp;[dot]&nbsp;org** for our consideration.
 
 ## September recruitment round
 
