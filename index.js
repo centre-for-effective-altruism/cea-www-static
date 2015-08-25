@@ -269,6 +269,15 @@ colophonemes
 		done();
 	})
 	.use(excerpts())
+	.use(function(files,metalsmith,done){
+		// strip HTML tags out of excerpts
+		Object.keys(files).forEach(function(file){
+			if(files[file].excerpt){
+				files[file].excerpt = files[file].excerpt.replace(/(<([^>]+)>)/ig,"");
+			}
+		});
+		done();
+	})
 	.use(addTemplate({
 		pages: {
 			collection: 'pages',

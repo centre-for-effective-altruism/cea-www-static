@@ -2,6 +2,7 @@
 title: Donate
 menuOrder: "6"
 bannerImage: "/images/banners/surface-map-clouds.jpg"
+description: "Donations to the Centre for Effective Altruism are split among our existing and new projects depending on where they will do the most good."
 ---
 ## How to donate
 

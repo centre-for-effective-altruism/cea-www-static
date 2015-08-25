@@ -3,14 +3,14 @@ html.no-js
 	head
 		meta(charset='utf-8')
 		meta(http-equiv='X-UA-Compatible', content='IE=edge')
-		- var titleTag = (path ==='./' ? siteInfo.title + ' &mdash;' + siteInfo.shortDescription : title + ' &mdash; ' + siteInfo.title)
+		- var titleTag = (path ==='./' ? siteInfo.title + ' — ' + siteInfo.shortDescription : title + ' — ' + siteInfo.title)
 		title!= titleTag
 		//- Meta tags
 		meta(name='description', content='')
 		meta(name='viewport', content='width=device-width, initial-scale=1')
 		//- OG Tags
 		- var pageURL = siteInfo.url + path
-		- var pageDescription = pageDescription || siteInfo.description
+		- var pageDescription = description || (path==="./" ? siteInfo.description : excerpt );
 		- var ogImage = ogImage || siteInfo.defaultOGImage
 		meta(property='og:url', content=pageURL)
 		meta(property='og:type', content='website')
