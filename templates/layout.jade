@@ -1,17 +1,19 @@
 doctype
 html.no-js
 	head
+		//- Set vars
+		- var titleTag = (path ==='./' ? siteInfo.title + ' — ' + siteInfo.shortDescription : title + ' — ' + siteInfo.title)
+		- var pageURL = siteInfo.url + (path==="./" ? '' : '/'+path)
+		- var pageDescription = description || (path==="./" ? siteInfo.description : excerpt )
+		- var ogImage = ogImage || siteInfo.defaultOGImage
+		//- Meta
 		meta(charset='utf-8')
 		meta(http-equiv='X-UA-Compatible', content='IE=edge')
-		- var titleTag = (path ==='./' ? siteInfo.title + ' — ' + siteInfo.shortDescription : title + ' — ' + siteInfo.title)
-		title!= titleTag
-		//- Meta tags
 		meta(name='description', content='')
 		meta(name='viewport', content='width=device-width, initial-scale=1')
+		title!= titleTag
+		link(rel="canonical" href=pageURL)
 		//- OG Tags
-		- var pageURL = siteInfo.url + path
-		- var pageDescription = description || (path==="./" ? siteInfo.description : excerpt );
-		- var ogImage = ogImage || siteInfo.defaultOGImage
 		meta(property='og:url', content=pageURL)
 		meta(property='og:type', content='website')
 		meta(property='og:title', content=titleTag)
