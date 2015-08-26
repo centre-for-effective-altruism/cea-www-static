@@ -72,8 +72,6 @@ Please [email us](mailto:development@centreforeffectivealtruism.org) to arrange 
 
 If you pay tax in the UK and would like to claim GiftAid please also fill out [this form](https://docs.google.com/forms/d/1FsbfnN_YnS9R4OY0WYY_RhNn7UM0EtORs7y0ErJozhc/viewform).
 
-![download](https://centreforeffectivealtruism.org/wp-content/uploads/2014/10/download.png)
-
 </div>
 
 </div>

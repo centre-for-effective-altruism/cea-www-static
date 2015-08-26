@@ -35,6 +35,7 @@ var uglify = require('metalsmith-uglify');
 var autoprefixer = require('metalsmith-autoprefixer');
 var uncss = require('metalsmith-uncss');
 var cleanCSS = require('metalsmith-clean-css');
+var subsetfonts = require('metalsmith-subsetfonts');
 // utility
 console.log('Loading utilities...');
 var debug = require('metalsmith-debug');
@@ -311,14 +312,6 @@ colophonemes
 		done();
 	})
 	.use(typogr())
-	.use(lazysizes({
-		pattern: [
-			'images/*.@(jpg|jpeg|png|gif)',
-			'images/!(favicons|logos)/*.@(jpg|jpeg|png|gif)'
-		],
-		sizes: [100,480,768,992,1200],
-		backgrounds: ['#banner']
-	}))
 	// Build Javascript
 	.use(logMessage('Building Javascript files'))
 	.use(concat({
@@ -342,9 +335,19 @@ colophonemes
 	.use(logMessage('Building CSS files'))
 	.use(sass())
 	.use(autoprefixer())
+	.use(subsetfonts())
 	// stuff to only do in production
 	if(ENVIRONMENT==='production'){
 		colophonemes
+		.use(logMessage('Processing responsive images'))
+		.use(lazysizes({
+			pattern: [
+				'images/*.@(jpg|jpeg|png|gif)',
+				'images/!(favicons|logos)/*.@(jpg|jpeg|png|gif)'
+			],
+			sizes: [100,480,768,992,1200],
+			backgrounds: ['#banner']
+		}))
 		.use(logMessage('Cleaning CSS files'))
 		.use(beautify({
 			html: true,

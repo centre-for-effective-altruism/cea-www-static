@@ -11,7 +11,7 @@ showInNav: true
 
 Do you want to work for a dynamic, forward-looking organisation with some [amazing people](/team)? Do you have a global outlook, and want to make a real difference with your career? Maybe you should consider a career at the Centre for Effective Altruism.
 
-Read more about [why we're a fantastic place to work](/careers/why-work-for-the-us/).
+Read more about [why we're a fantastic place to work](/careers/why-work-with-us/).
 
 ## Current opportunities
 
