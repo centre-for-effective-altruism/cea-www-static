@@ -358,7 +358,8 @@ colophonemes
 				'images/!(favicons|logos)/*.@(jpg|jpeg|png|gif)'
 			],
 			sizes: [100,480,768,992,1200],
-			backgrounds: ['#banner']
+			backgrounds: ['#banner'],
+			blurSmall: {width:100,amount:1,pattern:"images/banners/*"}
 		}))
 		.use(logMessage('Cleaning CSS files'))
 		.use(beautify({
