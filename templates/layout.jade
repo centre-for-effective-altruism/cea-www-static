@@ -56,10 +56,11 @@ body(class=[
 			//- End Browsehappy
 			noscript
 				.container
-					div.alert.alert-warning
-						p 
-							i.fa.fa-warning
-							|  You do not have Javascript enabled. Some elements of this website may not work correctly.
+					.row
+						div.alert.alert-warning
+							p 
+								i.fa.fa-warning
+								|  You do not have Javascript enabled. Some elements of this website may not work correctly.
 			block content
 				div!= contents
 		//-footer
