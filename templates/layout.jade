@@ -33,62 +33,63 @@ body(class=[
 				'#{collections[collection].metadata.singular}',
 				(parent ? parent : (path === './' ? 'home' : path))
 	])
-	include nav
-	block banner
-		-var bannerBackground = bannerImage || '/images/banners/darker-earth.jpg'
-		#banner(style="background-image:url("+bannerBackground+")")
-			div.header
-				.container
-					.row
-						.col-sm-12
-							block header
-								h1.page-title!= title
+	div#wrapper
+		include nav
+		block banner
+			-var bannerBackground = bannerImage || '/images/banners/darker-earth.jpg'
+			#banner(style="background-image:url("+bannerBackground+")")
+				div.header
+					.container
+						.row
+							.col-sm-12
+								block header
+									h1.page-title!= title
 
-	div.content
-		//- Browsehappy
-		<!--[if lt IE 10]>
-		p.browsehappy
-		| You are using an <strong>outdated</strong> browser.
-		| Please <a href="http://browsehappy.com/">upgrade your browser</a>
-		| to improve your experience.
-		<![endif]-->
-		//- End Browsehappy
-		noscript
+		div.content
+			//- Browsehappy
+			<!--[if lt IE 10]>
+			p.browsehappy
+			| You are using an <strong>outdated</strong> browser.
+			| Please <a href="http://browsehappy.com/">upgrade your browser</a>
+			| to improve your experience.
+			<![endif]-->
+			//- End Browsehappy
+			noscript
+				.container
+					div.alert.alert-warning
+						p 
+							i.fa.fa-warning
+							|  You do not have Javascript enabled. Some elements of this website may not work correctly.
+			block content
+				div!= contents
+		//-footer
+		footer.footer
 			.container
-				div.alert.alert-warning
-					p 
-						i.fa.fa-warning
-						|  You do not have Javascript enabled. Some elements of this website may not work correctly.
-		block content
-			div!= contents
-	//-footer
-	footer.footer
-		.container
-			.row
-				block footer
-			.row
-				.col-sm-12
-					ul.list-inline
-						each page in collections.pages
-							if page.topLevelPage && page.showInNav !== false
-								li 
-									a(href=relative(page.path))
-										!= page.title
-						li |
-						li
-							a(href="https://www.facebook.com/CentreforEffectiveAltruism")
-								i.fa.fa-facebook
-								|  Facebook
-						li
-							a(href="https://twitter.com/EAltruist")
-								i.fa.fa-twitter
-								|  Twitter
-			.row
-				.col-sm-12
-					p
-						| The Centre for Effective Altruism is a registered charity in England and Wales, Registered Charity Number 1149828.
-					p
-						| &copy; Centre For Effective Altruism
+				.row
+					block footer
+				.row
+					.col-sm-12
+						ul.list-inline
+							each page in collections.pages
+								if page.topLevelPage && page.showInNav !== false
+									li 
+										a(href=relative(page.path))
+											!= page.title
+							li |
+							li
+								a(href="https://www.facebook.com/CentreforEffectiveAltruism")
+									i.fa.fa-facebook
+									|  Facebook
+							li
+								a(href="https://twitter.com/EAltruist")
+									i.fa.fa-twitter
+									|  Twitter
+				.row
+					.col-sm-12
+						p
+							| The Centre for Effective Altruism is a registered charity in England and Wales, Registered Charity Number 1149828.
+						p
+							| &copy; Centre For Effective Altruism
 
 
 	//- before final </body> tag

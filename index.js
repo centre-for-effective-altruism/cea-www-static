@@ -236,9 +236,19 @@ colophonemes
 				relative: false				
 			})
 		)
-	)	
+	)
 	.use(
-		branch('content/pages/!(index*)')
+		branch('content/pages/404*')
+		.use(
+			copy({
+				pattern: "content/pages/404*",
+				directory: "./",
+				move: true
+			})
+		)
+	)
+	.use(
+		branch('content/pages/!(index*|404*)')
 		.use(
 			permalinks({
 				pattern: ':title',
@@ -249,6 +259,7 @@ colophonemes
 	.use(
 		branch('content/pages/**/*')
 		.use(function (files,metalsmith,done){
+			// add parent pages to child pages, based on them being in a subfolder
 			Object.keys(files).forEach(function (file) {
 				var parent  = path.dirname(file).replace('content/pages/','');
 				files[file].parent = parent;
@@ -262,6 +273,7 @@ colophonemes
 			})
 		)
 	)
+	// .use(logFilesMap)
 	.use(function (files,metalsmith,done){
 		// add child pages to parent pages
 		var childPages = metalsmith._metadata.collections.pages;
@@ -395,7 +407,7 @@ colophonemes
 		.use(beautify({
 			html: true,
 			js: false,
-			css: false,
+			css: true,
 			wrap_line_length: 80
 		}))		
 		;
