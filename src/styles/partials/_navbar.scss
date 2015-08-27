@@ -32,3 +32,10 @@
 		color: $site-highlight;
 	}
 }
+
+html.no-js {
+	// fallback to make menus work if JS is disabled
+	.navbar-nav>li:hover>.dropdown-menu{
+		display: block;
+	}
+}

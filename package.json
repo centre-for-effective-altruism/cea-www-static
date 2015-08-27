@@ -30,7 +30,7 @@
     "metalsmith-excerpts": "https://github.com/colophonemes/metalsmith-excerpts/tarball/master",
     "metalsmith-filemetadata": "0.0.4",
     "metalsmith-ignore": "^0.1.2",
-    "metalsmith-lazysizes": "^0.1.0",
+    "metalsmith-lazysizes": "^0.1.1",
     "metalsmith-metadata": "0.0.1",
     "metalsmith-metallic": "^0.3.1",
     "metalsmith-navigation": "^0.2.3",

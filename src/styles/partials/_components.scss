@@ -53,6 +53,11 @@ img[data-sizes="auto"] {
 .lazyload {
     opacity: 0;
 }
+html.no-js{
+	.lazyload {
+	    opacity: 1;
+	}	
+}
 .lazyloading {
     opacity: 0.5;
 }
