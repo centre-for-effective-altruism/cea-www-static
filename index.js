@@ -25,7 +25,6 @@ var branch  = require('metalsmith-branch');
 var collections  = require('metalsmith-collections');
 var permalinks  = require('metalsmith-permalinks');
 var relative = require('metalsmith-relative');
-var navigation = require('metalsmith-navigation');
 var excerpts = require('metalsmith-excerpts');
 // static file compilation
 console.log('Loading static file compilation...');
@@ -39,8 +38,6 @@ var subsetfonts = require('metalsmith-subsetfonts');
 // utility
 console.log('Loading utilities...');
 var debug = require('metalsmith-debug');
-var watch = require('metalsmith-watch');
-var serve = require('metalsmith-serve');
 // BOWER MANAGEMENT
 var fs = require('fs');
 var path = require('path');

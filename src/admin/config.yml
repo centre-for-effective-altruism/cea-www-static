@@ -1,0 +1,74 @@
+backend:
+  name: github-api
+  repo: centre-for-effective-altruism/cea-www-static # Path to your Github repository
+  branch: master # Branch to update (master by default)
+
+media_folder: "src/images/uploads" # Folder where user uploaded files should go
+public_folder: "src" # strip this from the media_folder
+
+# default settings for a post-like collection
+default: &DEFAULT
+  name: "defaultName" # Used in routes, ie.: /admin/collections/:slug/edit
+  label: "Default Label" # Used in the UI, ie.: "New Post"
+  folder: "src/content/default" # The path to the folder where the documents are stored
+  sort: "date:desc" # Default is title:asc
+  create: true # Allow users to create new documents in this collection
+  fields: # The fields each document in this collection have
+    - {label: "Title", name: "title", widget: "string", tagname: "h1"}
+    - {label: "Content", name: "body", widget: "markdown"}
+  meta: # Meta data fields. Just like fields, but without any preview element
+    - {label: "Published", name: "published", widget: "checkbox"}
+    - {label: "Menu Order (low numbers appear earlier)", name: "menuOrder", widget: "number"}
+
+collections: # A list of collections the CMS should be able to edit
+  - <<: *DEFAULT
+    name: "page" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Page" # Used in the UI, ie.: "New Post"
+    folder: "src/content/pages" # The path to the folder where the documents are stored
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
+      - {label: "Banner Image", name: "bannerImage", widget: "image"}
+      - {label: "Content", name: "body", widget: "markdown"}
+    meta: # Meta data fields. Just like fields, but without any preview element
+      - {label: "Show in Navigation", name: "showInNav", widget: "checkbox"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Published", name: "published", widget: "checkbox"}
+      - {label: "Menu Order (low numbers appear earlier)", name: "menuOrder", widget: "number"}
+  - <<: *DEFAULT
+    name: "person" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Person" # Used in the UI, ie.: "New Post"
+    folder: "src/content/people" # The path to the folder where the documents are stored
+    media_folder: "src/images/people" # Folder where user uploaded files should go
+    public_folder: "src" # strip this from the media_folder
+    fields: # The fields each document in this collection have
+      - {label: "Name", name: "title", widget: "string", tagname: "h1"}
+      - {label: "Picture", name: "featuredImage", widget: "image"}
+      - {label: "Content", name: "body", widget: "markdown"}
+    meta: # Meta data fields. Just like fields, but without any preview element
+    - {label: "Organisation — use one of the following: cea | gwwc | eightythousandhours | gpp | eao", name: "organisation", widget: "string"}
+    - {label: "Staff type — use one of the following: staff | trustee", name: "staffType", widget: "string"}
+    - {label: "Published", name: "published", widget: "checkbox"}
+    - {label: "Menu Order (low numbers appear earlier)", name: "menuOrder", widget: "number"}
+  # - <<: *DEFAULT
+  #   name: "organisation" # Used in routes, ie.: /admin/collections/:slug/edit
+  #   label: "Organisation" # Used in the UI, ie.: "New Post"
+  #   folder: "src/content/organisations" # The path to the folder where the documents are stored
+  #   media_folder: "src/images/logos" # Folder where user uploaded files should go
+  #   public_folder: "src" # strip this from the media_folder
+  #   fields: # The fields each document in this collection have
+  #     - {label: "Title", name: "title", widget: "string", tagname: "h1"}
+  #     - {label: "Logo", name: "logo", widget: "image"}
+  #     - {label: "Content", name: "body", widget: "markdown"}
+  - name: "settings"
+    label: "Settings"
+    files:
+      - name: "site-info"
+        label: "Site Information"
+        file: "src/settings/site-info.json"
+        fields:
+          - {label: "Site Title", name: "title", widget: "string"}
+          - {label: "Site URL", name: "url", widget: "string"}
+          - {label: "Site Description", name: "description", widget: "string"}
+          - {label: "Short Site Description", name: "shortDescription", widget: "string"}
+          - {label: "Keywords", name: "keywords", widget: "string"}
+          - {label: "Default OpenGraph (Facebook) Image", name: "defaultOGImage", widget: "image"}

@@ -1,0 +1,8 @@
+.cms-logo {
+  background-image: url(../images/favicons/favicon-96x96.png);
+  background-color: #FFF;
+  background-size: contain;
+}
+.cms-logo a svg {
+  display: none;
+}

@@ -1,7 +1,7 @@
 ---
 title: Animal Charity Evaluators
 menuOrder: 6
-logo: /images/logos/80k.png
+logo: /images/logos/ace.png
 status: "former"
 ---
 Animal Charity Evaluators (ACE) is dedicated to finding and advocating for highly effective opportunities for improving the lives of animals.
