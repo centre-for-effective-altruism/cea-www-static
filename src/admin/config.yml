@@ -42,6 +42,7 @@ collections: # A list of collections the CMS should be able to edit
     public_folder: "src" # strip this from the media_folder
     fields: # The fields each document in this collection have
       - {label: "Name", name: "title", widget: "string", tagname: "h1"}
+      - {label: "Position", name: "position", widget: "string", tagname: "h3"}
       - {label: "Picture", name: "featuredImage", widget: "image"}
       - {label: "Content", name: "body", widget: "markdown"}
     meta: # Meta data fields. Just like fields, but without any preview element
