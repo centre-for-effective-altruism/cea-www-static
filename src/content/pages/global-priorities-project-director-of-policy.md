@@ -3,7 +3,7 @@ title: "Global Priorities Project: Director of Policy"
 bannerImage: /images/uploads/earth-horizon.jpg
 cmsUserSlug: ""
 showInNav: null
-date: 2015-09-15T00:00:00+01:00
+date: 2015-09-14T23:00:00.000Z
 published: null
 menuOrder: null
 ---
@@ -11,7 +11,7 @@ menuOrder: null
   The Global Priorities Project is seeking applications from exceptional people to expand our capabilities in policy and campaigning. Start date flexible, from winter 2015.
 
   
-What does the Global Priorities Project work on?
+## What does the Global Priorities Project work on?
 
   
 The Centre for Effective Altruism, and the Effective Altruist community, is exploring opportunities for policy impact. We believe that engaging with policy-makers on issues such as evidence-based policy, global health, technological development, and risk management gives us an opportunity to contribute a valuable perspective to public discussion. In addition, political engagement offers a way to make use of the growth of the EA community.
@@ -26,7 +26,7 @@ This research has already suggested a number of avenues for engagement with poli
 The Global Priorities Project is based in Oxford, UK and are a collaboration between the Centre for Effective Altruism and the Future of Humanity Institute.
 
   
-What is it like to work at the Centre for Effective Altruism?
+## What is it like to work at the Centre for Effective Altruism?
 
 Founded in 2012, the Centre for Effective Altruism is a fast-growing start-up non-profit. We have been approximately doubling annually, and currently have about 20 full-time staff. Our aim is to support and develop projects that make the world a better place using evidence and analysis. We are a central part of the effective altruism movement - having developed the term in 2012.
 
@@ -34,7 +34,7 @@ Founded in 2012, the Centre for Effective Altruism is a fast-growing start-up no
 We are an incredibly exciting place to work - with a strong culture of like-minded and hard-working people, dedicated to doing the most good we can. We&rsquo;re also a great place to grow as fast as you want to - staff are encouraged to take initiative to launch projects and supported in it. People who show promise are rapidly encouraged to take on responsibility.
 
   
-At the moment, our projects include:
+### At the moment, our projects include:
 
 * Giving What We Can: a community of donors giving a tenth of their income to the most effective charities
 
@@ -54,7 +54,7 @@ We are an equal opportunity employer and value diversity. We do not discriminate
 For more information, visit [our site](https://centreforeffectivealtruism.org/careers/why-work-with-us/). 
 
   
-What will you be working on?
+## What will you be working on?
 
   
 You will set the direction for the Centre on policy engagement. They will be responsible for developing an impact strategy that will build on the existing and ongoing research at the Global Priorities Project and Giving What We Can to have policy impact and build the Centre&rsquo;s capabilities for the future.
@@ -63,13 +63,13 @@ You will set the direction for the Centre on policy engagement. They will be res
 This will involve working out what the opportunities are to steer public discussion, building relationships with policy-makers, advising the research team on research direction, working with the research team to convert their outputs to make them higher impact, and writing white papers on key issues for discussion with policy-makers.
 
   
-Who would be suited to this job?
+## Who would be suited to this job?
 
   
 You should have some experience in politics, civil service, policy, think tanks, or communication and be excited about developing effective altruist policy.
 
   
-Ideally you would:
+#### Ideally you would:
 
 * Be self-motivated with a genuine interest in improving the world, and be open-minded about how we can best do that.
 
