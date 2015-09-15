@@ -2,8 +2,8 @@
 title: "Giving What We Can: Research Analyst"
 bannerImage: /images/uploads/earth-horizon.jpg
 cmsUserSlug: ""
-showInNav: null
-date: 2015-09-15T00:00:00+01:00
+showInNav: false
+date: 2015-09-14T23:00:00.000Z
 published: null
 menuOrder: null
 ---
