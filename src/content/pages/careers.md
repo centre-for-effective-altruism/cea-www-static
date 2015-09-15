@@ -1,10 +1,11 @@
 ---
 title: Careers
-menuOrder: "8"
-bannerImage: "/images/banners/earth-horizon.jpg"
-published: true
-date: "2015-07-20 13:45 +0100"
+bannerImage: /images/banners/earth-horizon.jpg
+cmsUserSlug: careers
 showInNav: true
+date: "2015-07-20 13:45 +0100"
+published: true
+menuOrder: "8"
 ---
 
 ## Careers at the Centre for Effective Altruism
@@ -19,7 +20,21 @@ We are not currently advertising for specific positions, however, we are always 
 
 ## September recruitment round
 
-We will be advertising for a number of new positions in September 2015. Please check back later, or email **recruitment&nbsp;[at]&nbsp;centreforeffectivealtruism&nbsp;[dot]&nbsp;org** to be notified when we publish position descriptions.
+We will be advertising for the following new positions in September 2015. 
+
+*   Giving What We Can: Director of Growth
+*   Giving What We Can: Research Analyst
+*   Global Priorities Project: Director of Policy
+*   Global Priorities Project: Research Fellow
+*   Effective Altruism Outreach: Events Manager
+*   Effective Altruism Outreach: Project Manager
+*   Centre for Effective Altruism: Office Manager
+*   Centre for Effective Altruism: Director of US Operations
+*   Centre for Effective Altruism: Finance Manager
+*   Centre for Effective Altruism: Full Stack Marketer
+*   Centre for Effective Altruism: Effective Altruism Strategy Fellow
+
+Please check back later for the application page, or email **recruitment&nbsp;[at]&nbsp;centreforeffectivealtruism&nbsp;[dot]&nbsp;org** to be notified when we publish position descriptions.
 
 ## Previous recruitment rounds
 
