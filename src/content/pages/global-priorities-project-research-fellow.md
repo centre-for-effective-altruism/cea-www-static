@@ -3,7 +3,7 @@ title: "Global Priorities Project: Research Fellow"
 bannerImage: /images/uploads/earth-horizon.jpg
 cmsUserSlug: ""
 showInNav: null
-date: 2015-09-15T00:00:00+01:00
+date: 2015-09-14T23:00:00.000Z
 published: null
 menuOrder: null
 ---
@@ -11,7 +11,7 @@ menuOrder: null
   The Global Priorities Project is seeking applications from exceptional people to expand the research team. Start date flexible, from winter 2015.
 
   
-What does the Global Priorities Project research?
+## What does the Global Priorities Project research?
 
   
 We develop practical tools to better compare the effectiveness of different interventions for improving global welfare in the long-run. These will build on existing prioritisation tools such as cost-effectiveness analysis. The intended audience is government aid agencies, major foundations, policy-advice organisations, effective altruist organisations, and international organisations.
@@ -20,19 +20,19 @@ We develop practical tools to better compare the effectiveness of different inte
 We are a collaboration between the Centre for Effective Altruism and the Future of Humanity Institute.
 
   
-Our research includes three major projects:
+### Our research includes three major projects:
 
-* Cause prioritisation: What theoretical judgements shape our views about the best causes to support? What tractable/intractable empirical questions? We are approaching this question from a high level, and [working to resolve key decision points.](http://globalprioritiesproject.org/2015/09/flowhart/)
+* __Cause prioritisation:__ What theoretical judgements shape our views about the best causes to support? What tractable/intractable empirical questions? We are approaching this question from a high level, and [working to resolve key decision points.](http://globalprioritiesproject.org/2015/09/flowhart/)
 
-* Prioritising risk mitigation work under uncertainty: When we work to mitigate global catastrophic risks which could come at different times or in different forms, different strategies suit risks that materialise at different points in time. For example, the international community would behave differently if catastrophic climate change were known to be impending on a 20 year horizon than a 100 year horizon. These timelines are characterised by uncertainty. We are [building models to support the allocation of resources](http://globalprioritiesproject.org/2015/02/allocating-risk-mitigation-across-time/)over projects aiming at different time-horizons, or at scenarios of different levels of plausibility. A major part of this project considers risks from artificial intelligence, and is supported by Elon Musk and the Open Philanthropy Project via a Future of Life Institute grant.
+* __Prioritising risk mitigation work under uncertainty:__ When we work to mitigate global catastrophic risks which could come at different times or in different forms, different strategies suit risks that materialise at different points in time. For example, the international community would behave differently if catastrophic climate change were known to be impending on a 20 year horizon than a 100 year horizon. These timelines are characterised by uncertainty. We are [building models to support the allocation of resources](http://globalprioritiesproject.org/2015/02/allocating-risk-mitigation-across-time/)over projects aiming at different time-horizons, or at scenarios of different levels of plausibility. A major part of this project considers risks from artificial intelligence, and is supported by Elon Musk and the Open Philanthropy Project via a Future of Life Institute grant.
 
-* How can the international community respond to existential risk?: Although the international community is increasingly aware of existential risks, there is still a lack of clear actions to take on a 5-10 year horizon. This project brings together experts to build an action plan for foreign ministries to reduce existential risk. This work builds on the [Unprecedented Technological Risk report](http://globalprioritiesproject.org/2015/02/unprecedented-technological-risks/) released last autumn. This project is supported by the Finnish Foreign Ministry.
+* __How can the international community respond to existential risk?:__ Although the international community is increasingly aware of existential risks, there is still a lack of clear actions to take on a 5-10 year horizon. This project brings together experts to build an action plan for foreign ministries to reduce existential risk. This work builds on the [Unprecedented Technological Risk report](http://globalprioritiesproject.org/2015/02/unprecedented-technological-risks/) released last autumn. This project is supported by the Finnish Foreign Ministry.
 
   
 Smaller research projects look at global public health, health economics and metrics, evidence-based policy and biosafety.
 
   
-What is it like to work with us?
+## What is it like to work with us?
 
 Founded in 2012, the Centre for Effective Altruism is a fast-growing start-up non-profit. We have been approximately doubling annually, and currently have about 20 full-time staff. Our aim is to support and develop projects that make the world a better place using evidence and analysis. We are a central part of the effective altruism movement - having developed the term in 2012.
 
@@ -40,7 +40,7 @@ Founded in 2012, the Centre for Effective Altruism is a fast-growing start-up no
 We are an incredibly exciting place to work - with a strong culture of like-minded and hard-working people, dedicated to doing the most good we can. We&rsquo;re also a great place to grow as fast as you want to - staff are encouraged to take initiative to launch projects and supported in it. People who show promise are rapidly encouraged to take on responsibility.
 
   
-Our projects include:
+### Our projects include:
 
 * Giving What We Can: a community of donors giving a tenth of their income to the most effective charities
 
@@ -60,7 +60,7 @@ We are an equal opportunity employer and value diversity. We do not discriminate
 For more information, visit [our site](https://centreforeffectivealtruism.org/careers/why-work-with-us/). 
 
   
-What will you be working on?
+## What will you be working on?
 
   
 You will join the research team to work primarily on one of these projects, in addition to smaller projects. Researchers are responsible for delivering high-quality work independently, and contributing to the impact strategy of the project. Communicating work and outcomes to the most relevant communities will form an important part of the work, as will engaging directly with policy-makers.
