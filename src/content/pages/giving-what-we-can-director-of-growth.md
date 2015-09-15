@@ -3,17 +3,19 @@ title: "Giving What We Can: Director of Growth"
 bannerImage: /images/uploads/earth-horizon.jpg
 cmsUserSlug: ""
 showInNav: null
-date: 2015-09-15T00:00:00+01:00
+date: 2015-09-14T23:00:00.000Z
 published: true
 menuOrder: null
 ---
 
-  Director of Growth for Giving What We Can
+  ##   Director of Growth
+
+  
 
 In just five years, Giving What We Can has grown to over 1150 members in 30 countries worldwide. The community has pledged over $450m towards ending poverty. We are looking for additional hires to build on this success.
 
   
-Apply to be our Director of Growth
+**Apply to be our Director of Growth**
 
   
 As Director of Growth you will be ensuring that interest in effective giving actually translates to more donations to effective charities, and thereby more people helped. You will report to the Executive Director, Michelle Hutchinson.
