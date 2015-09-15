@@ -2,7 +2,7 @@
 title: "Effective Altruism Outreach: Project Manager"
 bannerImage: /images/uploads/earth-horizon.jpg
 cmsUserSlug: ""
-showInNav: null
+showInNav: false
 date: 2015-09-14T23:00:00.000Z
 published: null
 menuOrder: null
