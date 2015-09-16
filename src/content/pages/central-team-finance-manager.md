@@ -3,7 +3,7 @@ title: "Central Team: Finance Manager"
 bannerImage: /images/uploads/earth-horizon.jpg
 cmsUserSlug: ""
 showInNav: false
-date: 2015-09-15T00:00:00+01:00
+date: 2015-09-14T23:00:00.000Z
 published: null
 menuOrder: null
 ---
@@ -97,7 +97,7 @@ Some examples of desirable attributes or experience include:
 
 * Computer-based accountancy skills - We rely heavily on Google Apps and the Google suite of products, you&rsquo;ll need a deep familiarity with Google Sheets and Excel. Understanding of common accounting software such as Kashflow, Xero or QuickBooks is also desirable. If you don&rsquo;t know your debits from your credits, this job isn&rsquo;t for you.
 
-  
+<a href="https://eaglobal.typeform.com/to/nUNz0z" style="display: block; border-radius:4px; background-color: #DDD; background-image: linear-gradient(to top, #BBB, #EEE); width: 180px; text-align:center; font-weight:bold; font-size: 28px; border: 1px solid #333; color: #333; margin:auto" target="_blank">Apply now!</a>  
   
 Your application will be assessed using a rubric designed to measure the following traits, and you should aim to demonstrate them in your application:
 
