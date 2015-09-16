@@ -16,25 +16,27 @@ Read more about [why we're a fantastic place to work](/careers/why-work-with-us/
 
 ## Current opportunities
 
-We are not currently advertising for specific positions, however, we are always on the lookout for talented, experienced people to join our team. If you are interested in working with us in the future, please send a letter of introduction and a CV to **recruitment&nbsp;[at]&nbsp;centreforeffectivealtruism&nbsp;[dot]&nbsp;org** for our consideration.
+We are looking for the next batch of exceptional candidates to join our team. We're recruiting for positions based out of our office in beautiful Oxford as well as remote or location independent positions. 
 
-## September recruitment round
+Check out our position descriptions to see if there's a good fit:
 
-We will be advertising for the following new positions in September 2015. 
+*   [Giving What We Can: Director of Growth](https://www.centreforeffectivealtruism.org/giving-what-we-can-director-of-growth)
+*   [Giving What We Can: Research Analyst](https://www.centreforeffectivealtruism.org/giving-what-we-can-research-analyst)
+*   [Global Priorities Project: Director of Policy](https://www.centreforeffectivealtruism.org/global-priorities-project-director-of-policy)
+*   [Global Priorities Project: Research Fellow](https://www.centreforeffectivealtruism.org/global-priorities-project-research-fellow)
+*   [Effective Altruism Outreach: Events Manager](https://www.centreforeffectivealtruism.org/effective-altruism-outreach-events-manager)
+*   [Effective Altruism Outreach: Project Manager](https://www.centreforeffectivealtruism.org/effective-altruism-outreach-project-manager)
+*   [Centre for Effective Altruism: Office Manager](https://www.centreforeffectivealtruism.org/central-team-office-manager)
+*   [Centre for Effective Altruism: Director of US Operations](https://www.centreforeffectivealtruism.org/central-team-director-of-us-operations)
+*   [Centre for Effective Altruism: Finance Manager](https://www.centreforeffectivealtruism.org/central-team-finance-manager)
+*   [Centre for Effective Altruism: Full Stack Marketer](https://www.centreforeffectivealtruism.org/central-team-full-stack-marketer)
+*   [Centre for Effective Altruism: Effective Altruism Strategy Fellow](https://www.centreforeffectivealtruism.org/effective-altruism-strategy-fellow)
 
-*   Giving What We Can: Director of Growth
-*   Giving What We Can: Research Analyst
-*   Global Priorities Project: Director of Policy
-*   Global Priorities Project: Research Fellow
-*   Effective Altruism Outreach: Events Manager
-*   Effective Altruism Outreach: Project Manager
-*   Centre for Effective Altruism: Office Manager
-*   Centre for Effective Altruism: Director of US Operations
-*   Centre for Effective Altruism: Finance Manager
-*   Centre for Effective Altruism: Full Stack Marketer
-*   Centre for Effective Altruism: Effective Altruism Strategy Fellow
+If none of these take your fancy, we're always on the lookout for talented, experienced professionals to join our team. We're growing quickly and our plans change rapidly. If you think you'd be a good fit, fill out our application form and describe how you could use your skills and experience to support one of our existing projects, or start your own!
 
-Please check back later for the application page, or email **recruitment&nbsp;[at]&nbsp;centreforeffectivealtruism&nbsp;[dot]&nbsp;org** to be notified when we publish position descriptions.
+<a href="https://eaglobal.typeform.com/to/nUNz0z" style="display: block; border-radius:4px; background-color: #DDD; background-image: linear-gradient(to top, #BBB, #EEE); width: 180px; text-align:center; font-weight:bold; font-size: 28px; border: 1px solid #333; color: #333; margin:auto" target="_blank">Apply now!</a> 
+
+Please email **recruitment&nbsp;[at]&nbsp;centreforeffectivealtruism&nbsp;[dot]&nbsp;org** if you have any queries or would like to request any alternate arrangements to our usual application process. 
 
 ## Previous recruitment rounds
 
