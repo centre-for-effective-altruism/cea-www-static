@@ -18,23 +18,19 @@ Your main responsibilities will include:
 
 * Making improvements and updates to our website
 
-* Writing copy for our website, blog, social media and external presentations
-
-* Designing beautiful images, web pages, reports and pamphlets that clearly communicate our vision and brand
+* Producing high value collateral (articles, infographics, imagery) and using it to execute content driven marketing for our website, blog, social media and external presentations
 
 * PPC - managing our Google AdWords accounts and youtube channels
 
 * Working with our strategy team to to communicate complex intellectual arguments to a broader audience
 
-* A/B testing and analytics - focus on developing new metrics to help us achieve better conversion rates
+* A/B testing and analytics - focus on developing new metrics to help us achieve better conversion rates. Figure out what brings people into EA and how we can better use the digital realm to spread effective altruism throughout the world
 
 * Market development - identify new groups who might be receptive to EA and figure out how to best engage those groups
 
-* Donor engagement - use your analytics skills to determine what brings donors back and how they respond to our message
+* Donor engagement - use your analytics skills to determine what brings donors back and how they respond to our message 
 
-* SEO - figure out what brings people into EA and how we can better use the digital realm to spread effective altruism throughout the world
-
-* Email marketing - keep our donors and fellow EAs engaged and interested in our work
+* Email marketing - keep our donors and prospective EAs engaged by delivering the right content, to the right people at the right time
 
 * Work with our core strategy team to target the most skilled, engaged and valuable potential EAs out there
 
@@ -43,7 +39,7 @@ We are based out of beautiful Oxford. We would love it if you can come join us i
   
 ### Why apply?
 
-This role provides an excellent opportunity to apply skills from the business and startup world to direct work within the effective altruism movement. The effective altruism movement is growing quickly, you&rsquo;ll have the opportunity to shape that growth and ensure that we remain true to our core values as we expand. It&rsquo;s an exciting time to join the Centre for Effective Altruism,we&rsquo;re looking to double in size over the next year and expand our operations into the USA. As one of the key team members of a rapidly growing small organisation, you&rsquo;ll have a huge amount of responsibility, autonomy and room to grow.
+This role provides an excellent opportunity to apply skills from the business and startup world to direct work within the effective altruism movement. The effective altruism movement is growing quickly, you&rsquo;ll have the opportunity to shape that growth and ensure that we remain true to our core values as we expand. It&rsquo;s an exciting time to join the Centre for Effective Altruism,we&rsquo;re looking to double in size over the next year and expand our operations into the USA. As one of the key team members of a rapidly growing small organisation, you&rsquo;ll have a huge amount of responsibility, autonomy and room to grow.   
 
 If you work for the Centre for Effective Altruism, you&rsquo;ll be part of a focused team of intelligent, caring, enthusiastic colleagues who want to change the world, located in the centre of beautiful Oxford.
 
@@ -51,7 +47,7 @@ If you work for the Centre for Effective Altruism, you&rsquo;ll be part of a foc
 
 This role will suit someone with a diverse background in all areas of marketing. This role requires high self-efficacy, the ability to go out there, figure out which tools will do the job and then learn them. We&rsquo;re after a true autodidact, someone who enjoys learning new things and will seek out develop whatever skills they need to get the job done. You are results focused and entrepreneurial with a deep understanding of core EA ideas. In order to grow the movement, you&rsquo;ll need to have a large and diverse social network and a deep desire to understand and engage with people who are currently outside of the EA movement. You don&rsquo;t need a solid grounding in philosophy, but you will need a deep passion for figuring out how to do the most good and the audacity to make it happen
 
-Qualifications:
+### Qualifications:
 
 We&rsquo;d prefer you to have at least 2 years experience in a broad range of different marketing roles. If you've worked in marketing or growth hacking at a startup, we want to hear from you. It doesn&rsquo;t matter if you&rsquo;re completely self taught, we&rsquo;re more interested in seeing your portfolio than your degree.
 
@@ -75,6 +71,8 @@ Your application will be assessed using a rubric designed to measure the followi
 * Social skills and network
 
 * Relevant experience and skills.
+
+We offer a starting salary of between £19,000 to £25,000 depending on experience and qualifications. Salaries are raised by £1,000 every 6 months following a successful performance review. We are willing to negotiate higher salaries for candidates who can demonstrate exceptional need, skills or experience
 
 We are an equal opportunity employer and value diversity at our organisation. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, or disability status. We are happy to make any reasonable accommodations necessary to welcome all to our workplace. Please contact us to discuss adjustments to the application process. 
 
