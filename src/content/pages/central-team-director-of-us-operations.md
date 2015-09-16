@@ -3,7 +3,7 @@ title: "Central Team: Director of US Operations"
 bannerImage: /images/uploads/earth-horizon.jpg
 cmsUserSlug: ""
 showInNav: false
-date: 2015-09-15T00:00:00+01:00
+date: 2015-09-14T23:00:00.000Z
 published: null
 menuOrder: null
 ---
@@ -67,7 +67,7 @@ Some examples of desirable attributes or experience include:
 
 * Computer skills and a willingness to try new products and services - We need someone who loves trying out different tools before settling on the best one. In this day and age there is an app for every problem, we want you to find out which ones are worth paying for and quickly learn and deploy new systems. We rely heavily on Google Apps and the Google suite of products, you&rsquo;ll need a deep familiarity with Google Sheets and Excel. Understanding of common accounting software such as Xero or QuickBooks is also desirable.
 
-  
+<a href="https://eaglobal.typeform.com/to/nUNz0z" style="display: block; border-radius:4px; background-color: #DDD; background-image: linear-gradient(to top, #BBB, #EEE); width: 180px; text-align:center; font-weight:bold; font-size: 28px; border: 1px solid #333; color: #333; margin:auto" target="_blank">Apply now!</a>
   
 Your application will be assessed using a rubric designed to measure the following traits, and you should aim to demonstrate them in your application:
 
@@ -86,6 +86,7 @@ Your application will be assessed using a rubric designed to measure the followi
 * Social skills and network
 
 * Relevant experience and skills.
+
 
 We are an equal opportunity employer and value diversity at our organisation. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, or disability status. We are happy to make any reasonable accommodations necessary to welcome all to our workplace. Please contact us to discuss adjustments to the application process. 
 
