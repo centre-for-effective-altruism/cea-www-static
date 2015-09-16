@@ -68,6 +68,8 @@ You&rsquo;ll need excellent written and spoken communications skills, to enjoy i
 
 Some examples of experience that would be especially useful include journalism and sales – though we&rsquo;re interested in anyone who can demonstrate the skills. Also helpful would be experience with customer relationship management systems such as CiviCRM or Salesforce.
 
+
+
 Your application will be assessed using a rubric designed to measure the following traits, and you should aim to demonstrate them in your application:
 
    
@@ -89,7 +91,7 @@ Your application will be assessed using a rubric designed to measure the followi
 
 We would be willing to negotiate a starting salary between £19,000 and £25,000, depending on experience. Salaries are raised by £1,000 each six months conditional on good performance.
 
-<a href="https://eaglobal.typeform.com/to/nUNz0z" style="display: block; border-radius:4px; background-color: #DDD; background-image: linear-gradient(to top, #BBB, #EEE); width: 180px; text-align:center; font-weight:bold; font-size: 28px; border: 1px solid #333; color: #333;" target="_blank">Apply now!</a>
+<a href="https://eaglobal.typeform.com/to/nUNz0z" style="display: block; border-radius:4px; background-color: #DDD; background-image: linear-gradient(to top, #BBB, #EEE); width: 180px; text-align:center; font-weight:bold; font-size: 28px; border: 1px solid #333; color: #333; margin: auto" target="_blank">Apply now!</a>
   
   
 We're also interested in open applications:
