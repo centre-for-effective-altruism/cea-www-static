@@ -2,7 +2,7 @@
 title: "Effective Altruism Outreach: Event Manager"
 bannerImage: /images/uploads/earth-horizon.jpg
 cmsUserSlug: ""
-showInNav: null
+showInNav: false
 date: 2015-09-15T23:00:00.000Z
 published: null
 menuOrder: null
