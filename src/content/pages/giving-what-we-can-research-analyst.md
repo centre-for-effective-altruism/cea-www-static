@@ -94,7 +94,6 @@ Some examples of experience that would be especially useful include:
 
 However, we&rsquo;re interested in anyone who can demonstrate the skills.
 
-<a href="https://eaglobal.typeform.com/to/nUNz0z" style="display: block; border-radius:4px; background-color: #DDD; background-image: linear-gradient(to top, #BBB, #EEE); width: 180px; text-align:center; font-weight:bold; font-size: 28px; border: 1px solid #333; color: #333; margin:auto" target="_blank">Apply now!</a> 
 
 Your application will be assessed using a rubric designed to measure the following traits, and you should aim to demonstrate them in your application:
 
@@ -113,6 +112,10 @@ Your application will be assessed using a rubric designed to measure the followi
 * Social skills and network
 
 * Relevant experience and skills.
+
+<a href="https://eaglobal.typeform.com/to/nUNz0z" style="display: block; border-radius:4px; background-color: #DDD; background-image: linear-gradient(to top, #BBB, #EEE); width: 180px; text-align:center; font-weight:bold; font-size: 28px; border: 1px solid #333; color: #333; margin:auto" target="_blank">Apply now!</a> 
+
+We are an equal opportunity employer and value diversity at our organisation. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, or disability status. We are happy to make any reasonable accommodations necessary to welcome all to our workplace. Please contact us to discuss adjustments to the application process.
 
   
   
