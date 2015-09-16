@@ -2,7 +2,7 @@
 title: "Central Team: Office Manager"
 bannerImage: /images/uploads/earth-horizon.jpg
 cmsUserSlug: ""
-showInNav: null
+showInNav: false
 date: 2015-09-16T00:00:00+01:00
 published: null
 menuOrder: null
