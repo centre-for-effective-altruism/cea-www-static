@@ -97,9 +97,9 @@ Some examples of desirable attributes or experience include:
 
 * Computer-based accountancy skills - We rely heavily on Google Apps and the Google suite of products, you&rsquo;ll need a deep familiarity with Google Sheets and Excel. Understanding of common accounting software such as Kashflow, Xero or QuickBooks is also desirable. If you don&rsquo;t know your debits from your credits, this job isn&rsquo;t for you.
 
-<p class="center"><a href="https://eaglobal.typeform.com/to/nUNz0z" class="btn btn-primary btn-lg"  target="_blank">Apply now!</a></p>
+<p class="center"><a href="https://eaglobal.typeform.com/to/nUNz0z" class="btn btn-primary btn-lg"  target="_blank"><i class="fa fa-edit"></i> Apply now!</a></p>
   
-<h3 class="center">Applications close October 18th at 11:59pm</h3> 
+<div class="alert alert-info center"><i class="fa fa-exclamation-triangle"></i> <strong>Please note:</strong> Applications close October 18th at 11:59pm</div>  
   
 Your application will be assessed using a rubric designed to measure the following traits, and you should aim to demonstrate them in your application:
 

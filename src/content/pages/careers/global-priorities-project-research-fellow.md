@@ -104,9 +104,9 @@ Ideally you would:
 
 * Because there is the possibility that the role will expand in the future, interest and capability in managing a research team is desireable but not required.
 
-<p class="center"><a href="https://eaglobal.typeform.com/to/nUNz0z" class="btn btn-primary btn-lg"  target="_blank">Apply now!</a></p>
+<p class="center"><a href="https://eaglobal.typeform.com/to/nUNz0z" class="btn btn-primary btn-lg"  target="_blank"><i class="fa fa-edit"></i> Apply now!</a></p>
   
-<h3 class="center">Applications close October 18th at 11:59pm</h3>
+<div class="alert alert-info center"><i class="fa fa-exclamation-triangle"></i> <strong>Please note:</strong> Applications close October 18th at 11:59pm</div> 
   
 We are an equal opportunity employer and value diversity at our organisation. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, or disability status. We are happy to make any reasonable accommodations necessary to welcome all to our workplace. Please contact us to discuss adjustments to the application process.
 

@@ -52,9 +52,9 @@ This role will suit someone with a diverse background in all areas of marketing.
 We&rsquo;d prefer you to have at least 2 years experience in a broad range of different marketing roles. If you've worked in marketing or growth hacking at a startup, we want to hear from you. It doesn&rsquo;t matter if you&rsquo;re completely self taught, we&rsquo;re more interested in seeing your portfolio than your degree.
 
   
-<p class="center"><a href="https://eaglobal.typeform.com/to/nUNz0z" class="btn btn-primary btn-lg"  target="_blank">Apply now!</a></p>
+<p class="center"><a href="https://eaglobal.typeform.com/to/nUNz0z" class="btn btn-primary btn-lg"  target="_blank"><i class="fa fa-edit"></i> Apply now!</a></p>
   
-<h3 class="center">Applications close October 18th at 11:59pm</h3>  
+<div class="alert alert-info center"><i class="fa fa-exclamation-triangle"></i> <strong>Please note:</strong> Applications close October 18th at 11:59pm</div>   
   
 Your application will be assessed using a rubric designed to measure the following traits, and you should aim to demonstrate them in your application:
 
