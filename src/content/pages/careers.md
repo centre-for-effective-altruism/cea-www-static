@@ -28,7 +28,7 @@ Check out our position descriptions to see if there's a good fit:
 	<li><a class="eao" href="/careers/effective-altruism-outreach-event-manager">Effective Altruism Outreach: Events Manager</a></li>
 	<li><a class="eao" href="/careers/effective-altruism-outreach-project-manager">Effective Altruism Outreach: Project Manager</a></li>
 	<li><a class="cea" href="/careers/central-team-office-manager">Centre for Effective Altruism: Office Manager</a></li>
-	<li><a class="cea" href="/careers/central-team-director-of-us-operations">Centre for Effective Altruism: Director of <span class="caps">US</span>&nbsp;Operations</a></li>
+	<li><a class="cea" href="/careers/central-team-director-of-us-operations">Centre for Effective Altruism: Director of US Operations</a></li>
 	<li><a class="cea" href="/careers/central-team-finance-manager">Centre for Effective Altruism: Finance Manager</a></li>
 	<li><a class="cea" href="/careers/central-team-full-stack-marketer">Centre for Effective Altruism: Full Stack Marketer</a></li>
 	<li><a class="cea" href="/careers/effective-altruism-strategy-fellow">Centre for Effective Altruism: Effective Altruism Strategy Fellow</a></li>
