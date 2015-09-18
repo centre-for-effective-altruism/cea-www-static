@@ -81,7 +81,9 @@ You should show the ability to clearly consider the strategic implications of di
 * Be well organised, helpful, and demonstrate a positive self-improving mindset.
 
   
-<a href="https://eaglobal.typeform.com/to/nUNz0z" style="display: block; border-radius:4px; background-color: #DDD; background-image: linear-gradient(to top, #BBB, #EEE); width: 180px; text-align:center; font-weight:bold; font-size: 28px; border: 1px solid #333; color: #333; margin:auto" target="_blank">Apply now!</a>  
+<p class="center"><a href="https://eaglobal.typeform.com/to/nUNz0z" class="btn btn-primary btn-lg"  target="_blank">Apply now!</a></p>
+  
+<h3 class="center">Applications close October 18th at 11:59pm</h3>  
   
 Your application will be assessed using a rubric designed to measure the following traits, and you should aim to demonstrate them in your application:
 

@@ -76,7 +76,9 @@ You'll demonstrate each of the following attributes:
   
 If this sounds like you, please apply now! We haven&rsquo;t listed any required qualifications because we believe the most important thing for this role is the right mindset, a willingness to learn and a commitment to helping others. Our starting salary is between £19,000 to £21,000 depending on experience and fit. In addition to this we can provide housing assistance for the first month if you relocate to the Oxford area, we also provide lunch daily and invest in professional development of our staff. Salaries are reviewed every 6 months and can be increased by up to £1,000 each 6 months based on performance. Please get in touch with any further questions or if you're ready:
 
-<a href="https://eaglobal.typeform.com/to/nUNz0z" style="display: block; border-radius:4px; background-color: #DDD; background-image: linear-gradient(to top, #BBB, #EEE); width: 180px; text-align:center; font-weight:bold; font-size: 28px; border: 1px solid #333; color: #333; margin:auto" target="_blank">Apply now!</a>  
+<p class="center"><a href="https://eaglobal.typeform.com/to/nUNz0z" class="btn btn-primary btn-lg"  target="_blank">Apply now!</a></p>
+  
+<h3 class="center">Applications close October 18th at 11:59pm</h3>  
  
 We are an equal opportunity employer and value diversity at our organisation. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, or disability status. We are happy to make any reasonable accommodations necessary to welcome all to our workplace. Please contact us if you would like to discuss adjustments to the application process. 
 

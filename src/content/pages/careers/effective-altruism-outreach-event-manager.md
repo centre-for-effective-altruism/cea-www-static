@@ -68,7 +68,9 @@ Salary is negotiable depending on experience and qualifications. Applicants will
   
 Remote work is acceptable as long as the applicant is able and willing to travel to San Francisco, Oxford or other locations as required to attend and prepare for events in these locations.
 
-<a href="https://eaglobal.typeform.com/to/nUNz0z" style="display: block; border-radius:4px; background-color: #DDD; background-image: linear-gradient(to top, #BBB, #EEE); width: 180px; text-align:center; font-weight:bold; font-size: 28px; border: 1px solid #333; color: #333; margin:auto" target="_blank">Apply now!</a>
+<p class="center"><a href="https://eaglobal.typeform.com/to/nUNz0z" class="btn btn-primary btn-lg"  target="_blank">Apply now!</a></p>
+  
+<h3 class="center">Applications close October 18th at 11:59pm</h3>
 
 We are an equal opportunity employer and value diversity at our organisation. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, or disability status. We are happy to make any reasonable accommodations necessary to welcome all to our workplace. Please contact us to discuss adjustments to the application process. 
 
