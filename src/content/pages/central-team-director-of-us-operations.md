@@ -68,9 +68,9 @@ We&rsquo;re seeking someone who has at least 1 year experience working in an ope
 * Computer skills and a willingness to try new products and services - We need someone who loves trying out different tools before settling on the best one. In this day and age there is an app for every problem, we want you to find out which ones are worth paying for and quickly learn and deploy new systems. We rely heavily on Google Apps and the Google suite of products, you&rsquo;ll need a deep familiarity with Google Sheets and Excel. Understanding of common accounting software such as Xero or QuickBooks is also desirable.
 
 
-<a href="https://eaglobal.typeform.com/to/nUNz0z" style="display: block; border-radius:4px; background-color: #DDD; background-image: linear-gradient(to top, #BBB, #EEE); width: 180px; text-align:center; font-weight:bold; font-size: 28px; border: 1px solid #333; color: #333; margin:auto" target="_blank">Apply now!</a>
+<p class="center"><a href="https://eaglobal.typeform.com/to/nUNz0z" class="btn btn-primary btn-lg"  target="_blank">Apply now!</a></p>
   
-<center><h3>Applications close October 18th at 11:59pm
+<h3 class="center">Applications close October 18th at 11:59pm</h3>
    
  
 
