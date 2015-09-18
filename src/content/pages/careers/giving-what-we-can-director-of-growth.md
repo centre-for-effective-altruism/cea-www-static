@@ -91,7 +91,9 @@ Your application will be assessed using a rubric designed to measure the followi
 
 We would be willing to negotiate a starting salary between £19,000 and £25,000, depending on experience. Salaries are raised by £1,000 each six months conditional on good performance.
 
-<a href="https://eaglobal.typeform.com/to/nUNz0z" style="display: block; border-radius:4px; background-color: #DDD; background-image: linear-gradient(to top, #BBB, #EEE); width: 180px; text-align:center; font-weight:bold; font-size: 28px; border: 1px solid #333; color: #333; margin: auto" target="_blank">Apply now!</a>
+<p class="center"><a href="https://eaglobal.typeform.com/to/nUNz0z" class="btn btn-primary btn-lg"  target="_blank"><i class="fa fa-edit"></i> Apply now!</a></p>
+  
+<div class="alert alert-info center"><i class="fa fa-exclamation-triangle"></i> <strong>Please note:</strong> Applications close October 18th at 11:59pm</div> 
   
   
 We're also interested in open applications:
