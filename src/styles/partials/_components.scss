@@ -82,7 +82,7 @@ html.no-js{
 
 
 
-span {
+a, span {
 
 	&.gwwc {
 		color: $gwwc !important;
@@ -93,5 +93,8 @@ span {
 	}
 	&.gpp {
 		color: $gpp !important;
+	}
+	&.cea {
+		color: $site-primary !important;
 	}
 }

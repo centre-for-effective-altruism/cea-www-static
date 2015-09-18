@@ -120,8 +120,8 @@ var logFilesMap = function(files, metalsmith, done) {
 };
 // SEND CONSOLE MESSAGES
 var logMessage = function(message){
-	console.log('-',message+'...');
 	return function(files, metalsmith, done){
+		console.log('-',message+'...');
 		done();
 	}
 }
