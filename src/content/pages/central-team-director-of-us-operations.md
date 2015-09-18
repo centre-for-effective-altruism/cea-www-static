@@ -10,7 +10,7 @@ menuOrder: null
 
   The Centre for Effective Altruism (CEA) has just gained 501(c)(3) tax-exempt status as a non-profit in the USA. We&rsquo;re after someone to take the lead on our US operations to help us expand and develop our presence in the USA. If you've got a strong focus on optimization and enjoy not only solving complex problems, but finding the best possible solution, let's talk! You&rsquo;ll need to be comfortable reading legal documents, financially literate and extremely good at dealing with bureaucracy. As the Director of US Operations, you&rsquo;ll report to the Chief Operating Officer of CEA. We&rsquo;re growing fast, so we&rsquo;re looking for someone who seeks to build a deep understanding of our goals and needs in order to help us build scalable systems and plan for the future
 
-Your main responsibilities will include:
+### Your main responsibilities will include:
 
 * Manage all the day-to-day operations related to our US-based projects, staff and donors
 
@@ -49,11 +49,11 @@ If you work for the CEA, you&rsquo;ll be part of a dedicated team of intelligent
 
 This role will suit someone with high attention to detail, someone with high levels of agency and intrinsic motivation. This job will involve large amounts of autonomy, so you&rsquo;ll need to be someone who can figure out what to do and then go do it with little guidance. We'd love to hear from you if you enjoy getting into the nitty-gritty details of taxation law, banking fees and experimenting with new apps and services to find the best possible services for the whole organisation to use. You are equal parts cautious and bold, you seek to understand all of the rules in great detail to push forward what is possible without undue risk. You are reliable, you work well with deadlines and competing priorities. You can communicate our financial position, employee benefits and donation methods clearly and accurately to different parties and present data that is accurate, clear and actionable.
 
-Qualifications:
+### Qualifications:
 
 We&rsquo;re seeking someone who has at least 1 year experience working in an operations-heavy role. Suitable experience includes organising events, running and office or holding an administrative role in the US. A university level qualification in business, finance or with some legal background would also be advantageous. Having said this, some of our est operations staff have previously come from backgrounds such as the fast food industry, manufacturing or healthcare.
 
-Some examples of desirable attributes or experience include:
+### Some examples of desirable attributes or experience include:
 
 * Diligence and conscientiousness - Our office culture reflects that of a focused startup, we work hard with intense focus and also relax and unwind together during lunch and after work. You are self-directed enough to work hard alongside the rest of us and engaged and friendly enough to help build our intellectually-stimulating, fun atmosphere. We&rsquo;re all really passionate about the work that we do here and we&rsquo;d like to find someone who feels the same.
 
@@ -67,8 +67,13 @@ Some examples of desirable attributes or experience include:
 
 * Computer skills and a willingness to try new products and services - We need someone who loves trying out different tools before settling on the best one. In this day and age there is an app for every problem, we want you to find out which ones are worth paying for and quickly learn and deploy new systems. We rely heavily on Google Apps and the Google suite of products, you&rsquo;ll need a deep familiarity with Google Sheets and Excel. Understanding of common accounting software such as Xero or QuickBooks is also desirable.
 
+
 <a href="https://eaglobal.typeform.com/to/nUNz0z" style="display: block; border-radius:4px; background-color: #DDD; background-image: linear-gradient(to top, #BBB, #EEE); width: 180px; text-align:center; font-weight:bold; font-size: 28px; border: 1px solid #333; color: #333; margin:auto" target="_blank">Apply now!</a>
   
+<center><h3>Applications close October 18th at 11:59pm
+   
+ 
+
 Your application will be assessed using a rubric designed to measure the following traits, and you should aim to demonstrate them in your application:
 
  * Strong analytical skills
