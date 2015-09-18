@@ -21,17 +21,17 @@ We are looking for the next batch of exceptional candidates to join our team. We
 Check out our position descriptions to see if there's a good fit:
 
 <ul>
-	<li><a class="gwwc" href="/careers/giving-what-we-can-director-of-growth">Giving What We Can: Director of&nbsp;Growth</a></li>
-	<li><a class="gwwc" href="/careers/giving-what-we-can-research-analyst">Giving What We Can: Research&nbsp;Analyst</a></li>
-	<li><a class="gwwc" href="/careers/global-priorities-project-director-of-policy">Global Priorities Project: Director of&nbsp;Policy</a></li>
-	<li><a class="gpp" href="/careers/global-priorities-project-research-fellow">Global Priorities Project: Research&nbsp;Fellow</a></li>
-	<li><a class="eao" href="/careers/effective-altruism-outreach-event-manager">Effective Altruism Outreach: Events&nbsp;Manager</a></li>
-	<li><a class="eao" href="/careers/effective-altruism-outreach-project-manager">Effective Altruism Outreach: Project&nbsp;Manager</a></li>
-	<li><a class="eao" href="/careers/central-team-office-manager">Centre for Effective Altruism: Office&nbsp;Manager</a></li>
+	<li><a class="gwwc" href="/careers/giving-what-we-can-director-of-growth">Giving What We Can: Director of Growth</a></li>
+	<li><a class="gwwc" href="/careers/giving-what-we-can-research-analyst">Giving What We Can: Research Analyst</a></li>
+	<li><a class="gpp" href="/careers/global-priorities-project-director-of-policy">Global Priorities Project: Director of Policy</a></li>
+	<li><a class="gpp" href="/careers/global-priorities-project-research-fellow">Global Priorities Project: Research Fellow</a></li>
+	<li><a class="eao" href="/careers/effective-altruism-outreach-event-manager">Effective Altruism Outreach: Events Manager</a></li>
+	<li><a class="eao" href="/careers/effective-altruism-outreach-project-manager">Effective Altruism Outreach: Project Manager</a></li>
+	<li><a class="cea" href="/careers/central-team-office-manager">Centre for Effective Altruism: Office Manager</a></li>
 	<li><a class="cea" href="/careers/central-team-director-of-us-operations">Centre for Effective Altruism: Director of <span class="caps">US</span>&nbsp;Operations</a></li>
-	<li><a class="cea" href="/careers/central-team-finance-manager">Centre for Effective Altruism: Finance&nbsp;Manager</a></li>
-	<li><a class="cea" href="/careers/central-team-full-stack-marketer">Centre for Effective Altruism: Full Stack&nbsp;Marketer</a></li>
-	<li><a class="cea" href="/careers/effective-altruism-strategy-fellow">Centre for Effective Altruism: Effective Altruism Strategy&nbsp;Fellow</a></li>
+	<li><a class="cea" href="/careers/central-team-finance-manager">Centre for Effective Altruism: Finance Manager</a></li>
+	<li><a class="cea" href="/careers/central-team-full-stack-marketer">Centre for Effective Altruism: Full Stack Marketer</a></li>
+	<li><a class="cea" href="/careers/effective-altruism-strategy-fellow">Centre for Effective Altruism: Effective Altruism Strategy Fellow</a></li>
 </ul>
 
 If none of these take your fancy, we're always on the lookout for talented, experienced professionals to join our team. We're growing quickly and our plans change rapidly. If you think you'd be a good fit, fill out our application form and describe how you could use your skills and experience to support one of our existing projects, or start your own!
