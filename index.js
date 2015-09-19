@@ -370,8 +370,12 @@ colophonemes
 			css: ['app.css'],
 			output: 'app.min.css',
 			removeOriginal: true,
-			uncss: {
-				ignore: ['.collapse.in','.collapsing','.open','.open>.dropdown-menu'],
+			uncss: {				
+				ignore: [
+					/collaps/,
+					/dropdown/,
+					/nav/,
+				],
 				media: ['(min-width: 480px)','(min-width: 768px)','(min-width: 992px)','(min-width: 1200px)']
 			}
 		}))
