@@ -4,8 +4,8 @@ position: Communications Researcher
 featuredImage: /images/people/julia-portrait-1.jpg
 cmsUserSlug: ""
 date: 2015-09-22 
-organisation: null
-staffType: null
+organisation: eao
+staffType: staff
 published: null
 menuOrder: null
 ---
