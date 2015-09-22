@@ -2,8 +2,8 @@
 title: Julia Wise
 position: Communications Researcher
 featuredImage: /images/people/julia-portrait-1.jpg
-cmsUserSlug: "julia-wise"
-date: 2015-09-22 
+cmsUserSlug: julia-wise
+date: 2015-09-22T00:00:00.000Z
 organisation: eao
 staffType: staff
 published: true
