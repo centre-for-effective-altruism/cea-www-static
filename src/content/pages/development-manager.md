@@ -3,14 +3,14 @@ title: Development Manager
 bannerImage: /images/uploads/earth-horizon.jpg
 cmsUserSlug: ""
 showInNav: null
-date: 2015-09-22T00:00:00+01:00
+date: 2015-09-21T23:00:00.000Z
 published: null
 menuOrder: null
 ---
 
   As Development Manager for the Centre for Effective Altruism (CEA) you will work closely with the central operations team and with the executive directors (EDs) to coordinate and support our development efforts. You will seek out opportunities for funding and support from institutions and public-sector sources. You will advise the executive directors of Giving What We Can, 80,000 Hours, the Global Priorities Project on fundraising strategy and support their work. You will coordinate fundraising between projects. We are looking for someone with 2-5 years of experience in development who will be able to bring an external perspective and good practice to our work, but need not necessarily bring a well developed donor network.
 
-Your main responsibilities will include:
+## Your main responsibilities will include:
 
 * Supporting EDs to develop their fundraising plans, pitches, and estimating the appropriate ask
 
@@ -27,7 +27,7 @@ Your main responsibilities will include:
 * Encouraging efforts to expand and broaden our donor base
 
   
-What does the Centre for Effective Altruism do?
+## What does the Centre for Effective Altruism do?
 
   
 The Centre for Effective Altruism is developing its capabilities for wisely guiding the growing Effective Altruism movement. Founded in 2012, the Centre for Effective Altruism is a fast-growing start-up non-profit. We have been approximately doubling annually, and currently have about 20 full-time staff. Our aim is to support and develop projects that make the world a better place using evidence and analysis. We are a central part of the effective altruism movement - having developed the term in 2012.
@@ -39,7 +39,7 @@ At the moment, the Centre primarily supports effective altruist projects and hel
 We are an incredibly exciting place to work - with a strong culture of like-minded and hard-working people, dedicated to doing the most good we can. We&rsquo;re also a great place to grow as fast as you want to - staff are encouraged to take initiative to launch projects and supported in it. People who show promise are rapidly encouraged to take on responsibility.
 
   
-Our current projects include:
+### Our current projects include:
 
 * Giving What We Can: a community of donors giving a tenth of their income to the most effective charities
 
@@ -53,21 +53,21 @@ Our current projects include:
 CEA is based in Oxford, although some of our staff work remotely and in the United States. Although we would prefer you to work with us in our Oxford offices, both part-time and remote work are potentially possible.
 
    
-### Why apply?
+## Why apply?
 
 Professionalising and improving CEAs capabilities in development is extremely important to our long-term success. We&rsquo;re looking to double in size over the next year, which will require a big growth in our donor base. As one of the core team members of a rapidly growing small organisation, you&rsquo;ll have a huge amount of responsibility, autonomy and room to grow. You&rsquo;ll provide valuable support to all of the key projects in the Centre for Effective Altruism, giving you a chance to impact a wide variety of different cause areas and approaches to doing the most good.
 
 If you work for CEA, you&rsquo;ll be part of a focused team of intelligent, caring, enthusiastic colleagues who want to change the world, located in beautiful Oxford.
 
-### Who is suited to this role?
+## Who is suited to this role?
 
 You have some experience in development, possibly at a larger organisation or at a start-up. You are able to manage multiple stakeholders, both externally and internally. You are self-motivated and able to independently develop improvements to current practice, while understanding the reasons for existing systems.
 
-Qualifications:
+### Qualifications:
 
 We&rsquo;re seeking someone who has 2-5 years experience working in development, however, we&rsquo;re interested in anyone who can demonstrate the skills.
 
-Some examples of desirable attributes or experience include:
+#### Some examples of desirable attributes or experience include:
 
 * A good understanding of development and fundraising and the ability to build strong trust-based relationships with our donors and the internal team.
 
