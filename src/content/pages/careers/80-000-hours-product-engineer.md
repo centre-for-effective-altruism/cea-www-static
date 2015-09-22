@@ -5,8 +5,6 @@ date: "2015-09-22 14:39 +0100"
 title: "80,000 Hours: Product Engineer"
 ---
 
-![earth-horizon.jpg]({{site.baseurl}}/src/images/banners/earth-horizon.jpg)
-
 Our aim is to help as many graduates as possible maximise the social impact of their careers. We’re looking for a web product engineer to lead the development of our interactive career guide.
 
 If you’re a good fit, this job is probably by far the highest-impact thing you could do with your life.
@@ -85,6 +83,8 @@ If you’re not sure, the quickest way to find out is to fill out a [quick appli
 
 Our aim is to hire by January 2016, but we may move faster or slower depending on how things go.
 
-**[Apply now](https://80000hours.typeform.com/to/nAKpsY?c=xxxxx)
+<p class="center"><a href="https://80000hours.typeform.com/to/nAKpsY?c=xxxxx" class="btn btn-primary btn-lg"  target="_blank"><i class="fa fa-edit"></i> Apply now!</a></p>
+<div class="alert alert-info center"><i class="fa fa-exclamation-triangle"></i> <strong>Please note:</strong> Applications close October 1st at 11:59pm</div>  
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
+
