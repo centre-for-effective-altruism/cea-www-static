@@ -32,6 +32,7 @@ Check out our position descriptions to see if there's a good fit:
 	<li><a class="cea" href="/careers/central-team-finance-manager">Centre for Effective Altruism: Finance Manager</a></li>
 	<li><a class="cea" href="/careers/central-team-full-stack-marketer">Centre for Effective Altruism: Full Stack Marketer</a></li>
 	<li><a class="cea" href="/careers/effective-altruism-strategy-fellow">Centre for Effective Altruism: Effective Altruism Strategy Fellow</a></li>
+<li><a class="cea" href="/careers/development-manager">Centre for Effective Altruism: Development Manager</a></li>
 </ul>
 
 We're also taking applications for internship positions at Giving What We Can. Please fill out the application form below to apply for internships with a flexible start date. We usually take interns for 1-3 months, at any time of the year. Interns are encouraged to seek funding from their university if possible, however limited funding may be available from CEA where there is financial need.
