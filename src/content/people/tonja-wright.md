@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Tonja Wright
 organisation: cea
 staffType: staff
