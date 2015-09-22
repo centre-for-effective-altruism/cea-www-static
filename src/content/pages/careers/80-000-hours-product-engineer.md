@@ -2,7 +2,6 @@
 menuOrder: "5"
 showInNav: false
 date: "2015-09-22 14:39 +0100"
-published: false
 title: "80,000 Hours: Product Engineer"
 ---
 
