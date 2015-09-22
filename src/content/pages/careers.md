@@ -33,7 +33,6 @@ Check out our position descriptions to see if there's a good fit:
 	<li><a class="cea" href="/careers/central-team-full-stack-marketer">Centre for Effective Altruism: Full Stack Marketer</a></li>
 	<li><a class="cea" href="/careers/effective-altruism-strategy-fellow">Centre for Effective Altruism: Effective Altruism Strategy Fellow</a></li>
 	<li><a class="cea" href="/careers/development-manager">Centre for Effective Altruism: Development Manager</a></li>
-</ul>
 	<li><a class="80k" href="/careers/80-000-hours-product-engineer">80,000 Hours: Product Engineer</a></li>
 </ul>
 
