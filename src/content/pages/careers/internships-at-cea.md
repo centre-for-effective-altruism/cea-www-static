@@ -9,11 +9,9 @@ date: "2015-07-20 13:05 +0100"
 
 ### About CEA
 
-We are looking for people who want to work for 80,000 Hours and Giving What We Can, which both fall under the umbrella organisation the Centre for Effective Altruism (CEA).
+We are looking for people who want to work for Giving What We Can and the Centre for Effective Altruism (CEA).
 
 The Centre for Effective Altruism (CEA) is a young and rapidly expanding organisation committed to making the world a better place in a considered, evidence-based way. We are affiliated with the University of Oxford, particularly the Future of Humanity Institute, in whose office we are based.
-
-**80,000 Hours** provides free evidence-based career advice to people who want to make a difference with their careers.
 
 **Giving What We Can** evaluates global poverty charities and encourages people to give 10% of their income to those that are most cost-effective.
 
@@ -25,7 +23,7 @@ All roles are based at our office in Oxford, in a building shared with academics
 
 ### Intern with us on our Graduate Volunteer Scheme
 
-We are recruiting for people to volunteer with us full-time in Oxford. We run a Graduate Volunteer Scheme on which people intern with us, generally for at least three months and often for longer. We can often provide accommodation in a house with other volunteers and staff, free lunch, and expenses of up to £8 a day based on financial need, especially for longer-term interns. As you would play an important role for a significant period, we would make sure it didn’t leave you out of pocket.
+We are recruiting for people to volunteer with us full-time in Oxford. We run a Graduate Volunteer Scheme on which people intern with us, generally for at least three months and often for longer. We can often provide accommodation in a house with other volunteers and staff, free lunch, and expenses of up to £10 a day based on financial need, especially for longer-term interns. As you would play an important role for a significant period, we would make sure it didn’t leave you out of pocket.
 
 There are lots of different areas to work on, and there’s plenty of flexibility to adjust the role so it plays to your strengths and development aims. We make it our responsibility to ensure your time here allows you to grow as much as possible, as well as just being lots of fun! The scheme has proved very popular with our current interns, with a stimulating and dedicated atmosphere in the office and a lively and welcoming community outside office hours. Perhaps the strongest evidence of this is that many have extended their stays repeatedly. Once you have applied, we are happy to connect you with a current intern to discuss what it’s like to work here. 
 
