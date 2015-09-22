@@ -1,5 +1,4 @@
 ---
-published: false
 title: Internships
 menuOrder: "5"
 date: "2015-07-20 13:05 +0100"
