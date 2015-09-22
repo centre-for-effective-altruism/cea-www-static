@@ -34,6 +34,8 @@ Check out our position descriptions to see if there's a good fit:
 	<li><a class="cea" href="/careers/effective-altruism-strategy-fellow">Centre for Effective Altruism: Effective Altruism Strategy Fellow</a></li>
 </ul>
 
+We're also taking applications for internship positions at Giving What We Can. Please fill out the application form below to apply for internships with a flexible start date. We usually take interns for 1-3 months, at any time of the year. Interns are encouraged to seek funding from their university if possible, however limited funding may be available from CEA where there is financial need.
+
 If none of these take your fancy, we're always on the lookout for talented, experienced professionals to join our team. We're growing quickly and our plans change rapidly. If you think you'd be a good fit, fill out our application form and describe how you could use your skills and experience to support one of our existing projects, or start your own!
 
 <p class="center"><a href="https://eaglobal.typeform.com/to/nUNz0z" class="btn btn-primary btn-lg"  target="_blank"><i class="fa fa-edit"></i> Apply now!</a></p>  
@@ -41,20 +43,15 @@ If none of these take your fancy, we're always on the lookout for talented, expe
 
 Please email **recruitment&nbsp;[at]&nbsp;centreforeffectivealtruism&nbsp;[dot]&nbsp;org** if you have any queries or would like to request any alternate arrangements to our usual application process. 
 
-## Previous recruitment rounds
+All jobs are based at our offices in the University of Oxford, unless otherwise specified. We can usually rent accommodation in Oxford to new employees. Where possible, we encourage people who are considering working here to visit the office and get to know us in person.
 
-***Our previous recruitment round finished 12th December 2014. You can see the roles we were taking applications for below to get a sense of some of the positions we offer.***
+## Applying from outside the EU
 
-We were offering a $1,000 reward for introductions to anyone we don’t already know who we end up hiring. We will do so again in the next recruitment round.
+We can often provide visas for interns from outside the EU, and sometimes do the same for prospective employees. As a result, we encourage applications from around the world.
 
-*   [Giving What We Can: Director of Research](/careers/director-of-research-for-giving-what-we-can/)
-*   [Giving What We Can: Director of Communications](/careers/director-of-communications-for-giving-what-we-can/)
-*   [80,000 Hours: Head of Research](/careers/head-of-research-for-80-000-hours/)
-*   [Central CEA: Chief Operating Officer](/careers/chief-operating-officer-for-the-centre-for-effective-altruism/)
-*   [Global Priorities Project: Research Fellow](/careers/the-global-priorities-project-is-seeking-a-research-fellow/) (accepting expressions of interest at this point)
-*   We are also looking for [‘graduate volunteers’ for Giving What We Can](https://www.givingwhatwecan.org/get-involved/volunteer-or-work-us) in 2015, particularly over the summer
+We can usually hire under-30s from Canada, New Zealand and Australia on [Tier 5 visas](https://www.gov.uk/tier-5-youth-mobility/overview).
 
-All jobs are based at our offices in the University of Oxford. We can usually rent accommodation in Oxford to new employees. Where possible, we encourage people who are considering working here to visit the office and get to know us in person.
+<p class="center"><a href="/contact" class="btn btn-primary">More questions? Get in touch <i class="fa fa-at"></i> <i class="fa fa-phone"></i> <i class="fa fa-envelope"></i></a></p>
 
 ## What are we looking for?
 
@@ -85,12 +82,5 @@ Of course this will depend on the role, but good general advice includes trying 
 *   Gain professional experience in established organisations where you will learn a lot, such as working in consulting, government, politics, advocacy, law, think-tanks, movement building, journalism, etc. You can learn more about building up your ‘career capital’ [here](https://80000hours.org/career-guide/).
 *   Get experience promoting effective altruist ideas online, or to people you already know.
 *   Use [80,000 Hours’ research](https://80000hours.org/) to do a detailed analysis of your own future career plans.
-
-## Applying from outside the EU
-
-We can often provide visas for interns from outside the EU, and sometimes do the same for prospective employees. As a result, we encourage applications from around the world.
-
-We can usually hire under-30s from Canada, New Zealand and Australia on [Tier 5 visas](https://www.gov.uk/tier-5-youth-mobility/overview).
-
 
 <p class="center"><a href="/contact" class="btn btn-primary">More questions? Get in touch <i class="fa fa-at"></i> <i class="fa fa-phone"></i> <i class="fa fa-envelope"></i></a></p>
