@@ -91,7 +91,11 @@ At the moment, we have programmes of work addressing effective public decision-m
 
 </div><!-- /current-projects -->
 
-
+### Want to work with us? We're now hiring!
+If you're interested in a career at the Centre for Effective Altruism check out our [careers page](https://www.centreforeffectivealtruism.org/careers) . We're now hiring for a record 13 positions spread across our current projects. 
+<p class="center"><a href="https://eaglobal.typeform.com/to/nUNz0z" class="btn btn-primary btn-lg"  target="_blank"><i class="fa fa-edit"></i> Apply now!</a></p>
+  
+<div class="alert alert-info center"><i class="fa fa-exclamation-triangle"></i> <strong>Please note:</strong> Applications close October 18th at 11:59pm</div>  
 
 <div class="row previous-projects">
 
