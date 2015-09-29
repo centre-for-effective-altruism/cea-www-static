@@ -97,6 +97,7 @@ If you're interested in a career at the Centre for Effective Altruism check out 
   
 <div class="alert alert-info center"><i class="fa fa-exclamation-triangle"></i> <strong>Please note:</strong> Applications close October 18th at 11:59pm</div>  
 
+
 <div class="row previous-projects">
 
 <div>
