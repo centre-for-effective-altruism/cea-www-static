@@ -23,7 +23,7 @@ We are now a registered, tax-exempt non-profit with 501(c)(3) status in the USA!
 
 <h3><i class="fa fa-money"></i> Bank Transfer</h3>
 
-Please [email us](/contact) and we’ll send you our banking details. Donating via wire transfer saves us a 5% fee from Tides, so this is our preferred method for larger donations. If you indicate that you are a US taxpayer, we will issue an IRS-compliant receipt and send you a copy of our IRS determination letter upon request.
+Please [email us](/contact) and we’ll send you our banking details. Donating via wire transfer or ACH is our preferred method for larger donations. If you indicate that you are a US taxpayer, we will issue an IRS-compliant receipt and send you a copy of our IRS determination letter upon request.
 
 </div>	
 
@@ -31,7 +31,7 @@ Please [email us](/contact) and we’ll send you our banking details. Donating v
 
 <h3><i class="fa fa-usd"></i> Venmo</h3>
 
-You may now donate to us fee-free using [Venmo](https://venmo.com/). Just search for **@Centrefor-EffectiveAltruism** and tell us which project you would like your donation to go to in the comment section.
+You may now donate to us fee-free using [Venmo](https://venmo.com/). Just search for **@Centrefor-EffectiveAltruism** and tell us which project you would like your donation to go to in the comment section. This is our preferred donation method for donations up to $1000
 
 </div>
 
@@ -39,14 +39,15 @@ You may now donate to us fee-free using [Venmo](https://venmo.com/). Just search
 
 <h3><i class="fa fa-pencil-square-o"></i> Check</h3>
 
-_Checks are processed by our fiscal sponsor, the [Tides Foundation](http://www.tides.org/). If possible, please consider making a bank transfer instead, which saves us a 5% processing fee._
+_Checks can be mailed to the address below, however please consider making an electronic donation to save us processing time. Please email us if you would like to restrict your donation to one of our projects._
 
-Please write ‘Centre for Effective Altruism’ on the ‘Memo’ line, make the check payable to ‘Tides Foundation’, then mail to:
+Please make the check payable to ‘Centre for Effective Altruism USA Inc.’, then mail to:
 
-**Tides Foundation**
-The Presidio
-P.O. Box 29903, San Francisco
-CA 94129
+Centre for Effective Altruism USA Inc.
+C/O Peter Eckersley
+815 Eddy St
+San Francisco
+94109
 
 </div>
 
