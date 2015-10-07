@@ -47,6 +47,9 @@ Please email **recruitment&nbsp;[at]&nbsp;centreforeffectivealtruism&nbsp;[dot]&
 
 All jobs are based at our offices in the University of Oxford, unless otherwise specified. We can usually rent accommodation in Oxford to new employees. Where possible, we encourage people who are considering working here to visit the office and get to know us in person.
 
+### Positions of the Future of Humanity Institute
+The Future of Humanity Institute, which we share an office with, is also looking for some researchers to join their team. Working at FHI is a great opportunity for impact if you are particularly interested in existential risk or far-future concerns. The research team at FHI is multi-disciplinary, and they're hoping to find new researchers with a background in computer science and machine learning and policy analysts with a background in the governance of emerging technologies. [Read more about the openings at FHI here](http://www.fhi.ox.ac.uk/vacancies/)
+
 ## Applying from outside the EU
 
 We can often provide visas for interns from outside the EU, and sometimes do the same for prospective employees. As a result, we encourage applications from around the world.
