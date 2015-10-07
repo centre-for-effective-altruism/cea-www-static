@@ -1,5 +1,5 @@
 ---
-title: Seb Farqhuar
+title: Seb Farquhar
 position: Executive Director
 organisation: cea
 staffType: staff
