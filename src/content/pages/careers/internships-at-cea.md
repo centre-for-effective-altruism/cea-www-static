@@ -45,4 +45,8 @@ In general, we’re looking for people who have many of the following traits:
 
 ### How to apply
 
-To apply, [please complete this form](https://docs.google.com/forms/d/1UOrtl2KUvuEF041_TsbJ9iKy6JgkpAhbRPvjr33AaNs/viewform "Application Form"). There is no deadline for the voluntary roles. However, if you apply early, you will maximise your chances of success.
+<p class="center"><a href="https://eaglobal.typeform.com/to/nUNz0z" class="btn btn-primary btn-lg"  target="_blank"><i class="fa fa-edit"></i> Apply now!</a></p>
+  
+<div class="alert alert-info center"><i class="fa fa-exclamation-triangle"></i> <strong>Please note:</strong> Applications close October 18th at 11:59pm</div> 
+
+To apply, please fill out our online application form and select "Internships" when prompted to indicate which positions you are applying for. There is no deadline for the voluntary roles and we will accept applications at any time in the year. However, if you apply during our recruitment round, you will maximise your chances of success.
