@@ -14,11 +14,13 @@ Do you want to work for a dynamic, forward-looking organisation with some [amazi
 
 Read more about [why we're a fantastic place to work](/careers/why-work-with-us/).
 
-## Current opportunities
+We run recruitment rounds roughly every six months, we've just wrapped up our October hiring round, you can read more about the positions below to get a feel for what we're looking for. 
 
-We are looking for the next batch of exceptional candidates to join our team. We're recruiting for positions based out of our office in beautiful Oxford as well as remote or location independent positions. 
+#### Previous opportunities
 
-Check out our position descriptions to see if there's a good fit:
+*Please note - applications for the positions listed below have now closed*
+
+Here's a list of positions we advertised for in October. We'll be looking to hire the next batch of talented recruits to work in our beautiful Oxford offices from April 2016.
 
 <ul>
 	<li><a class="gwwc" href="/careers/giving-what-we-can-director-of-growth">Giving What We Can: Director of Growth</a></li>
@@ -36,18 +38,15 @@ Check out our position descriptions to see if there's a good fit:
 	<li><a class="80k" href="/careers/80-000-hours-product-engineer">80,000 Hours: Product Engineer</a></li>
 </ul>
 
-We're also taking applications for internship positions at Giving What We Can. Please fill out the application form below to apply for internships with a flexible start date. We usually take interns for 1-3 months, at any time of the year. Interns are encouraged to seek funding from their university if possible, however limited funding may be available from CEA where there is financial need.
+We're also taking applications for internship positions at Giving What We Can. Please email recruitment[at]centreforeffectivealtruism.org with your CV and a cover letter to apply for an internship position. We usually take interns for 1-3 months, at any time of the year. Interns are encouraged to seek funding from their university if possible, however limited funding may be available from CEA where there is financial need.
 
-If none of these take your fancy, we're always on the lookout for talented, experienced professionals to join our team. We're growing quickly and our plans change rapidly. If you think you'd be a good fit, fill out our application form and describe how you could use your skills and experience to support one of our existing projects, or start your own!
-
-<p class="center"><a href="https://eaglobal.typeform.com/to/nUNz0z" class="btn btn-primary btn-lg"  target="_blank"><i class="fa fa-edit"></i> Apply now!</a></p>  
-<div class="alert alert-info center"><i class="fa fa-alert"></i> <strong>Please note:</strong> Applications close October 18th at 11:59pm</div>  
+If none of these take your fancy, we're always on the lookout for talented, experienced professionals to join our team. We're growing quickly and our plans change rapidly. If you think you'd be a good fit, email us and describe how you could use your skills and experience to support one of our existing projects, or start your own!
 
 Please email **recruitment&nbsp;[at]&nbsp;centreforeffectivealtruism&nbsp;[dot]&nbsp;org** if you have any queries or would like to request any alternate arrangements to our usual application process. 
 
 All jobs are based at our offices in the University of Oxford, unless otherwise specified. We can usually rent accommodation in Oxford to new employees. Where possible, we encourage people who are considering working here to visit the office and get to know us in person.
 
-### Positions of the Future of Humanity Institute
+### Positions at the Future of Humanity Institute
 The Future of Humanity Institute, which we share an office with, is also looking for some researchers to join their team. Working at FHI is a great opportunity for impact if you are particularly interested in existential risk or far-future concerns. The research team at FHI is multi-disciplinary, and they're hoping to find new researchers with a background in computer science and machine learning and policy analysts with a background in the governance of emerging technologies. [Read more about the openings at FHI here](http://www.fhi.ox.ac.uk/vacancies/)
 
 ## Applying from outside the EU
