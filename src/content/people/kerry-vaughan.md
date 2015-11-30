@@ -1,6 +1,6 @@
 ---
 title: Kerry Vaughan
-position: Director of Marketing
+position: Executive Director - EA Outreach
 organisation: eao
 staffType: contractor
 menuOrder: "4"
