@@ -1,6 +1,6 @@
 ---
 title: Julia Wise
-position: Communications Researcher
+position: Community Manager
 featuredImage: /images/people/julia-portrait-1.jpg
 cmsUserSlug: julia-wise
 date: 2015-09-22T00:00:00.000Z
