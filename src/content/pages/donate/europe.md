@@ -19,9 +19,9 @@ template: donate.jade
 
 <div class="col-sm-6">
 
-<h3><i class="fa fa-eur"></i> Donating from continental Europe?</h3>
+<h3><i class="fa fa-eur"></i> Transnational Giving Europe</h3>
 
-Don’t live in the UK? If you live in Europe, our partners at [Transnational Giving Europe](http://www.transnationalgiving.eu/) can organise tax deductible donations from anywhere in the EU. Please email us at **development [at] centreforeffectivealtruism [dot] org** and we will chase up [your country’s details](http://www.transnationalgiving.eu/tge/details.aspx?id=219942&LangType=1033) for you.
+If you pay tax in Europe, our partners at [Transnational Giving Europe](http://www.transnationalgiving.eu/tge/details.aspx?id=219942&LangType=1033/) can organise tax deductible donations from anywhere in the EU. You can make a donation to any of the partners listed on the TGE website and they'll pass the donation on to us. For help, please email us at **development [at] centreforeffectivealtruism [dot] org** and we will chase up [your country’s details](http://www.transnationalgiving.eu/tge/details.aspx?id=219942&LangType=1033) for you.
 
 </div>
 
@@ -39,4 +39,4 @@ If you don't pay tax in Europe, or you don't need your donation to be tax-deduct
 
 ### Want to restrict your donation?
 
-If you have made a donation, you would like to restrict it to one of our projects ([Giving What We Can](https://www.givingwhatwecan.org/), [80,000 Hours](https://80000hours.org), [Global Priorities Project](http://www.globalprioritiesproject.org) or [Effective Altruism Outreach](http://effectivealtruism.org/)), and we don’t already know about it, please email us at **development [at] centreforeffectivealtruism [dot] org**.
+If you have made a donation, you would like to restrict it to one of our projects ([Giving What We Can](https://www.givingwhatwecan.org/), [80,000 Hours](https://80000hours.org), [Global Priorities Project](http://www.globalprioritiesproject.org) or [Effective Altruism Outreach](http://effectivealtruism.org/)), and we don’t already know about it, please [email us](/contact).
