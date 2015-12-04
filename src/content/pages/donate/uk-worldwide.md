@@ -35,7 +35,6 @@ BT MyDonate only incurs a £0.15 fee for each donation, and GiftAid is automatic
 </div>
 
 <div class="col-sm-4">
-****
 
 <h3><i class="fa fa-paypal"></i> Paypal</h3>
 
