@@ -50,7 +50,6 @@ PayPal fees are higher (1.4% + £0.20 for donations in British Pounds (£), and 
 			<option value="JDHK3NT4Q3LX2">80,000 Hours</option>
 			<option value="G5EDUDV83Z6TW">Global Priorities Project</option>
 			<option value="MW92KN2EMFJHY">Effective Altruism Outreach</option>
-		
 		</select>
 	</div>
 	<button type="submit" name="submit" class="btn btn-primary">
