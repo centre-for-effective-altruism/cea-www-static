@@ -25,13 +25,15 @@ We are now a registered, tax-exempt non-profit with 501(c)(3) status in the USA!
 
 Please [email us](/contact) and we’ll send you our banking details. Donating via wire transfer or ACH is our preferred method for larger donations. If you indicate that you are a US taxpayer, we will issue an IRS-compliant receipt and send you a copy of our IRS determination letter upon request.
 
+You can also send donations via email or text message if you bank with Chase, Bank of America, CapitalOne, FirstBank or Wells Fargo, just enter "Centre for Effective Altruism USA Inc" as the recipient name and use tara[at]centreforeffectivealtruism.org as the email address (please note that both our account name and the email address use the UK spelling of "centre")
+
 </div>	
 
 <div class="col-sm-4">
 
 <h3><i class="fa fa-usd"></i> Venmo</h3>
 
-You may now donate to us fee-free using [Venmo](https://venmo.com/). Just search for **@Centrefor-EffectiveAltruism** and tell us which project you would like your donation to go to in the comment section. This is our preferred donation method for donations up to $1000
+You may now donate to us fee-free using [Venmo](https://venmo.com/). Just search for **@Centrefor-EffectiveAltruism** and tell us which project you would like your donation to go to in the comment section. This is our preferred donation method for donations up to $3000
 
 </div>
 
