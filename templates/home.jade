@@ -4,6 +4,12 @@ block header
 	//- h1.page-title Welcome to the #{siteInfo.title}
 	img.img-responsive#site-logo(src="/images/logos/cea-logo-banner.png")
 
+block content
+	.container
+		.row
+			.col-sm-12
+				div.page-content!= contents
+
 block scripts
 	script.
 		// Only show site logo if user has scrolled past main logo
