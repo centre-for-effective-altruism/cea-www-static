@@ -37,7 +37,10 @@ nav.navbar.navbar-default.navbar-fixed-top#main-nav
 									each child in page.children
 										//- use the child page's menuTitle attribute if it exists, or default to using the 'title' attribute
 										- var childTitle = child.menuTitle ? child.menuTitle : child.title;
-										if  child.showInNav !== false
+										if child.linkOnly === true
+											li
+												a(href=child.link)!= childTitle
+										else if  child.showInNav !== false
 											li(class=[(path === child.path?'active':'')])
 												a(href=relative(child.path))!= childTitle
 							else
