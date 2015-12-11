@@ -8,7 +8,7 @@ description: ""
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=ZCOOtc-sofM
 " target="_blank"><img src="http://img.youtube.com/vi/ZCOOtc-sofM/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="Movement Development - Kerry Vaughan" width="480" height="360" border="10" /></a>
 
 <p class="center"><a href="/donate" class="btn btn-primary btn-lg"  target="_blank"><i class="fa fa-edit"></i> Donate now!</a></p>
 
