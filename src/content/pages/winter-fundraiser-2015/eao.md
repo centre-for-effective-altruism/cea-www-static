@@ -6,7 +6,11 @@ description: ""
 ---
 <div class="center">
 
-![](https://lh4.googleusercontent.com/jQYfD_AN5Vxmli9XdS00_RV11e9piP7v8EbV75lyf-wY74nNeSs6YrsR8uCUsfGMQMDbwPYoIILV_HWUOJzJmkMv48Xldb7marC7f8WPLef_KI_2av6JqDfznEU0qg2wAyIZZCJw)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=ZCOOtc-sofM
+" target="_blank"><img src="http://img.youtube.com/vi/ZCOOtc-sofM/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+<p class="center"><a href="/donate" class="btn btn-primary btn-lg"  target="_blank"><i class="fa fa-edit"></i> Donate now!</a></p>
 
 </div>
 
@@ -25,8 +29,6 @@ Over 2015 we also saw rapid growth in the EA community. Giving What We Can grew 
 Our plan for 2016 is to pivot from focusing growing the EA community and towards focusing on enabling the EA community to reach its full potential. It seems to us that EA is at a point in its development where it is likely to continue to grow rapidly without marginal effort from our team. Yet, comparatively little marginal effort seems to be allocated to ensuring that the EA community has the infrastructure in place to ensure that EA grows in helpful rather than harmful ways. EAO will work on developing this infrastructure.
 
 The reference class of social movements is not a kind one to effective altruism. Most social movements fail. Still more social movements accomplish something short of their goals. Yet, effective altruism runs all of the risks inherent in social movements combined with the risks inherent in pursuing ambitious goals like ending poverty or stopping factory farming. We should expect the mainline result for EA to be a fraction of the impact we can achieve if EA does exceptionally well. And, we should expect the most probable outcome to be the eventual collapse of effective altruism. Avoiding this result will require that we intentionally build infrastructure, cooperation mechanisms and facilitate healthy social environments to help EA avoid potential existential risks to the movement and to ensure that we grow and flourish as a community.
-
-<p class="center"><a href="/donate" class="btn btn-primary btn-lg"  target="_blank"><i class="fa fa-edit"></i> Donate now!</a></p>
 
 # Projects for 2016
 
