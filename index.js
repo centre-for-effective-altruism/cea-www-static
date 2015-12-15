@@ -324,7 +324,7 @@ colophonemes
 	// Build Javascript
 	.use(logMessage('Building Javascript files'))
 	.use(concat({
-		files: 'scripts/!(lazysizes)/*.js',
+		files: 'scripts/**/!(lazysizes).js',
 		output: 'scripts/user.js'
 	}))
 	.use(bower)
@@ -375,6 +375,8 @@ colophonemes
 					/collaps/,
 					/dropdown/,
 					/nav/,
+					/fundraising/,
+					/progress/,
 				],
 				media: ['(min-width: 480px)','(min-width: 768px)','(min-width: 992px)','(min-width: 1200px)']
 			}

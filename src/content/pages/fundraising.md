@@ -4,7 +4,12 @@ title: Winter Fundraiser 2015
 menuOrder: "5"
 bannerImage: "/images/banners/surface-map-clouds.jpg"
 description: ""
+template: fundraising.jade
 ---
+
+<p class="center"><a href="/donate" class="btn btn-primary btn-lg"  target="_blank"><i class="fa fa-heart"></i> Donate now!</a></p>
+
+
 Over the next few weeks, the Centre for Effective Altruism will be reaching out to the community to raise funds to support our next year of work.
 
 So far, more than 300 effective altruists have contributed to CEA. If it were not for your help, we would not have been able to create a community of effective givers who have pledged more than half a billion dollars to charity, guide hundreds of graduates into careers that make a difference, advise policy-makers around the world on effective policy, or support the effective altruist movement through events like EA Global. Now we need your continued support to help us build on that work. You can find much more detail in the 2015 CEA Winter Prospectus.
@@ -28,4 +33,4 @@ Each part of CEA will be raising more this winter to help us hire great people, 
 
 Each organisation will be communicating more about their plans and funding needs. You can find an overview of all of our work in the [2015 CEA Winter Prospectus](/files/Fundraising-Prospectus-Winter-2015.pdf).
 
-<p class="center"><a href="/donate" class="btn btn-primary btn-lg"  target="_blank"><i class="fa fa-edit"></i> Donate now!</a></p>
+<p class="center"><a href="/donate" class="btn btn-primary btn-lg"  target="_blank"><i class="fa fa-heart"></i> Donate now!</a></p>

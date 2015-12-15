@@ -1,0 +1,39 @@
+
+.fundraising-progress-content
+	script.
+		document.querySelector('.fundraising-progress-content').style.display = 'none';
+	.row.fundraising-progress-header
+		.col-xs-12
+			h3.regular-header Fundraising Progress
+			h3.nav-header
+				| Support the Centre for Effective Altruism — only 
+				span.days-left(data-end-date='Dec 31, 2015') X days
+				|  left!
+	.row.fundraising-progress-explanation
+		.col-xs-12.col-md-6
+			p Help the world combine empathy with evidence by supporting the Centre for Effective Altruism's Winter Fundraiser.
+		.col-xs-12.col-md-6.center
+			.row
+				.col-xs-12.col-sm-6
+					a.btn.btn-primary.support(href='/winter-fundraiser-2015') Learn More
+				.col-xs-12.col-sm-6
+					a.btn.btn-default.close-progress-bar(href='#') Maybe later
+	.row.fundraising-progress-bar
+		.col-xs-12
+			h4.organisation-name
+		.col-xs-12
+			.progress
+				.progress-bar.progress-bar-primary.donated
+					| £
+					span.donated-amount
+						!= donated
+					|  donated
+				.progress-bar.progress-bar-warning.remaining
+					| £
+					span.remaining-amount
+						!= remaining
+					|  remaining
+		.col-xs-12
+			.target
+				| Target: £
+				span.target-amount {{target|numeral('0,0')}}

@@ -1,0 +1,101 @@
+.fundraising-progress-wrapper {
+	clear: both;
+	background-color: #EEE;
+	overflow: hidden;
+}
+.fundraising-progress-content {
+	padding: $grid-gutter-width;
+	margin-bottom: $grid-gutter-width;
+	background-color: #EEE;
+	.fundraising-progress-header {
+		h3 {
+			text-align: left;
+			margin: 0 0 $grid-gutter-width;
+			@media(max-width:$screen-xs-max){
+				font-size: 22px;
+			}
+		}
+		.nav-header {
+			display: none;
+		}
+	}
+	.fundraising-progress-explanation {
+		display: none;
+		margin-bottom: $grid-gutter-width/2;
+		p {
+			@media(max-width:$screen-xs-max){
+				font-size: 14px;
+			}
+		}
+		a.btn {
+			width: 100%;
+			margin-bottom: $grid-gutter-width/2;
+		}
+		.close-progress-bar {
+			color: #333;
+			background-color: transparent;
+		}
+	}
+	.fundraising-progress-bar {
+		$border: 3px solid #333;
+		.progress {
+			height: 29px;
+			border-right: $border;
+			margin-bottom: 0;
+			border-radius: 4px 0 0 4px;
+			.progress-bar{
+			    font-size: 14px;
+			    line-height: 29px;
+			    &.cea {
+			    	background-color: $cea;
+			    }
+			    &.gwwc {
+			    	background-color: $gwwc;
+			    }
+			    &.eighty-thousand-hours {
+			    	background-color: $eightythousandhours;
+			    }
+			    &.gpp {
+			    	background-color: $gpp;
+			    }
+			    &.eao {
+			    	background-color: $eao;
+			    }
+			}
+		}
+		.target {
+			font-weight: 700;
+			text-align: right;
+			padding-right: $grid-gutter-width/2;
+			border-right: $border;
+		}
+		.progress-bar {
+			transition: none;
+		}
+	}
+}
+.navbar {
+	.fundraising-progress-wrapper {
+
+		.fundraising-progress-content {
+			background-color: transparent;
+			margin: 0 $grid-gutter-width/2*-1;
+			padding: $grid-gutter-width/2;
+			border-bottom: $grid-gutter-width/2 solid #444;
+			@media(min-width:$screen-md){
+				padding: $grid-gutter-width 0;
+			}
+		}
+		.fundraising-progress-header {
+			.nav-header {
+				display: block;
+			}
+			.regular-header {
+				display: none;
+			}
+		}
+		.fundraising-progress-explanation {
+			display: block;
+		}
+	}
+}
