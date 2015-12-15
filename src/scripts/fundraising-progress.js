@@ -1,5 +1,4 @@
 (function($,cookies){
-	console.log('Fundaising called')
 
 	var fundraisingProgressWrapper = $('.fundraising-progress-wrapper');
 	
