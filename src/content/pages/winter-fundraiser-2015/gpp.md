@@ -6,7 +6,7 @@ menuOrder: "4"
 
 Every day, policymakers, foundations, and individuals are making tough trade-offs. Prioritising is never easy - and it is hardest when we’re making big, evidence-based decisions about how to make the world better off. The Global Priorities Project exists to make these trade-offs easier to evaluate robustly. We are a collaboration between the Centre for Effective Altruism and the Future of Humanity Institute at the University of Oxford.
 
-p class="center"><a href="/donate" class="btn btn-primary btn-lg"  target="_blank"><i class="fa fa-edit"></i> Donate now!</a></p>
+<p class="center"><a href="/donate" class="btn btn-primary btn-lg"  target="_blank"><i class="fa fa-edit"></i> Donate now!</a></p>
 
 This year, we made significant progress and produced tangible results:
 
@@ -39,7 +39,7 @@ Read our [work](http://globalprioritiesproject.org/2015/10/update/) [update](htt
 
 [Email me](mailto:seb@prioritisation.org) to discuss any questions you might have.
 
-p class="center"><a href="/donate" class="btn btn-primary btn-lg"  target="_blank"><i class="fa fa-edit"></i> Donate now!</a></p>
+<p class="center"><a href="/donate" class="btn btn-primary btn-lg"  target="_blank"><i class="fa fa-edit"></i> Donate now!</a></p>
 
 ### The first £35,000 of donations to us this winter will be matched
 
