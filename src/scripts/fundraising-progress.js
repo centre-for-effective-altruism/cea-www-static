@@ -15,7 +15,7 @@
 	}
 
 	var fundraisingProgressContent = $('.fundraising-progress-content');
-	var daysLeftDisplay = fundraisingProgressContent.find('.days-left');
+	//var daysLeftDisplay = fundraisingProgressContent.find('.days-left');
 	
 	fundraisingProgressContent.hide();
 	
@@ -38,8 +38,8 @@
 
 	
 	// calculate days remaining
-	daysLeft = daysLeft(daysLeftDisplay.attr('data-end-date'))
-	daysLeftDisplay.text(daysLeft + (daysLeft>1 ? " days" : " day") )
+	//daysLeft = daysLeft(daysLeftDisplay.attr('data-end-date'))
+	//daysLeftDisplay.text(daysLeft + (daysLeft>1 ? " days" : " day") )
 	
 	// update progress bar on the fly
 	$.get('https://api.centreforeffectivealtruism.org/v1/fundraising/progress',function(data){
