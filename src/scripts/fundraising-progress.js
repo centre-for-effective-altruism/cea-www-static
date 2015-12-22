@@ -93,7 +93,11 @@
 		var remainingAmount = progressBar.find('.remaining-amount');
 		var targetAmount = progressBar.find('.target-amount');
 		// set org name
-		orgName.text(data.organisationname)
+		if(data.organisationname == "Centre for Effective Altruism"){
+			orgName.text(data.organisationname + " - Unrestricted")
+		} else {
+			orgName.text(data.organisationname)
+		}
 		// set donated bar
 		donatedBar.width(data.progress + '%').addClass(data.organisationslug);
 		donatedAmount.text(formatNumber(data.donations))
