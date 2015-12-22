@@ -23,14 +23,6 @@ As a whole, CEA is committed to making sure that effective altruist ideas reach 
 
 Supporting all of this is our operations team which delivers shared services that let each project focus on delivering their core objectives.
 
-Each part of CEA will be raising more this winter to help us hire great people, cover our costs for the year ahead, and make our existing work better and bigger.
-
-- Giving What We Can aims to raise £475,000 and still needs £282,000 to reach that goal.
-- 80,000 Hours aims to raise £220,000 and still needs £48,000 to reach that goal.
-- EA Outreach aims to raise £474,000 and still needs £274,000 to reach that goal.
-- Global Priorities Project aims to raise £300,000 and still needs £160,000 to reach that goal.
-- CEA shared services aim to raise £200,000 and still need £150,000 to reach that goal.
-
-Each organisation will be communicating more about their plans and funding needs. You can find an overview of all of our work in the [2015 CEA Winter Prospectus](/files/Fundraising-Prospectus-Winter-2015.pdf).
+Each part of CEA will be raising more this winter to help us hire great people, cover our costs for the year ahead, and make our existing work better and bigger. Each organisation will be communicating more about their plans and funding needs. You can find an overview of all of our work in the [2015 CEA Winter Prospectus](/files/Fundraising-Prospectus-Winter-2015.pdf).
 
 <p class="center"><a href="/donate" class="btn btn-primary btn-lg"  target="_blank"><i class="fa fa-heart"></i> Donate now!</a></p>
