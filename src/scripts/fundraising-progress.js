@@ -1,4 +1,4 @@
-(function($,cookies){
+/*(function($,cookies){
 
 	var fundraisingProgressWrapper = $('.fundraising-progress-wrapper');
 	
@@ -120,3 +120,4 @@
 		return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",").split('.')[0];
 	}
 })(jQuery,Cookies)
+*/
