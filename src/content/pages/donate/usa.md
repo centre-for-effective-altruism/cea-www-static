@@ -46,6 +46,7 @@ _Checks can be mailed to the address below, however please consider making an el
 
 Please make the check payable to ‘Centre for Effective Altruism USA Inc.’, then mail to:
 
+Centre for Effective Altruism USA Inc.
 10 Witherell St
 Suite 1403
 Detroit, MI 48226
