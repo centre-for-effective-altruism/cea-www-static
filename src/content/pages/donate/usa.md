@@ -32,6 +32,20 @@ You can also send donations up to $2500 via email or text message if you bank wi
 
 <div class="col-sm-4">
 
+<h3><i class="fa fa-usd"></i> PayPal</h3>
+If you have a US PayPal account, you may be able to donate to us without fees. Clicking this button will take you to the PayPal site to complete a transaction. Please specify any restriction in the "notes" section.
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="L7KA4QJRP6GZ2">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="Donate now!" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+</div>	
+
+<div class="col-sm-4">
+
 <h3><i class="fa fa-usd"></i> Venmo</h3>
 
 You may now donate to us fee-free using [Venmo](https://venmo.com/). Just search for **@Centrefor-EffectiveAltruism** and tell us which project you would like your donation to go to in the comment section. This is our preferred donation method for donations up to $3000
