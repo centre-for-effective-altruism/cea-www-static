@@ -20,7 +20,7 @@ We run recruitment rounds roughly every six months, we've just wrapped up our Oc
 
 *Please note - applications for the positions listed below have now closed*
 
-Here's a list of positions we advertised for in October. We'll be looking to hire the next batch of talented recruits to work in our beautiful Oxford offices from April 2016.
+Here's a list of positions we advertised for in October. Contact us if you'd like to be notified when we open applications for our next batch of talented recruits to join us in our beautiful Oxford offices.
 
 <ul>
 	<li><a class="gwwc" href="/careers/giving-what-we-can-director-of-growth">Giving What We Can: Director of Growth</a></li>
