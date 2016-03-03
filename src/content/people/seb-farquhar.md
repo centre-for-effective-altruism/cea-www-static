@@ -1,7 +1,7 @@
 ---
 title: Seb Farquhar
 position: Executive Director
-organisation: cea
+organisation: gpp
 staffType: staff
 menuOrder: "0"
 published: true
