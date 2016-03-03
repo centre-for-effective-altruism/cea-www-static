@@ -1,11 +1,11 @@
 ---
 title: Peter Buckley
 position: Analyst
-featuredImage: /images/people/peterbuckley.jpg
+featuredImage: /images/peter-buckley.jpg
 cmsUserSlug: peter-buckley
 date: 2015-11-30T00:00:00.000Z
-organisation: eao
-staffType: contractor
+organisation: cea
+staffType: usa
 published: true
 menuOrder: 8
 ---

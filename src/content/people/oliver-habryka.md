@@ -1,11 +1,11 @@
 ---
 title: Oliver Habryka
 position: Director of Strategy
-featuredImage: /images/people/11947563_1008077672568139_1017683717867352200_n.jpg
+featuredImage: /images/oliver-habryka.jpg
 cmsUserSlug: ""
 date: 2015-12-01 
-organisation: eao
-staffType: contractor
+organisation: cea
+staffType: usa
 published: false
 menuOrder: 10
 ---

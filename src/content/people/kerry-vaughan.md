@@ -1,8 +1,8 @@
 ---
 title: Kerry Vaughan
 position: Executive Director
-organisation: eao
-staffType: contractor
+organisation: cea
+staffType: usa
 menuOrder: "4"
 published: true
 date: "2015-07-20 12:25 +0100"

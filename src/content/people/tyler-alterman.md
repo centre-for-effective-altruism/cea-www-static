@@ -1,8 +1,8 @@
 ---
 published: true
 title: Tyler Alterman
-organisation: eao
-staffType: contractor
+organisation: cea
+staffType: usa
 menuOrder: "6"
 date: "2015-07-19 19:09 +0100"
 featuredImage: "/images/tyler-alterman.jpg"

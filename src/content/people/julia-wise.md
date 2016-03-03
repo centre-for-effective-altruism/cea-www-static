@@ -1,11 +1,11 @@
 ---
 title: Julia Wise
 position: Community Manager
-featuredImage: /images/people/julia-portrait-1.jpg
+featuredImage: /images/julia-wise.jpg
 cmsUserSlug: julia-wise
 date: 2015-09-22T00:00:00.000Z
-organisation: eao
-staffType: contractor
+organisation: cea
+staffType: usa
 published: true
 menuOrder: 8
 ---

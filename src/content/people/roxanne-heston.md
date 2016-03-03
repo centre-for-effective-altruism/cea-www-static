@@ -1,11 +1,11 @@
 ---
 title: Roxanne Heston
 position: Analyst
-featuredImage: /images/people/roxanne-heston_edited-3.jpg
+featuredImage: /images/roxanne-heston.jpg
 cmsUserSlug: roxanne-heston
 date: 2015-11-30T00:00:00.000Z
-organisation: eao
-staffType: contractor
+organisation: cea
+staffType: usa
 published: true
 menuOrder: "8"
 ---
