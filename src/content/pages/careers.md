@@ -16,6 +16,10 @@ Read more about [why we're a fantastic place to work](/careers/why-work-with-us/
 
 We run recruitment rounds roughly every six months, we've just wrapped up our October hiring round, you can read more about the positions below to get a feel for what we're looking for. 
 
+If none of these take your fancy, we're always on the lookout for talented, experienced professionals to join our team. We're growing quickly and our plans change rapidly. If you think you'd be a good fit, email us and describe how you could use your skills and experience to support one of our existing projects, or start your own!
+
+Please email **recruitment&nbsp;[at]&nbsp;centreforeffectivealtruism&nbsp;[dot]&nbsp;org** if you have any queries. Please note that we will not accept unsolicited CVs without a cover letter detailing which project you are interested in and how your skills and experience are relevant to our mission. 
+
 #### Previous opportunities
 
 *Please note - applications for the positions listed below have now closed*
@@ -38,16 +42,9 @@ Here's a list of positions we advertised for in October. Contact us if you'd lik
 	<li><a class="80k" href="/careers/80-000-hours-product-engineer">80,000 Hours: Product Engineer</a></li>
 </ul>
 
-We're also taking applications for internship positions at Giving What We Can. Please email recruitment[at]centreforeffectivealtruism.org with your CV and a cover letter to apply for an internship position. We usually take interns for 1-3 months, at any time of the year. Interns are encouraged to seek funding from their university if possible, however limited funding may be available from CEA where there is financial need.
-
-If none of these take your fancy, we're always on the lookout for talented, experienced professionals to join our team. We're growing quickly and our plans change rapidly. If you think you'd be a good fit, email us and describe how you could use your skills and experience to support one of our existing projects, or start your own!
-
-Please email **recruitment&nbsp;[at]&nbsp;centreforeffectivealtruism&nbsp;[dot]&nbsp;org** if you have any queries or would like to request any alternate arrangements to our usual application process. 
+In addition to full-time positions, we occasionally offer internships to outstanding applicants. Giving What We Can and the Global Priorities Project run a summer internship programme each year and generally accept applications in the first quarter of each year. If you are interested in an internship position please email recruitment[at]centreforeffectivealtruism.org with your CV and a cover letter explaining which project you would like to intern with and how your skills and experience could contribute to our programmes. You might like to propose a specific project or a particular area of work you are interested in to help us decide whether an internship is a good fit. 
 
 All jobs are based at our offices in the University of Oxford, unless otherwise specified. We can usually rent accommodation in Oxford to new employees. Where possible, we encourage people who are considering working here to visit the office and get to know us in person.
-
-### Positions at the Future of Humanity Institute
-The Future of Humanity Institute, which we share an office with, is also looking for some researchers to join their team. Working at FHI is a great opportunity for impact if you are particularly interested in existential risk or far-future concerns. The research team at FHI is multi-disciplinary, and they're hoping to find new researchers with a background in computer science and machine learning and policy analysts with a background in the governance of emerging technologies. [Read more about the openings at FHI here](http://www.fhi.ox.ac.uk/vacancies/)
 
 ## Applying from outside the EU
 
@@ -56,6 +53,9 @@ We can often provide visas for interns from outside the EU, and sometimes do the
 We can usually hire under-30s from Canada, New Zealand and Australia on [Tier 5 visas](https://www.gov.uk/tier-5-youth-mobility/overview).
 
 <p class="center"><a href="/contact" class="btn btn-primary">More questions? Get in touch <i class="fa fa-at"></i> <i class="fa fa-phone"></i> <i class="fa fa-envelope"></i></a></p>
+
+### Positions at the Future of Humanity Institute
+The Future of Humanity Institute, which we share an office with, is also looking for some researchers to join their team. Working at FHI is a great opportunity for impact if you are particularly interested in existential risk or far-future concerns. The research team at FHI is multi-disciplinary, and they're hoping to find new researchers with a background in computer science and machine learning and policy analysts with a background in the governance of emerging technologies. [Read more about the openings at FHI here](http://www.fhi.ox.ac.uk/vacancies/)
 
 ## What are we looking for?
 
@@ -76,14 +76,13 @@ The specifics of what we are looking for depend on the role and details can be f
 
 Of course this will depend on the role, but good general advice includes trying to do some of the following:
 
-*   Study hard, including gaining useful knowledge and skills outside of the classroom.
-*   Degrees we have found provide useful training include: philosophy, statistics, economics, mathematics and physics. However, we are hoping to hire people from a more diverse range of academic and practical backgrounds in the future. In particular, we hope to find new members of the team who have worked in operations, movement building, advocacy and creative industries.
+*   Gain professional experience in established organisations where you will learn a lot, such as working in consulting, government, politics, advocacy, law, think-tanks, movement building, journalism, etc. You can learn more about building up your ‘career capital’ [here](https://80000hours.org/career-guide/).
+*   If you're still a student, some degree programmes we have found to provide useful training include: philosophy, statistics, economics, mathematics and physics. However, we are hoping to hire people from a more diverse range of academic and practical backgrounds in the future. In particular, we hope to find new members of the team who have worked in operations, movement building, advocacy and creative industries.
 *   Write regularly and consider starting a blog.
 *   Manage student and workplace clubs or societies.
-*   Learn how to run events, such as a conferences or large parties.
+*   Learn how to run events, such as a conferences or large parties
 *   Work on exciting projects in your spare time.
 *   Found a start-up business or non-profit, or join someone else early in the life of a new project.
-*   Gain professional experience in established organisations where you will learn a lot, such as working in consulting, government, politics, advocacy, law, think-tanks, movement building, journalism, etc. You can learn more about building up your ‘career capital’ [here](https://80000hours.org/career-guide/).
 *   Get experience promoting effective altruist ideas online, or to people you already know.
 *   Use [80,000 Hours’ research](https://80000hours.org/) to do a detailed analysis of your own future career plans.
 
