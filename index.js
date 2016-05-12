@@ -33,6 +33,7 @@ var concat = require('metalsmith-concat');
 var uglify = require('metalsmith-uglify');
 var autoprefixer = require('metalsmith-autoprefixer');
 var uncss = require('metalsmith-uncss');
+var htmlMinifier = require("metalsmith-html-minifier");
 var cleanCSS = require('metalsmith-clean-css');
 var subsetfonts = require('metalsmith-subsetfonts');
 // utility
@@ -358,13 +359,11 @@ colophonemes
 			backgrounds: ['#banner'],
 			blurSmall: {width:100,amount:1,pattern:"images/banners/*"}
 		}))
+		.use(logMessage('Cleaning HTML files'))
+		.use(htmlMinifier("*.html",{
+            minifyJS: true
+        }))
 		.use(logMessage('Cleaning CSS files'))
-		.use(beautify({
-			html: true,
-			js: false,
-			css: true,
-			wrap_line_length: 50
-		}))	
 		.use(uncss({
 			basepath: 'styles',
 			css: ['app.css'],
@@ -411,8 +410,7 @@ colophonemes
 		.use(beautify({
 			html: true,
 			js: false,
-			css: true,
-			wrap_line_length: 80
+			css: true
 		}))		
 		;
 	}
