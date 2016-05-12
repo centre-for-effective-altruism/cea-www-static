@@ -1,5 +1,32 @@
 extends page
 
+block head
+	script(type="application/ld+json").
+		{
+			"@context" : "http://schema.org",
+			"@type" : "WebSite",
+			"name" : "Centre For Effective Altruism",
+			"url" : "https://www.centreforeffectivealtruism.org"
+		}
+	script(type="application/ld+json").
+		{
+			"@context" : "http://schema.org",
+			"@type" : "Organization",
+			"url" : "https://www.centreforeffectivealtruism.org",
+			"logo": {
+				"@type": "ImageObject",
+				"url": "https://www.centreforeffectivealtruism.org/images/logos/cea-logo-schema-126x60.png",
+				"width": 126,
+				"height": 60
+			},
+			"contactPoint" : [
+				{ "@type" : "ContactPoint",
+					"telephone" : "+44 (0) 1865 241188",
+					"contactType" : "customer service"
+				} 
+			]
+		}
+
 block header
 	//- h1.page-title Welcome to the #{siteInfo.title}
 	img.img-responsive#site-logo(src="/images/logos/cea-logo-banner.png")
