@@ -8,7 +8,7 @@ template: fundraising.jade
 ---
 
 
-![William MacAskill at EA Global 2015](https://github.com/centre-for-effective-altruism/cea-www-static/images/will-eaglobal-2015 "William MacAskill at EA Global 2015")
+![William MacAskill at EA Global 2015]("/images/will-eaglobal-2015.jpg")
 
 <p class="center"><a href="/donate" class="btn btn-primary btn-lg"  target="_blank"><i class="fa fa-heart"></i> Donate now!</a></p>
 
